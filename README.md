@@ -302,6 +302,7 @@
 
 ## Scala 
 
+- [BigDL](https://github.com/intel-analytics/BigDL) - BigDL: Distributed Deep Learning Framework for Apache Spark
 - [spark-fim](https://github.com/mikemybytes/spark-fim) - Frequent Itemsets Mining algorithms for Apache Spark
 - [reactive-machine-learning-systems](https://github.com/jeffreyksmithjr/reactive-machine-learning-systems) - Code from the book Machine Learning Systems
 - [TransmogrifAI](https://github.com/salesforce/TransmogrifAI) - TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand-tuning
