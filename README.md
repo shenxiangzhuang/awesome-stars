@@ -272,7 +272,7 @@
 - [lihang_book_algorithm](https://github.com/WenDesi/lihang_book_algorithm) - 致力于将李航博士《统计学习方法》一书中所有算法实现一遍
 - [cChardet](https://github.com/PyYoshi/cChardet) - universal character encoding detector
 - [awesome-scientific-python](https://github.com/rossant/awesome-scientific-python) - A curated list of awesome scientific Python resources
-- [example-code](https://github.com/fluentpython/example-code) - Example code for the book Fluent Python
+- [example-code](https://github.com/fluentpython/example-code) - Example code for the book Fluent Python, First Edition (O'Reilly, 2015)
 - [projects](https://github.com/goelhardik/projects) - Projects. And then some.
 - [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 - [requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
