@@ -53,6 +53,7 @@
 
 ## C++ 
 
+- [IBMGenerator](https://github.com/zakimjz/IBMGenerator) - IBM Synthetic Data Generator for Itemsets and Sequences
 - [dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 - [Hands-On-Machine-Learning-with-CPP](https://github.com/PacktPublishing/Hands-On-Machine-Learning-with-CPP) - Hands-On Machine Learning with C++, published by Packt
 - [frequent-pattern-mining](https://github.com/hsinhoyeh/frequent-pattern-mining) - 
