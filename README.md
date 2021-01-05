@@ -125,6 +125,8 @@
 
 ## Jupyter Notebook 
 
+- [makeyourownneuralnetwork](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork) - Code for the Make Your Own Neural Network book
+- [DeepLearning](https://github.com/DataForScience/DeepLearning) - Deep Learning From Scratch
 - [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
 - [tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series:
 - [fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
@@ -200,6 +202,7 @@
 
 ## Python 
 
+- [ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [FIS](https://github.com/fars-data-analysis/FIS) - Frequent Itemsets in Map-Reduce with Spark
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
