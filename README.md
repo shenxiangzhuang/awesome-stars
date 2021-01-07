@@ -239,7 +239,7 @@
 - [ml-glossary](https://github.com/bfortuner/ml-glossary) - Machine learning glossary
 - [Clique](https://github.com/georgekatona/Clique) - Python implementation of the CLIQUE subspace clustering algorithm.
 - [koalas](https://github.com/databricks/koalas) - Koalas: pandas API on Apache Spark
-- [d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with code, math, and discussions. Available in multi-frameworks. Adopted at 140 universities.
+- [d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with code, math, and discussions. Available in multi-frameworks. Adopted at 175 universities.
 - [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning
 - [ctci-solutions](https://github.com/w-hat/ctci-solutions) - Python solutions to Cracking the Coding Interview (6th edition)
 - [rmq](https://github.com/maoxc/rmq) - Range minimum query data structures
@@ -321,6 +321,7 @@
 
 ## TeX 
 
+- [sysu-graduate-thesis](https://github.com/chenkenbio/sysu-graduate-thesis) - Sun Yat-sen University Graduate Thesis Template for School of Computer and Engineering (based on https://github.com/tuna/thuthesis)
 - [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers
 - [milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 - [sysu-beamer-template](https://github.com/yxnchen/sysu-beamer-template) - A LaTeX beamer template for SYSU. 中山大学LaTeX演示模板
