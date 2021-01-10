@@ -126,6 +126,8 @@
 
 ## Jupyter Notebook 
 
+- [NNDL-solutions](https://github.com/TimotheeChauvin/NNDL-solutions) - Solutions of the exercises and problems from Michael Nielsen's book Neural Networks and Deep Learning: http://neuralnetworksanddeeplearning.com/
+- [ml-design-patterns](https://github.com/GoogleCloudPlatform/ml-design-patterns) - Source code accompanying O'Reilly book: Machine Learning Design Patterns
 - [pyprobml](https://github.com/probml/pyprobml) - Python code for "Machine learning: a probabilistic perspective" (2nd edition)
 - [makeyourownneuralnetwork](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork) - Code for the Make Your Own Neural Network book
 - [DeepLearning](https://github.com/DataForScience/DeepLearning) - Deep Learning From Scratch
@@ -167,6 +169,8 @@
 
 ## Others 
 
+- [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern) - System design patterns for machine learning
+- [ml-visuals](https://github.com/dair-ai/ml-visuals) - 🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.
 - [awesome-TS-anomaly-detection](https://github.com/rob-med/awesome-TS-anomaly-detection) - List of tools & datasets for anomaly detection on time-series data.
 - [readings](https://github.com/hanhanwu/readings) - 
 - [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
