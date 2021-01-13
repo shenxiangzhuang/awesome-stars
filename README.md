@@ -139,7 +139,7 @@
 - [Optimus](https://github.com/ironmussa/Optimus) - :truck: Agile Data Preparation Workflows made easy with dask, cudf, dask_cudf and pyspark
 - [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity
 - [interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) - Book about interpretable machine learning
-- [lectures-labs](https://github.com/m2dsupsdlclass/lectures-labs) - Slides and Jupyter notebooks for the Deep Learning lectures at M2 Data Science Université Paris Saclay
+- [lectures-labs](https://github.com/m2dsupsdlclass/lectures-labs) - Slides and Jupyter notebooks for the Deep Learning lectures at Master Year 2 Data Science from Institut Polytechnique de Paris
 - [SOMPY](https://github.com/sevamoo/SOMPY) - A Python Library for Self Organizing Map (SOM)
 - [Distributed-Statistical-Computing](https://github.com/feng-li/Distributed-Statistical-Computing) - Teaching Materials for Distributed Statistical Computing (大数据分布式计算教学材料)
 - [exercise](https://github.com/nndl/exercise) - exercise for nndl
@@ -192,7 +192,7 @@
 - [Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-- [cs-quality-courses](https://github.com/jackwener/cs-quality-courses) - 计算机的优秀课程
+- [CS-Quality-Courses](https://github.com/jackwener/CS-Quality-Courses) - 计算机的优秀课程
 - [Seminar-PRML](https://github.com/ECNUdase/Seminar-PRML) - 《Pattern Recognition and Machine Learning》阅读讨论班
 - [KnowledgeGraphCourse](https://github.com/npubird/KnowledgeGraphCourse) - 东南大学《知识图谱》研究生课程
 - [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
@@ -209,6 +209,9 @@
 
 ## Python 
 
+- [wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
+- [poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
+- [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
 - [ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [FIS](https://github.com/fars-data-analysis/FIS) - Frequent Itemsets in Map-Reduce with Spark
