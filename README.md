@@ -114,6 +114,8 @@
 
 ## JavaScript 
 
+- [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+- [react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
 - [grafana-spark-dashboards](https://github.com/hammerlab/grafana-spark-dashboards) - Scripts for generating Grafana dashboards for monitoring Spark jobs
 - [idea-one-dark-theme](https://github.com/yurtaev/idea-one-dark-theme) - One Dark theme for IntelliJ IDEA, PhpStorm, PyCharm, RubyMine, WebStorm
 - [cubesviewer](https://github.com/jjmontesl/cubesviewer) - Explore and visualize analytical datasets
@@ -126,6 +128,10 @@
 
 ## Jupyter Notebook 
 
+- [stat453-deep-learning-ss20](https://github.com/rasbt/stat453-deep-learning-ss20) - STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)
+- [pattern_classification](https://github.com/rasbt/pattern_classification) - A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks
+- [machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments) - 🤖 Interactive Machine Learning experiments: 🏋️models training + 🎨models demo
+- [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [NNDL-solutions](https://github.com/TimotheeChauvin/NNDL-solutions) - Solutions of the exercises and problems from Michael Nielsen's book Neural Networks and Deep Learning: http://neuralnetworksanddeeplearning.com/
 - [ml-design-patterns](https://github.com/GoogleCloudPlatform/ml-design-patterns) - Source code accompanying O'Reilly book: Machine Learning Design Patterns
 - [pyprobml](https://github.com/probml/pyprobml) - Python code for "Machine learning: a probabilistic perspective" (2nd edition)
@@ -169,6 +175,7 @@
 
 ## Others 
 
+- [996.Leave](https://github.com/623637646/996.Leave) - 逃离996
 - [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern) - System design patterns for machine learning
 - [ml-visuals](https://github.com/dair-ai/ml-visuals) - 🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.
 - [awesome-TS-anomaly-detection](https://github.com/rob-med/awesome-TS-anomaly-detection) - List of tools & datasets for anomaly detection on time-series data.
