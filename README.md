@@ -41,6 +41,7 @@
 
 ## C 
 
+- [db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
 - [arules](https://github.com/cran/arules) - :exclamation: This is a read-only mirror of the CRAN R package repository.  arules — Mining Association Rules and Frequent Itemsets. Homepage: https://github.com/mhahsler/arules  Report bugs for this package: https://github.com/mhahsler/arules/issues
 - [leetcode](https://github.com/begeekmyfriend/leetcode) - LeetCode in pure C
 - [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
@@ -53,6 +54,7 @@
 
 ## C++ 
 
+- [bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational)
 - [IBMGenerator](https://github.com/zakimjz/IBMGenerator) - IBM Synthetic Data Generator for Itemsets and Sequences
 - [dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 - [Hands-On-Machine-Learning-with-CPP](https://github.com/PacktPublishing/Hands-On-Machine-Learning-with-CPP) - Hands-On Machine Learning with C++, published by Packt
@@ -94,6 +96,7 @@
 
 ## Haskell 
 
+- [dfdb](https://github.com/dfithian/dfdb) - Write my own database from scratch
 - [cs43](https://github.com/stanfordhaskell/cs43) - Course materials for Stanford's CS43: Functional Programming Paradigms
 - [HLearn](https://github.com/mikeizbicki/HLearn) - Homomorphic machine learning
 - [dh-core](https://github.com/DataHaskell/dh-core) - Functional data science
