@@ -54,6 +54,7 @@
 
 ## C++ 
 
+- [cmake-cookbook](https://github.com/dev-cafe/cmake-cookbook) - CMake Cookbook recipes.
 - [bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational)
 - [IBMGenerator](https://github.com/zakimjz/IBMGenerator) - IBM Synthetic Data Generator for Itemsets and Sequences
 - [dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
