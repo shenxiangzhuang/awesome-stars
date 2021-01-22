@@ -50,7 +50,6 @@
 
 ## C# # 
 
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [gitextensions](https://github.com/gitextensions/gitextensions) - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
 
 ## C++ 
@@ -63,6 +62,7 @@
 - [frequent-pattern-mining](https://github.com/hsinhoyeh/frequent-pattern-mining) - 
 - [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) - header only, dependency-free deep learning framework in C++14
 - [caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [TCP-Lab](https://github.com/comzyh/TCP-Lab) - Stanford cs144 lab，an elegant TCP/IP implementation
 - [CS106L-Fall-2020](https://github.com/nraghuraman/CS106L-Fall-2020) - 
 - [sponge](https://github.com/CS144/sponge) - CS144 Lab Assignments
@@ -106,6 +106,7 @@
 
 ## Java 
 
+- [vanillacore](https://github.com/vanilladb/vanillacore) - The core engine of VanillaDB
 - [lac](https://github.com/kdis-lab/lac) - Library for associative classification
 - [t-digest](https://github.com/tdunning/t-digest) - A new data structure for accurate on-line accumulation of rank-based statistics such as quantiles and trimmed means
 - [plantuml](https://github.com/plantuml/plantuml) - Generate UML diagram from textual description
@@ -118,6 +119,7 @@
 
 ## JavaScript 
 
+- [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
 - [grafana-spark-dashboards](https://github.com/hammerlab/grafana-spark-dashboards) - Scripts for generating Grafana dashboards for monitoring Spark jobs
