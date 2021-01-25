@@ -115,7 +115,7 @@
 - [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
 - [BigData-Notes](https://github.com/heibaiying/BigData-Notes) - 大数据入门指南  :star:
 - [spark-twitter-analysis](https://github.com/felipekunzler/spark-twitter-analysis) - Analyse a twitter dataset with Spark and vizualize the results on a React dashboard.
-- [programming-exercises](https://github.com/clfm/programming-exercises) - :muscle: Efficient solutions and notes for programming exercises from sites like HackerRank and LeetCode
+- [programming-exercises](https://github.com/clfm/programming-exercises) - Efficient solutions and notes for programming exercises from sites like HackerRank and LeetCode
 
 ## JavaScript 
 
