@@ -182,6 +182,8 @@
 
 ## Others 
 
+- [awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
+- [awesome-anomaly-detection](https://github.com/zhuyiche/awesome-anomaly-detection) - A complete list of papers on anomaly detection.
 - [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
 - [996.Leave](https://github.com/623637646/996.Leave) - 逃离996
 - [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern) - System design patterns for machine learning
@@ -267,7 +269,7 @@
 - [ml-glossary](https://github.com/bfortuner/ml-glossary) - Machine learning glossary
 - [Clique](https://github.com/georgekatona/Clique) - Python implementation of the CLIQUE subspace clustering algorithm.
 - [koalas](https://github.com/databricks/koalas) - Koalas: pandas API on Apache Spark
-- [d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with code, math, and discussions. Available in multi-frameworks. Adopted at 175 universities.
+- [d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 175 universities.
 - [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning
 - [ctci-solutions](https://github.com/w-hat/ctci-solutions) - Python solutions to Cracking the Coding Interview (6th edition)
 - [rmq](https://github.com/maoxc/rmq) - Range minimum query data structures
