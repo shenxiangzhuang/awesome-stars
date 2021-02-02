@@ -134,6 +134,7 @@
 
 ## Jupyter Notebook 
 
+- [GraphNeuralNetwork](https://github.com/FighterLYL/GraphNeuralNetwork) - 《深入浅出图神经网络：GNN原理解析》配套代码
 - [DLFS_code](https://github.com/SethHWeidman/DLFS_code) - Code for the book Deep Learning From Scratch, from O'Reilly September 2019
 - [shapash](https://github.com/MAIF/shapash) - Shapash makes Machine Learning models transparent and understandable by everyone
 - [stat453-deep-learning-ss20](https://github.com/rasbt/stat453-deep-learning-ss20) - STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)
