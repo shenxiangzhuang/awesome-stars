@@ -119,6 +119,7 @@
 
 ## JavaScript 
 
+- [rpsychologist-com](https://github.com/rpsychologist/rpsychologist-com) - Source code for https://rpsychologist.com
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
