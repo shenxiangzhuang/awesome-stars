@@ -119,6 +119,7 @@
 
 ## JavaScript 
 
+- [CBoard](https://github.com/TuiQiao/CBoard) - An easy to use, self-service open BI reporting and BI dashboard platform.
 - [rpsychologist-com](https://github.com/rpsychologist/rpsychologist-com) - Source code for https://rpsychologist.com
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
@@ -230,6 +231,8 @@
 
 ## Python 
 
+- [superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [olapy](https://github.com/abilian/olapy) - OlaPy, an experimental OLAP engine based on Pandas
 - [psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 - [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [book](https://github.com/cosmicpython/book) - A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho.
