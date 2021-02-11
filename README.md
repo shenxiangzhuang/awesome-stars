@@ -136,6 +136,7 @@
 
 ## Jupyter Notebook 
 
+- [cs182](https://github.com/leehanchung/cs182) - Berkeley CS182/282A Designing, Visualizing and Understanding Deep Neural Networks
 - [GraphNeuralNetwork](https://github.com/FighterLYL/GraphNeuralNetwork) - 《深入浅出图神经网络：GNN原理解析》配套代码
 - [DLFS_code](https://github.com/SethHWeidman/DLFS_code) - Code for the book Deep Learning From Scratch, from O'Reilly September 2019
 - [shapash](https://github.com/MAIF/shapash) - Shapash makes Machine Learning models transparent and understandable by everyone
@@ -186,6 +187,7 @@
 
 ## Others 
 
+- [awesome-full-stack-machine-courses](https://github.com/leehanchung/awesome-full-stack-machine-courses) - Curated list of publicly accessible machine learning engineering courses from CalTech, Columbia, Berkeley, MIT, and Stanford.
 - [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [awesome-anomaly-detection](https://github.com/zhuyiche/awesome-anomaly-detection) - A complete list of papers on anomaly detection.
