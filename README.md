@@ -86,6 +86,7 @@
 
 ## HTML 
 
+- [dfdb](https://github.com/dfithian/dfdb) - Write my own database from scratch
 - [pml-book](https://github.com/probml/pml-book) - "Probabilistic Machine Learning" - a book series by Kevin Murphy
 - [stanford-cpp-library](https://github.com/zelenski/stanford-cpp-library) - Stanford C++ library used in CS106B/X courses
 - [concept-maps](https://github.com/rstudio/concept-maps) - Concept maps for all things data science
@@ -97,7 +98,6 @@
 
 ## Haskell 
 
-- [dfdb](https://github.com/dfithian/dfdb) - Write my own database from scratch
 - [cs43](https://github.com/stanfordhaskell/cs43) - Course materials for Stanford's CS43: Functional Programming Paradigms
 - [HLearn](https://github.com/mikeizbicki/HLearn) - Homomorphic machine learning
 - [dh-core](https://github.com/DataHaskell/dh-core) - Functional data science
@@ -233,6 +233,7 @@
 
 ## Python 
 
+- [loglizer](https://github.com/logpai/loglizer) - A log analysis toolkit for automated anomaly detection [ISSRE'16]
 - [qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies.
 - [superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [olapy](https://github.com/abilian/olapy) - OlaPy, an experimental OLAP engine based on Pandas
