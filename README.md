@@ -253,7 +253,7 @@
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [FIS](https://github.com/fars-data-analysis/FIS) - Frequent Itemsets in Map-Reduce with Spark
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
-- [FT-Tree](https://github.com/WeibinMeng/FT-Tree) - A toolkit for log template extraction
+- [FT-Tree](https://github.com/WeibinMeng/FT-Tree) - IWQoS 2017: A toolkit for log template extraction
 - [bitmap](https://github.com/wanji/bitmap) - BitMap class
 - [Metis](https://github.com/Tencent/Metis) - Metis is a learnware platform in the field of AIOps.
 - [river](https://github.com/online-ml/river) - 🌊 Online machine learning in Python
