@@ -136,6 +136,7 @@
 
 ## Jupyter Notebook 
 
+- [d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch) - This project reproduces the book Dive Into Deep Learning (www.d2l.ai), adapting the code from MXNet into PyTorch.
 - [StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - 
 - [Graph_Powered_ML_Workshop](https://github.com/joerg84/Graph_Powered_ML_Workshop) - Material and Notebooks for the Graph Powered ML Workshop.
 - [cs182](https://github.com/leehanchung/cs182) - Berkeley CS182/282A Designing, Visualizing and Understanding Deep Neural Networks
