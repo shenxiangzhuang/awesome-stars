@@ -86,7 +86,6 @@
 
 ## HTML 
 
-- [dfdb](https://github.com/dfithian/dfdb) - Write my own database from scratch
 - [pml-book](https://github.com/probml/pml-book) - "Probabilistic Machine Learning" - a book series by Kevin Murphy
 - [stanford-cpp-library](https://github.com/zelenski/stanford-cpp-library) - Stanford C++ library used in CS106B/X courses
 - [concept-maps](https://github.com/rstudio/concept-maps) - Concept maps for all things data science
@@ -98,6 +97,7 @@
 
 ## Haskell 
 
+- [dfdb](https://github.com/dfithian/dfdb) - Write my own database from scratch
 - [cs43](https://github.com/stanfordhaskell/cs43) - Course materials for Stanford's CS43: Functional Programming Paradigms
 - [HLearn](https://github.com/mikeizbicki/HLearn) - Homomorphic machine learning
 - [dh-core](https://github.com/DataHaskell/dh-core) - Functional data science
