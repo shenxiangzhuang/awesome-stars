@@ -217,7 +217,7 @@
 - [SparkInternals](https://github.com/JerryLead/SparkInternals) - Notes talking about the design and implementation of Apache Spark
 - [oi_slides](https://github.com/Trinkle23897/oi_slides) - 我的 OI 课件
 - [risk-management-note](https://github.com/WalterInSH/risk-management-note) - 🧯风险控制笔记，适用于互联网企业
-- [Python-Interview-Questions](https://github.com/ramlaxman/Python-Interview-Questions) - Answers for timely preparation of Python Interviews.
+- [Python-Interview-Curriculum](https://github.com/ramlaxman/Python-Interview-Curriculum) - Answers for timely preparation of Python Interviews.
 - [Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
