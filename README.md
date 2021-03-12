@@ -192,6 +192,7 @@
 
 ## Others 
 
+- [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 - [awesome-full-stack-machine-courses](https://github.com/leehanchung/awesome-full-stack-machine-courses) - Curated list of publicly accessible machine learning engineering courses from CalTech, Columbia, Berkeley, MIT, and Stanford.
 - [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
