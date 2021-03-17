@@ -137,6 +137,7 @@
 
 ## Jupyter Notebook 
 
+- [Winter2021_CS249_GNN](https://github.com/yichousun/Winter2021_CS249_GNN) - 
 - [dlwpt-code](https://github.com/deep-learning-with-pytorch/dlwpt-code) - Code for the book Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann.
 - [d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch) - This project reproduces the book Dive Into Deep Learning (www.d2l.ai), adapting the code from MXNet into PyTorch.
 - [StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - 
