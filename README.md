@@ -240,6 +240,8 @@
 
 ## Python 
 
+- [code](https://github.com/cosmicpython/code) - Example application code for the python architecture book
+- [THSS-CRACKER](https://github.com/SerCharles/THSS-CRACKER) - 清华软院课程攻略
 - [dgl](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
 - [recurrent-visual-attention](https://github.com/kevinzakka/recurrent-visual-attention) - A PyTorch Implementation of "Recurrent Models of Visual Attention"
 - [pytorch_basic_nmt](https://github.com/pcyin/pytorch_basic_nmt) - A simple yet strong implementation of neural machine translation in pytorch
