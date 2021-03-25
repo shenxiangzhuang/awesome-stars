@@ -241,6 +241,7 @@
 
 ## Python 
 
+- [facebookresearch/nevergrad](https://github.com/facebookresearch/nevergrad) - A Python toolbox for performing gradient-free optimization
 - [cosmicpython/code](https://github.com/cosmicpython/code) - Example application code for the python architecture book
 - [SerCharles/THSS-CRACKER](https://github.com/SerCharles/THSS-CRACKER) - 清华软院课程攻略
 - [dmlc/dgl](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
