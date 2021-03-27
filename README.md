@@ -87,7 +87,6 @@
 
 ## HTML 
 
-- [probml/pml-book](https://github.com/probml/pml-book) - "Probabilistic Machine Learning" - a book series by Kevin Murphy
 - [zelenski/stanford-cpp-library](https://github.com/zelenski/stanford-cpp-library) - Stanford C++ library used in CS106B/X courses
 - [rstudio/concept-maps](https://github.com/rstudio/concept-maps) - Concept maps for all things data science
 - [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises
@@ -153,6 +152,7 @@
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [TimotheeChauvin/NNDL-solutions](https://github.com/TimotheeChauvin/NNDL-solutions) - Solutions of the exercises and problems from Michael Nielsen's book Neural Networks and Deep Learning: http://neuralnetworksanddeeplearning.com/
 - [GoogleCloudPlatform/ml-design-patterns](https://github.com/GoogleCloudPlatform/ml-design-patterns) - Source code accompanying O'Reilly book: Machine Learning Design Patterns
+- [probml/pml-book](https://github.com/probml/pml-book) - "Probabilistic Machine Learning" - a book series by Kevin Murphy
 - [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Machine learning: a probabilistic perspective" (2nd edition)
 - [makeyourownneuralnetwork/makeyourownneuralnetwork](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork) - Code for the Make Your Own Neural Network book
 - [DataForScience/DeepLearning](https://github.com/DataForScience/DeepLearning) - Deep Learning From Scratch
