@@ -120,6 +120,7 @@
 
 ## JavaScript 
 
+- [ml5js/ml5-library](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web! 🤖
 - [Sporif/CustomHooks](https://github.com/Sporif/CustomHooks) - My own hooks for Vivaldi
 - [TuiQiao/CBoard](https://github.com/TuiQiao/CBoard) - An easy to use, self-service open BI reporting and BI dashboard platform.
 - [rpsychologist/rpsychologist-com](https://github.com/rpsychologist/rpsychologist-com) - Source code for https://rpsychologist.com
