@@ -11,6 +11,7 @@
   - [C#](#c#)
   - [C++](#c++)
   - [CMake](#cmake)
+  - [CSS](#css)
   - [Erlang](#erlang)
   - [Go](#go)
   - [HTML](#html)
@@ -77,6 +78,10 @@
 
 - [Akagi201/learning-cmake](https://github.com/Akagi201/learning-cmake) - learning cmake
 - [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
+
+## CSS 
+
+- [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 一个比较特别的 Hexo 主题
 
 ## Erlang 
 
@@ -249,6 +254,7 @@
 
 ## Python 
 
+- [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
 - [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
 - [facebookresearch/nevergrad](https://github.com/facebookresearch/nevergrad) - A Python toolbox for performing gradient-free optimization
 - [cosmicpython/code](https://github.com/cosmicpython/code) - Example application code for the python architecture book
