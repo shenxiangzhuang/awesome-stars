@@ -93,6 +93,8 @@
 
 ## HTML 
 
+- [MAIF/shapash](https://github.com/MAIF/shapash) - Shapash makes Machine Learning models transparent and understandable by everyone
+- [wemake-services/wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
 - [zelenski/stanford-cpp-library](https://github.com/zelenski/stanford-cpp-library) - Stanford C++ library used in CS106B/X courses
 - [rstudio/concept-maps](https://github.com/rstudio/concept-maps) - Concept maps for all things data science
 - [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises
@@ -153,7 +155,6 @@
 - [leehanchung/cs182](https://github.com/leehanchung/cs182) - Berkeley CS182/282A Designing, Visualizing and Understanding Deep Neural Networks
 - [FighterLYL/GraphNeuralNetwork](https://github.com/FighterLYL/GraphNeuralNetwork) - 《深入浅出图神经网络：GNN原理解析》配套代码
 - [SethHWeidman/DLFS_code](https://github.com/SethHWeidman/DLFS_code) - Code for the book Deep Learning From Scratch, from O'Reilly September 2019
-- [MAIF/shapash](https://github.com/MAIF/shapash) - Shapash makes Machine Learning models transparent and understandable by everyone
 - [rasbt/stat453-deep-learning-ss20](https://github.com/rasbt/stat453-deep-learning-ss20) - STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)
 - [rasbt/pattern_classification](https://github.com/rasbt/pattern_classification) - A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks
 - [trekhleb/machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments) - 🤖 Interactive Machine Learning experiments: 🏋️models training + 🎨models demo
@@ -169,7 +170,7 @@
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 - [Atcold/pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) - Deep Learning (with PyTorch)
 - [dabl/dabl](https://github.com/dabl/dabl) - Data Analysis Baseline Library
-- [ironmussa/Optimus](https://github.com/ironmussa/Optimus) - :truck: Agile Data Preparation Workflows made easy with dask, cudf, dask_cudf and pyspark
+- [ironmussa/Optimus](https://github.com/ironmussa/Optimus) - :truck: Agile Data Preparation Workflows made easy with pandas, dask, cudf, dask_cudf and pyspark
 - [robertmartin8/PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity
 - [christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) - Book about interpretable machine learning
 - [m2dsupsdlclass/lectures-labs](https://github.com/m2dsupsdlclass/lectures-labs) - Slides and Jupyter notebooks for the Deep Learning lectures at Master Year 2 Data Science from Institut Polytechnique de Paris
@@ -271,7 +272,6 @@
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [cosmicpython/book](https://github.com/cosmicpython/book) - A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho.
-- [wemake-services/wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
 - [ray-project/ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
