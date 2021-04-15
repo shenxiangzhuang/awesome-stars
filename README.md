@@ -94,7 +94,6 @@
 ## HTML 
 
 - [MAIF/shapash](https://github.com/MAIF/shapash) - Shapash makes Machine Learning models transparent and understandable by everyone
-- [wemake-services/wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
 - [zelenski/stanford-cpp-library](https://github.com/zelenski/stanford-cpp-library) - Stanford C++ library used in CS106B/X courses
 - [rstudio/concept-maps](https://github.com/rstudio/concept-maps) - Concept maps for all things data science
 - [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises
@@ -272,6 +271,7 @@
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [cosmicpython/book](https://github.com/cosmicpython/book) - A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho.
+- [wemake-services/wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
 - [ray-project/ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
