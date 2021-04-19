@@ -27,7 +27,6 @@
   - [R](#r)
   - [Roff](#roff)
   - [Ruby](#ruby)
-  - [Rust](#rust)
   - [Scala](#scala)
   - [Shell](#shell)
   - [TeX](#tex)
@@ -82,6 +81,7 @@
 ## CSS 
 
 - [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 一个比较特别的 Hexo 主题
+- [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 
 ## Erlang 
 
@@ -93,7 +93,7 @@
 
 ## HTML 
 
-- [MAIF/shapash](https://github.com/MAIF/shapash) - Shapash makes Machine Learning models transparent and understandable by everyone
+- [MAIF/shapash](https://github.com/MAIF/shapash) - 🔅 Shapash makes Machine Learning models transparent and understandable by everyone
 - [zelenski/stanford-cpp-library](https://github.com/zelenski/stanford-cpp-library) - Stanford C++ library used in CS106B/X courses
 - [rstudio/concept-maps](https://github.com/rstudio/concept-maps) - Concept maps for all things data science
 - [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises
@@ -119,7 +119,7 @@
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate UML diagram from textual description
 - [Angel-ML/angel](https://github.com/Angel-ML/angel) - A Flexible and Powerful Parameter Server for large-scale machine learning
 - [rezacsedu/Mining-Maximal-Frequent-Pattern-Spark](https://github.com/rezacsedu/Mining-Maximal-Frequent-Pattern-Spark) - Implementation of Static mining part of "Mining maximal frequent patterns in transactional databases and dynamic data streams: A spark-based approach" Information Sciences, Volume 432, March 2018, Pages 278-300
-- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [heibaiying/BigData-Notes](https://github.com/heibaiying/BigData-Notes) - 大数据入门指南  :star:
 - [felipekunzler/spark-twitter-analysis](https://github.com/felipekunzler/spark-twitter-analysis) - Analyse a twitter dataset with Spark and vizualize the results on a React dashboard.
 - [clfm/programming-exercises](https://github.com/clfm/programming-exercises) - Efficient solutions and notes for programming exercises from sites like HackerRank and LeetCode
@@ -375,10 +375,6 @@
 ## Ruby 
 
 - [DeathKing/Learning-SICP](https://github.com/DeathKing/Learning-SICP) - MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。
-
-## Rust 
-
-- [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 
 ## Scala 
 
