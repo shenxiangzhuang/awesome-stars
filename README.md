@@ -254,6 +254,7 @@
 
 ## Python 
 
+- [kumar-shridhar/PyTorch-BayesianCNN](https://github.com/kumar-shridhar/PyTorch-BayesianCNN) - Bayesian Convolutional Neural Network with Variational Inference based on Bayes by Backprop in PyTorch.
 - [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
 - [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
 - [facebookresearch/nevergrad](https://github.com/facebookresearch/nevergrad) - A Python toolbox for performing gradient-free optimization
