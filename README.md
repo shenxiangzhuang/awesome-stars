@@ -235,7 +235,7 @@
 - [WalterInSH/risk-management-note](https://github.com/WalterInSH/risk-management-note) - 🧯风险控制笔记，适用于互联网企业
 - [ramlaxman/Python-Interview-Curriculum](https://github.com/ramlaxman/Python-Interview-Curriculum) - Answers for timely preparation of Python Interviews.
 - [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
-- [hzwer/shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享
+- [hzwer/shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享 - Program algorithm learning materials collection in Chinese
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [jackwener/CS-Quality-Courses](https://github.com/jackwener/CS-Quality-Courses) - 计算机的优秀课程
 - [ECNUdase/Seminar-PRML](https://github.com/ECNUdase/Seminar-PRML) - 《Pattern Recognition and Machine Learning》阅读讨论班
