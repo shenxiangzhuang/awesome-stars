@@ -27,6 +27,7 @@
   - [R](#r)
   - [Roff](#roff)
   - [Ruby](#ruby)
+  - [Rust](#rust)
   - [Scala](#scala)
   - [Shell](#shell)
   - [TeX](#tex)
@@ -81,7 +82,6 @@
 ## CSS 
 
 - [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 一个比较特别的 Hexo 主题
-- [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 
 ## Erlang 
 
@@ -376,6 +376,10 @@
 ## Ruby 
 
 - [DeathKing/Learning-SICP](https://github.com/DeathKing/Learning-SICP) - MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。
+
+## Rust 
+
+- [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 
 ## Scala 
 
