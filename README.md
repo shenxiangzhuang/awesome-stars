@@ -180,6 +180,7 @@
 - [pandas-profiling/pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [davidrosenberg/mlcourse](https://github.com/davidrosenberg/mlcourse) - Machine learning course materials.
 - [ZhuoruLin/DSGA1003_ML](https://github.com/ZhuoruLin/DSGA1003_ML) - NYU Data Science Course DSGA-1003 Machine Learning Assignments.
+- [devAmoghS/Python-Interview-Problems-for-Practice](https://github.com/devAmoghS/Python-Interview-Problems-for-Practice) - 120+ Common code and interview problems solved in Python **(it's GROWING...)** Give a Star 🌟If it helps you. Please go through the README.md before starting.
 - [OmkarPathak/Data-Structures-using-Python](https://github.com/OmkarPathak/Data-Structures-using-Python) - This is my repository for Data Structures using Python
 - [ajcr/100-pandas-puzzles](https://github.com/ajcr/100-pandas-puzzles) - 100 data puzzles for pandas, ranging from short and simple to super tricky (60% complete)
 - [inf16nyu/home](https://github.com/inf16nyu/home) - 
@@ -321,7 +322,6 @@
 - [vatlab/sos-notebook](https://github.com/vatlab/sos-notebook) - Multi-language Jupyter Notebook
 - [careermonk/data-structures-and-algorithmic-thinking-with-python](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-python) - Data Structure And Algorithmic Thinking With Python
 - [davecom/ClassicComputerScienceProblemsInPython](https://github.com/davecom/ClassicComputerScienceProblemsInPython) - Source Code for the Book Classic Computer Science Problems in Python
-- [devAmoghS/Python-Interview-Problems-for-Practice](https://github.com/devAmoghS/Python-Interview-Problems-for-Practice) - 120+ Common code and interview problems solved in Python **(it's GROWING...)** Give a Star 🌟If it helps you. Please go through the README.md before starting.
 - [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2021年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [DestructHub/ProjectEuler](https://github.com/DestructHub/ProjectEuler) - Polyglot solutions for www.projecteuler.net mathematical challenges
