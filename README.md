@@ -145,6 +145,7 @@
 
 ## Jupyter Notebook 
 
+- [amber-kshz/PRML](https://github.com/amber-kshz/PRML) - Python implementations (on jupyter notebook) of algorithms described in the book "PRML"
 - [slundberg/shap](https://github.com/slundberg/shap) - A game theoretic approach to explain the output of any machine learning model.
 - [yichousun/Winter2021_CS249_GNN](https://github.com/yichousun/Winter2021_CS249_GNN) - 
 - [deep-learning-with-pytorch/dlwpt-code](https://github.com/deep-learning-with-pytorch/dlwpt-code) - Code for the book Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann.
