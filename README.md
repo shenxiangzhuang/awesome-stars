@@ -417,6 +417,7 @@
 
 ## TypeScript 
 
+- [any86/any-rule](https://github.com/any86/any-rule) - 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 
 ## Vim script 
