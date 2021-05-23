@@ -209,6 +209,7 @@
 
 ## Others 
 
+- [joanbruna/MathsDL-spring18](https://github.com/joanbruna/MathsDL-spring18) - Topics course Mathematics of Deep Learning, NYU, Spring 18
 - [murufeng/awesome-machine-learning](https://github.com/murufeng/awesome-machine-learning) - A curated list of awesome machine Learning tutorials,courses and communities.
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 - [leehanchung/awesome-full-stack-machine-courses](https://github.com/leehanchung/awesome-full-stack-machine-courses) - Curated list of publicly accessible machine learning engineering courses from CalTech, Columbia, Berkeley, MIT, and Stanford.
