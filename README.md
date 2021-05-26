@@ -143,6 +143,7 @@
 
 ## Jupyter Notebook 
 
+- [GoogleCloudPlatform/ai-platform-samples](https://github.com/GoogleCloudPlatform/ai-platform-samples) - Official Repo for Google Cloud AI Platform
 - [amber-kshz/PRML](https://github.com/amber-kshz/PRML) - Python implementations (on jupyter notebook) of algorithms described in the book "PRML"
 - [slundberg/shap](https://github.com/slundberg/shap) - A game theoretic approach to explain the output of any machine learning model.
 - [yichousun/Winter2021_CS249_GNN](https://github.com/yichousun/Winter2021_CS249_GNN) - 
