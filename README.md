@@ -394,6 +394,7 @@
 
 ## Shell 
 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [apachecn/awesome-cs-courses-zh](https://github.com/apachecn/awesome-cs-courses-zh) - 计算机公开课推荐
 - [steveloughran/winutils](https://github.com/steveloughran/winutils) - Windows binaries for Hadoop versions (built from the git commit ID used for the ASF relase)
 
