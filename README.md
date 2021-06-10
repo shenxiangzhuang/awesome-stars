@@ -144,6 +144,7 @@
 
 ## Jupyter Notebook 
 
+- [tensorchiefs/dl_book](https://github.com/tensorchiefs/dl_book) - legend
 - [GoogleCloudPlatform/ai-platform-samples](https://github.com/GoogleCloudPlatform/ai-platform-samples) - Official Repo for Google Cloud AI Platform
 - [amber-kshz/PRML](https://github.com/amber-kshz/PRML) - Python implementations (on jupyter notebook) of algorithms described in the book "PRML"
 - [slundberg/shap](https://github.com/slundberg/shap) - A game theoretic approach to explain the output of any machine learning model.
