@@ -93,6 +93,7 @@
 
 ## HTML 
 
+- [storopoli/Turing-Workshop](https://github.com/storopoli/Turing-Workshop) - Workshop of Bayesian Statistics using Julia and Turing
 - [itorr/nbnhhsh](https://github.com/itorr/nbnhhsh) - 😩「能不能好好说话？」 拼音首字母缩写翻译工具
 - [zelenski/stanford-cpp-library](https://github.com/zelenski/stanford-cpp-library) - Stanford C++ library used in CS106B/X courses
 - [rstudio/concept-maps](https://github.com/rstudio/concept-maps) - Concept maps for all things data science
@@ -144,6 +145,7 @@
 
 ## Jupyter Notebook 
 
+- [Machine-Learning-Tokyo/DL-workshop-series](https://github.com/Machine-Learning-Tokyo/DL-workshop-series) - Material used for Deep Learning related workshops for Machine Learning Tokyo (MLT)
 - [tensorchiefs/dl_book](https://github.com/tensorchiefs/dl_book) - legend
 - [GoogleCloudPlatform/ai-platform-samples](https://github.com/GoogleCloudPlatform/ai-platform-samples) - Official Repo for Google Cloud AI Platform
 - [amber-kshz/PRML](https://github.com/amber-kshz/PRML) - Python implementations (on jupyter notebook) of algorithms described in the book "PRML"
@@ -211,6 +213,7 @@
 
 ## Others 
 
+- [Machine-Learning-Tokyo/Interactive_Tools](https://github.com/Machine-Learning-Tokyo/Interactive_Tools) - Interactive Tools for Machine Learning, Deep Learning and Math
 - [rguo12/awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms) - An index of algorithms for learning causality with data
 - [joanbruna/MathsDL-spring18](https://github.com/joanbruna/MathsDL-spring18) - Topics course Mathematics of Deep Learning, NYU, Spring 18
 - [murufeng/awesome-machine-learning](https://github.com/murufeng/awesome-machine-learning) - A curated list of awesome machine Learning tutorials,courses and communities.
@@ -261,6 +264,7 @@
 
 ## Python 
 
+- [linkedin/greykite](https://github.com/linkedin/greykite) - A flexible, intuitive and fast forecasting library
 - [kumar-shridhar/PyTorch-BayesianCNN](https://github.com/kumar-shridhar/PyTorch-BayesianCNN) - Bayesian Convolutional Neural Network with Variational Inference based on Bayes by Backprop in PyTorch.
 - [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
 - [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
