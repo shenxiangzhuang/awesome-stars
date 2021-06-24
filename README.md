@@ -218,6 +218,7 @@
 
 ## Others 
 
+- [js05212/BayesianDeepLearning-Survey](https://github.com/js05212/BayesianDeepLearning-Survey) - Bayesian Deep Learning: A Survey
 - [Machine-Learning-Tokyo/Interactive_Tools](https://github.com/Machine-Learning-Tokyo/Interactive_Tools) - Interactive Tools for Machine Learning, Deep Learning and Math
 - [rguo12/awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms) - An index of algorithms for learning causality with data
 - [joanbruna/MathsDL-spring18](https://github.com/joanbruna/MathsDL-spring18) - Topics course Mathematics of Deep Learning, NYU, Spring 18
