@@ -150,6 +150,7 @@
 
 ## Jupyter Notebook 
 
+- [advaitsave/Introduction-to-Time-Series-forecasting-Python](https://github.com/advaitsave/Introduction-to-Time-Series-forecasting-Python) - Introduction to time series preprocessing and forecasting in Python using AR, MA, ARMA, ARIMA, SARIMA and Prophet model with forecast evaluation.
 - [Machine-Learning-Tokyo/DL-workshop-series](https://github.com/Machine-Learning-Tokyo/DL-workshop-series) - Material used for Deep Learning related workshops for Machine Learning Tokyo (MLT)
 - [tensorchiefs/dl_book](https://github.com/tensorchiefs/dl_book) - legend
 - [GoogleCloudPlatform/ai-platform-samples](https://github.com/GoogleCloudPlatform/ai-platform-samples) - Official Repo for Google Cloud AI Platform
