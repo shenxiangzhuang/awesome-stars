@@ -146,6 +146,7 @@
 
 ## Julia 
 
+- [JuliaStats/TimeModels.jl](https://github.com/JuliaStats/TimeModels.jl) - Modeling time series in Julia
 - [mossr/BeautifulAlgorithms.jl](https://github.com/mossr/BeautifulAlgorithms.jl) - Concise and beautiful algorithms written in Julia
 
 ## Jupyter Notebook 
