@@ -315,7 +315,7 @@
 - [xqnwang/darima](https://github.com/xqnwang/darima) - Distributed ARIMA Models
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [CamDavidsonPilon/lifelines](https://github.com/CamDavidsonPilon/lifelines) - Survival analysis in Python
-- [udayRage/pami_pykit](https://github.com/udayRage/pami_pykit) - 
+- [udayRage/pykit_old](https://github.com/udayRage/pykit_old) - 
 - [rasbt/mlxtend](https://github.com/rasbt/mlxtend) - A library of extension and helper modules for Python's data analysis and machine learning libraries.
 - [hudson-and-thames/mlfinlab](https://github.com/hudson-and-thames/mlfinlab) - MlFinLab helps portfolio managers and traders who want to leverage the power of machine learning by providing reproducible, interpretable, and easy to use tools.
 - [tushushu/imylu](https://github.com/tushushu/imylu) - Pure Python implementation of machine learning algorithms
