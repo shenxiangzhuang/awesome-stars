@@ -116,6 +116,7 @@
 
 ## Java 
 
+- [STAMP-project/dspot](https://github.com/STAMP-project/dspot) - Automatically detect and generate missing assertions for Junit test cases (also known as test amplification)
 - [vanilladb/vanillacore](https://github.com/vanilladb/vanillacore) - The core engine of VanillaDB
 - [kdis-lab/lac](https://github.com/kdis-lab/lac) - Library for associative classification
 - [tdunning/t-digest](https://github.com/tdunning/t-digest) - A new data structure for accurate on-line accumulation of rank-based statistics such as quantiles and trimmed means
@@ -272,6 +273,7 @@
 
 ## Python 
 
+- [Amossys-team/SPOT](https://github.com/Amossys-team/SPOT) - SPOT algorithm implementation (with variants)
 - [pyro-ppl/pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch
 - [linkedin/greykite](https://github.com/linkedin/greykite) - A flexible, intuitive and fast forecasting library
 - [kumar-shridhar/PyTorch-BayesianCNN](https://github.com/kumar-shridhar/PyTorch-BayesianCNN) - Bayesian Convolutional Neural Network with Variational Inference based on Bayes by Backprop in PyTorch.
