@@ -272,6 +272,7 @@
 
 ## Python 
 
+- [mmhs013/pyMannKendall](https://github.com/mmhs013/pyMannKendall) - A python package for non parametric Mann Kendall family of trend tests.
 - [dioph/periodicity](https://github.com/dioph/periodicity) - Useful tools for periodicity analysis in time series data.
 - [Amossys-team/SPOT](https://github.com/Amossys-team/SPOT) - SPOT algorithm implementation (with variants)
 - [pyro-ppl/pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch
