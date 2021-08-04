@@ -153,6 +153,8 @@
 
 ## Jupyter Notebook 
 
+- [facebookresearch/Kats](https://github.com/facebookresearch/Kats) - Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.
+- [Alro10/deep-learning-time-series](https://github.com/Alro10/deep-learning-time-series) - List of papers, code and experiments using deep learning for time series forecasting
 - [advaitsave/Introduction-to-Time-Series-forecasting-Python](https://github.com/advaitsave/Introduction-to-Time-Series-forecasting-Python) - Introduction to time series preprocessing and forecasting in Python using AR, MA, ARMA, ARIMA, SARIMA and Prophet model with forecast evaluation.
 - [Machine-Learning-Tokyo/DL-workshop-series](https://github.com/Machine-Learning-Tokyo/DL-workshop-series) - Material used for Deep Learning related workshops for Machine Learning Tokyo (MLT)
 - [tensorchiefs/dl_book](https://github.com/tensorchiefs/dl_book) - legend
@@ -273,6 +275,9 @@
 
 ## Python 
 
+- [bentoml/BentoML](https://github.com/bentoml/BentoML) - Model Serving Made Easy
+- [andymccurdy/redis-py](https://github.com/andymccurdy/redis-py) - Redis Python Client
+- [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [mmhs013/pyMannKendall](https://github.com/mmhs013/pyMannKendall) - A python package for non parametric Mann Kendall family of trend tests.
 - [dioph/periodicity](https://github.com/dioph/periodicity) - Useful tools for periodicity analysis in time series data.
 - [Amossys-team/SPOT](https://github.com/Amossys-team/SPOT) - SPOT algorithm implementation (with variants)
