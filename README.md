@@ -112,7 +112,6 @@
 - [mikeizbicki/HLearn](https://github.com/mikeizbicki/HLearn) - Homomorphic machine learning
 - [DataHaskell/dh-core](https://github.com/DataHaskell/dh-core) - Functional data science
 - [jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet) - Purely functional artificial neural network library implemented in Haskell.
-- [gibiansky/IHaskell](https://github.com/gibiansky/IHaskell) - A Haskell kernel for IPython.
 
 ## Java 
 
@@ -211,6 +210,7 @@
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [random-forests/tutorials](https://github.com/random-forests/tutorials) - 
 - [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
+- [gibiansky/IHaskell](https://github.com/gibiansky/IHaskell) - A Haskell kernel for IPython.
 
 ## Makefile 
 
