@@ -275,6 +275,7 @@
 
 ## Python 
 
+- [gabfl/redis-priority-queue](https://github.com/gabfl/redis-priority-queue) - Simple Redis work queue with added features (priorities, pop multiple items at once)
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - Model Serving Made Easy
 - [andymccurdy/redis-py](https://github.com/andymccurdy/redis-py) - Redis Python Client
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
@@ -434,7 +435,7 @@
 - [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 - [yxnchen/sysu-beamer-template](https://github.com/yxnchen/sysu-beamer-template) - A LaTeX beamer template for SYSU. 中山大学LaTeX演示模板
-- [Trinkle23897/THU-Beamer-Theme](https://github.com/Trinkle23897/THU-Beamer-Theme) - A LaTeX beamer theme template for Tsinghua students.
+- [tuna/THU-Beamer-Theme](https://github.com/tuna/THU-Beamer-Theme) - A LaTeX beamer theme template for Tsinghua students.
 - [SamZhangQingChuan/Editorials](https://github.com/SamZhangQingChuan/Editorials) - 算法题解& 教程
 - [hal3/ciml](https://github.com/hal3/ciml) - A Course in Machine Learning
 - [pllk/cphb](https://github.com/pllk/cphb) - Competitive Programmer's Handbook
