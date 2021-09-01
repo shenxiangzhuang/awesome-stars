@@ -274,6 +274,7 @@
 
 ## Python 
 
+- [slaypni/fastdtw](https://github.com/slaypni/fastdtw) - A Python implementation of FastDTW
 - [gabfl/redis-priority-queue](https://github.com/gabfl/redis-priority-queue) - Simple Redis work queue with added features (priorities, pop multiple items at once)
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - Model Serving Made Easy
 - [andymccurdy/redis-py](https://github.com/andymccurdy/redis-py) - Redis Python Client
