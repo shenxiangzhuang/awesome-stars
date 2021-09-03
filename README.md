@@ -275,6 +275,9 @@
 
 ## Python 
 
+- [TDAmeritrade/stumpy](https://github.com/TDAmeritrade/stumpy) - STUMPY is a powerful and scalable Python library for modern time series analysis
+- [kLabUM/rrcf](https://github.com/kLabUM/rrcf) - 🌲 Implementation of the Robust Random Cut Forest algorithm for anomaly detection on streams
+- [ariaghora/robust-period](https://github.com/ariaghora/robust-period) - Unofficial Implementation of RobustPeriod: Time-Frequency Mining for Robust Multiple Periodicities Detection
 - [slaypni/fastdtw](https://github.com/slaypni/fastdtw) - A Python implementation of FastDTW
 - [gabfl/redis-priority-queue](https://github.com/gabfl/redis-priority-queue) - Simple Redis work queue with added features (priorities, pop multiple items at once)
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - Model Serving Made Easy
