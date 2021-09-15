@@ -129,6 +129,7 @@
 
 ## JavaScript 
 
+- [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
 - [ml5js/ml5-library](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web! 🤖
 - [Sporif/CustomHooks](https://github.com/Sporif/CustomHooks) - My own hooks for Vivaldi
 - [TuiQiao/CBoard](https://github.com/TuiQiao/CBoard) - An easy to use, self-service open BI reporting and BI dashboard platform.
@@ -223,6 +224,7 @@
 
 ## Others 
 
+- [EthicalML/awesome-artificial-intelligence-guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines) - This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.
 - [js05212/BayesianDeepLearning-Survey](https://github.com/js05212/BayesianDeepLearning-Survey) - Bayesian Deep Learning: A Survey
 - [Machine-Learning-Tokyo/Interactive_Tools](https://github.com/Machine-Learning-Tokyo/Interactive_Tools) - Interactive Tools for Machine Learning, Deep Learning and Math
 - [rguo12/awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms) - An index of algorithms for learning causality with data
@@ -276,6 +278,8 @@
 
 ## Python 
 
+- [microsoft/dowhy](https://github.com/microsoft/dowhy) - DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks.
+- [KIT-IAI/pyWATTS](https://github.com/KIT-IAI/pyWATTS) - pyWATTS: Python Workflow Automation Tool for Time-Series
 - [TDAmeritrade/stumpy](https://github.com/TDAmeritrade/stumpy) - STUMPY is a powerful and scalable Python library for modern time series analysis
 - [kLabUM/rrcf](https://github.com/kLabUM/rrcf) - 🌲 Implementation of the Robust Random Cut Forest algorithm for anomaly detection on streams
 - [ariaghora/robust-period](https://github.com/ariaghora/robust-period) - Unofficial Implementation of RobustPeriod: Time-Frequency Mining for Robust Multiple Periodicities Detection
