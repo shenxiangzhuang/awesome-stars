@@ -278,6 +278,7 @@
 
 ## Python 
 
+- [scikit-mine/scikit-mine](https://github.com/scikit-mine/scikit-mine) - scikit-mine : pattern mining in Python
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [johannfaouzi/pyts](https://github.com/johannfaouzi/pyts) - A Python package for time series classification
 - [target/matrixprofile-ts](https://github.com/target/matrixprofile-ts) - A Python library for detecting patterns and anomalies in massive datasets using the Matrix Profile
