@@ -23,9 +23,9 @@
   - [Makefile](#makefile)
   - [Markdown](#markdown)
   - [Others](#others)
-  - [PostScript](#postscript)
   - [Python](#python)
   - [R](#r)
+  - [RMarkdown](#rmarkdown)
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -272,10 +272,6 @@
 - [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
 - [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 
-## PostScript 
-
-- [XiangyunHuang/masr](https://github.com/XiangyunHuang/masr) - :book: 现代应用统计 Modern Applied Statistics with R https://bookdown.org/xiangyun/masr/
-
 ## Python 
 
 - [scikit-mine/scikit-mine](https://github.com/scikit-mine/scikit-mine) - scikit-mine : pattern mining in Python
@@ -410,6 +406,10 @@
 - [ajtulloch/Elements-of-Statistical-Learning](https://github.com/ajtulloch/Elements-of-Statistical-Learning) - Contains LaTeX, SciPy and R code providing solutions to exercises in Elements of Statistical Learning (Hastie, Tibshirani & Friedman)
 - [cran/ElemStatLearn](https://github.com/cran/ElemStatLearn) - :exclamation: This is a read-only mirror of the CRAN R package repository.  ElemStatLearn — Data Sets, Functions and Examples from the Book: "The Elements of Statistical Learning, Data Mining, Inference, and Prediction" by Trevor Hastie, Robert Tibshirani and Jerome Friedman. Homepage: http://www-stat.stanford.edu/~tibs/ElemStatLearn/
 - [terrytangyuan/lfda](https://github.com/terrytangyuan/lfda) - Local Fisher Discriminant Analysis in R
+
+## RMarkdown 
+
+- [XiangyunHuang/masr](https://github.com/XiangyunHuang/masr) - :book: 现代应用统计 Modern Applied Statistics with R https://bookdown.org/xiangyun/masr/
 
 ## Roff 
 
