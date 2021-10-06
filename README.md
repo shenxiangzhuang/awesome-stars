@@ -409,7 +409,7 @@
 
 ## RMarkdown 
 
-- [XiangyunHuang/masr](https://github.com/XiangyunHuang/masr) - :book: 现代应用统计 Modern Applied Statistics with R https://bookdown.org/xiangyun/masr/
+- [XiangyunHuang/masr](https://github.com/XiangyunHuang/masr) - :book: 现代应用统计 Modern Applied Statistics with R
 
 ## Roff 
 
