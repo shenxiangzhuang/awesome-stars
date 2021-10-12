@@ -275,6 +275,8 @@
 
 ## Python 
 
+- [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
+- [hyperopt/hyperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python
 - [scikit-mine/scikit-mine](https://github.com/scikit-mine/scikit-mine) - scikit-mine : pattern mining in Python
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [johannfaouzi/pyts](https://github.com/johannfaouzi/pyts) - A Python package for time series classification
@@ -287,7 +289,7 @@
 - [slaypni/fastdtw](https://github.com/slaypni/fastdtw) - A Python implementation of FastDTW
 - [gabfl/redis-priority-queue](https://github.com/gabfl/redis-priority-queue) - Simple Redis work queue with added features (priorities, pop multiple items at once)
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - Model Serving Made Easy
-- [andymccurdy/redis-py](https://github.com/andymccurdy/redis-py) - Redis Python Client
+- [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [mmhs013/pyMannKendall](https://github.com/mmhs013/pyMannKendall) - A python package for non parametric Mann Kendall family of trend tests.
 - [dioph/periodicity](https://github.com/dioph/periodicity) - Useful tools for periodicity analysis in time series data.
