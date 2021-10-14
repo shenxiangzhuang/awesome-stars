@@ -275,6 +275,7 @@
 
 ## Python 
 
+- [nachonavarro/seasonal-esd-anomaly-detection](https://github.com/nachonavarro/seasonal-esd-anomaly-detection) - Anomaly detection algorithm implemented at Twitter
 - [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
 - [hyperopt/hyperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python
 - [scikit-mine/scikit-mine](https://github.com/scikit-mine/scikit-mine) - scikit-mine : pattern mining in Python
@@ -399,6 +400,7 @@
 
 ## R 
 
+- [twitter/AnomalyDetection](https://github.com/twitter/AnomalyDetection) - Anomaly Detection with R
 - [meghanathmacha/xPACS](https://github.com/meghanathmacha/xPACS) - This repository has the code for the xPacks work that is under submission for academic conference. The code is protected under the below license
 - [robjhyndman/ctv-TimeSeries](https://github.com/robjhyndman/ctv-TimeSeries) - git mirror of CRAN Task View Time Series files
 - [kassambara/survminer](https://github.com/kassambara/survminer) - Survival Analysis and Visualization
