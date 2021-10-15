@@ -130,6 +130,7 @@
 
 ## JavaScript 
 
+- [danpaz/bodybuilder](https://github.com/danpaz/bodybuilder) - An elasticsearch query body builder :muscle:
 - [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
 - [ml5js/ml5-library](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web! 🤖
 - [Sporif/CustomHooks](https://github.com/Sporif/CustomHooks) - My own hooks for Vivaldi
