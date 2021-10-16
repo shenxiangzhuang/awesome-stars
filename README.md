@@ -93,6 +93,7 @@
 
 ## Go 
 
+- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [peterq/pan-light](https://github.com/peterq/pan-light) - 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
 
 ## HTML 
@@ -276,6 +277,7 @@
 
 ## Python 
 
+- [ray-project/lightgbm_ray](https://github.com/ray-project/lightgbm_ray) - LightGBM on Ray
 - [nachonavarro/seasonal-esd-anomaly-detection](https://github.com/nachonavarro/seasonal-esd-anomaly-detection) - Anomaly detection algorithm implemented at Twitter
 - [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
 - [hyperopt/hyperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python
@@ -432,6 +434,7 @@
 
 ## Scala 
 
+- [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Microsoft Machine Learning for Apache Spark
 - [intel-analytics/BigDL](https://github.com/intel-analytics/BigDL) - BigDL: Distributed Deep Learning Framework for Apache Spark
 - [mikemybytes/spark-fim](https://github.com/mikemybytes/spark-fim) - Frequent Itemsets Mining algorithms for Apache Spark
 - [jeffreyksmithjr/reactive-machine-learning-systems](https://github.com/jeffreyksmithjr/reactive-machine-learning-systems) - Code from the book Machine Learning Systems
