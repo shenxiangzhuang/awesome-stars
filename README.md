@@ -60,6 +60,7 @@
 
 ## C++ 
 
+- [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [shapelets/khiva](https://github.com/shapelets/khiva) - An open-source library of algorithms to analyse time series in GPU and CPU.
 - [dev-cafe/cmake-cookbook](https://github.com/dev-cafe/cmake-cookbook) - CMake Cookbook recipes.
@@ -277,6 +278,8 @@
 
 ## Python 
 
+- [caisr-hh/group-anomaly-detection](https://github.com/caisr-hh/group-anomaly-detection) - GRAND: Group-based Anomaly Detection for Large-Scale Monitoring of Complex Systems
+- [zillow/luminaire](https://github.com/zillow/luminaire) - Luminaire is a python package that provides ML driven solutions for monitoring time series data.
 - [ray-project/lightgbm_ray](https://github.com/ray-project/lightgbm_ray) - LightGBM on Ray
 - [nachonavarro/seasonal-esd-anomaly-detection](https://github.com/nachonavarro/seasonal-esd-anomaly-detection) - Anomaly detection algorithm implemented at Twitter
 - [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
