@@ -278,6 +278,9 @@
 
 ## Python 
 
+- [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Toolbox for Scalable Outlier Detection (Anomaly Detection)
+- [awslabs/gluon-ts](https://github.com/awslabs/gluon-ts) - Probabilistic time series modeling in Python
+- [SeldonIO/alibi-detect](https://github.com/SeldonIO/alibi-detect) - Algorithms for outlier, adversarial and drift detection
 - [caisr-hh/group-anomaly-detection](https://github.com/caisr-hh/group-anomaly-detection) - GRAND: Group-based Anomaly Detection for Large-Scale Monitoring of Complex Systems
 - [zillow/luminaire](https://github.com/zillow/luminaire) - Luminaire is a python package that provides ML driven solutions for monitoring time series data.
 - [ray-project/lightgbm_ray](https://github.com/ray-project/lightgbm_ray) - LightGBM on Ray
