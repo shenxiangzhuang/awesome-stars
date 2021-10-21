@@ -184,6 +184,7 @@
 - [probml/pml-book](https://github.com/probml/pml-book) - "Probabilistic Machine Learning" - a book series by Kevin Murphy
 - [makeyourownneuralnetwork/makeyourownneuralnetwork](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork) - Code for the Make Your Own Neural Network book
 - [DataForScience/DeepLearning](https://github.com/DataForScience/DeepLearning) - Deep Learning From Scratch
+- [intel-analytics/BigDL](https://github.com/intel-analytics/BigDL) - Building Large-Scale AI Applications for Distributed Big Data
 - [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
 - [blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series:
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
@@ -228,6 +229,7 @@
 
 ## Others 
 
+- [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [EthicalML/awesome-artificial-intelligence-guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines) - This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.
 - [js05212/BayesianDeepLearning-Survey](https://github.com/js05212/BayesianDeepLearning-Survey) - Bayesian Deep Learning: A Survey
 - [Machine-Learning-Tokyo/Interactive_Tools](https://github.com/Machine-Learning-Tokyo/Interactive_Tools) - Interactive Tools for Machine Learning, Deep Learning and Math
@@ -278,6 +280,7 @@
 
 ## Python 
 
+- [uqfoundation/dill](https://github.com/uqfoundation/dill) - serialize all of python
 - [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Toolbox for Scalable Outlier Detection (Anomaly Detection)
 - [awslabs/gluon-ts](https://github.com/awslabs/gluon-ts) - Probabilistic time series modeling in Python
 - [SeldonIO/alibi-detect](https://github.com/SeldonIO/alibi-detect) - Algorithms for outlier, adversarial and drift detection
@@ -441,7 +444,6 @@
 ## Scala 
 
 - [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Microsoft Machine Learning for Apache Spark
-- [intel-analytics/BigDL](https://github.com/intel-analytics/BigDL) - BigDL: Distributed Deep Learning Framework for Apache Spark
 - [mikemybytes/spark-fim](https://github.com/mikemybytes/spark-fim) - Frequent Itemsets Mining algorithms for Apache Spark
 - [jeffreyksmithjr/reactive-machine-learning-systems](https://github.com/jeffreyksmithjr/reactive-machine-learning-systems) - Code from the book Machine Learning Systems
 - [salesforce/TransmogrifAI](https://github.com/salesforce/TransmogrifAI) - TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand-tuning
