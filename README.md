@@ -158,6 +158,7 @@
 
 ## Jupyter Notebook 
 
+- [dreamhomes/PCIC-2021-Track1](https://github.com/dreamhomes/PCIC-2021-Track1) - PCIC 2021 Track1: Causal Discovery
 - [Alro10/deep-learning-time-series](https://github.com/Alro10/deep-learning-time-series) - List of papers, code and experiments using deep learning for time series forecasting
 - [advaitsave/Introduction-to-Time-Series-forecasting-Python](https://github.com/advaitsave/Introduction-to-Time-Series-forecasting-Python) - Introduction to time series preprocessing and forecasting in Python using AR, MA, ARMA, ARIMA, SARIMA and Prophet model with forecast evaluation.
 - [Machine-Learning-Tokyo/DL-workshop-series](https://github.com/Machine-Learning-Tokyo/DL-workshop-series) - Material used for Deep Learning related workshops for Machine Learning Tokyo (MLT)
@@ -279,6 +280,7 @@
 
 ## Python 
 
+- [huawei-noah/trustworthyAI](https://github.com/huawei-noah/trustworthyAI) - trustworthy AI related projects
 - [uqfoundation/dill](https://github.com/uqfoundation/dill) - serialize all of python
 - [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Toolbox for Scalable Outlier Detection (Anomaly Detection)
 - [awslabs/gluon-ts](https://github.com/awslabs/gluon-ts) - Probabilistic time series modeling in Python
