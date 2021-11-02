@@ -280,6 +280,8 @@
 
 ## Python 
 
+- [jmcarpenter2/swifter](https://github.com/jmcarpenter2/swifter) - A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner
+- [akhtarshahnawaz/multiprocesspandas](https://github.com/akhtarshahnawaz/multiprocesspandas) - Adds multiprocessing capabilities to Pandas to parallelize apply operations on DataFrames, Series and DataFrameGroupBy
 - [huawei-noah/trustworthyAI](https://github.com/huawei-noah/trustworthyAI) - trustworthy AI related projects
 - [uqfoundation/dill](https://github.com/uqfoundation/dill) - serialize all of python
 - [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Toolbox for Scalable Outlier Detection (Anomaly Detection)
