@@ -164,7 +164,7 @@
 - [advaitsave/Introduction-to-Time-Series-forecasting-Python](https://github.com/advaitsave/Introduction-to-Time-Series-forecasting-Python) - Introduction to time series preprocessing and forecasting in Python using AR, MA, ARMA, ARIMA, SARIMA and Prophet model with forecast evaluation.
 - [Machine-Learning-Tokyo/DL-workshop-series](https://github.com/Machine-Learning-Tokyo/DL-workshop-series) - Material used for Deep Learning related workshops for Machine Learning Tokyo (MLT)
 - [tensorchiefs/dl_book](https://github.com/tensorchiefs/dl_book) - legend
-- [GoogleCloudPlatform/ai-platform-samples](https://github.com/GoogleCloudPlatform/ai-platform-samples) - -Official Repo for Google Cloud AI Platform- -------------------------------------------- UPDATE: Find samples for Vertex AI, Google Cloud's new unified ML platform at: https://github.com/GoogleCloudPlatform/vertex-ai-samples
+- [GoogleCloudPlatform/ai-platform-samples](https://github.com/GoogleCloudPlatform/ai-platform-samples) - Official Repo for Google Cloud AI Platform. Find samples for Vertex AI, Google Cloud's new unified ML platform at: https://github.com/GoogleCloudPlatform/vertex-ai-samples
 - [amber-kshz/PRML](https://github.com/amber-kshz/PRML) - Python implementations (on jupyter notebook) of algorithms described in the book "PRML"
 - [slundberg/shap](https://github.com/slundberg/shap) - A game theoretic approach to explain the output of any machine learning model.
 - [yichousun/Winter2021_CS249_GNN](https://github.com/yichousun/Winter2021_CS249_GNN) - 
@@ -281,6 +281,8 @@
 
 ## Python 
 
+- [linkedin/luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library
+- [NetManAIOps/donut](https://github.com/NetManAIOps/donut) - WWW 2018: Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications
 - [jmcarpenter2/swifter](https://github.com/jmcarpenter2/swifter) - A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner
 - [akhtarshahnawaz/multiprocesspandas](https://github.com/akhtarshahnawaz/multiprocesspandas) - Adds multiprocessing capabilities to Pandas to parallelize apply operations on DataFrames, Series and DataFrameGroupBy
 - [huawei-noah/trustworthyAI](https://github.com/huawei-noah/trustworthyAI) - trustworthy AI related projects
