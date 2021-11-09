@@ -281,6 +281,7 @@
 
 ## Python 
 
+- [microsoft/anomalydetector](https://github.com/microsoft/anomalydetector) - SR-CNN
 - [linkedin/luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library
 - [NetManAIOps/donut](https://github.com/NetManAIOps/donut) - WWW 2018: Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications
 - [jmcarpenter2/swifter](https://github.com/jmcarpenter2/swifter) - A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner
