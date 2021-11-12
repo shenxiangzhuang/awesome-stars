@@ -452,7 +452,7 @@
 
 ## Scala 
 
-- [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Microsoft Machine Learning for Apache Spark
+- [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
 - [mikemybytes/spark-fim](https://github.com/mikemybytes/spark-fim) - Frequent Itemsets Mining algorithms for Apache Spark
 - [jeffreyksmithjr/reactive-machine-learning-systems](https://github.com/jeffreyksmithjr/reactive-machine-learning-systems) - Code from the book Machine Learning Systems
 - [salesforce/TransmogrifAI](https://github.com/salesforce/TransmogrifAI) - TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand-tuning
