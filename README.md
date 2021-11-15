@@ -120,6 +120,7 @@
 
 ## Java 
 
+- [GoogleCloudPlatform/df-ml-anomaly-detection](https://github.com/GoogleCloudPlatform/df-ml-anomaly-detection) - Streaming Anomaly Detection Solution by using Pub/Sub, Dataflow, BQML & Cloud DLP
 - [STAMP-project/dspot](https://github.com/STAMP-project/dspot) - Automatically detect and generate missing assertions for Junit test cases (also known as test amplification)
 - [vanilladb/vanillacore](https://github.com/vanilladb/vanillacore) - The core engine of VanillaDB
 - [kdis-lab/lac](https://github.com/kdis-lab/lac) - Library for associative classification
@@ -282,6 +283,7 @@
 
 ## Python 
 
+- [google-research/deep_representation_one_class](https://github.com/google-research/deep_representation_one_class) - 
 - [microsoft/anomalydetector](https://github.com/microsoft/anomalydetector) - SR-CNN
 - [linkedin/luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library
 - [NetManAIOps/donut](https://github.com/NetManAIOps/donut) - WWW 2018: Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications
