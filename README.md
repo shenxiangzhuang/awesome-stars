@@ -255,7 +255,6 @@
 - [chenryn/aiops-handbook](https://github.com/chenryn/aiops-handbook) - Collection of slides, repositories, papers about AIOps
 - [ShameCom/ShameCom](https://github.com/ShameCom/ShameCom) - 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！
 - [linjinjin123/awesome-AIOps](https://github.com/linjinjin123/awesome-AIOps) - AIOps学习资料汇总，欢迎一起补全这个仓库，欢迎star
-- [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
 - [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn!
 - [mrdbourke/machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
 - [mJackie/RecSys](https://github.com/mJackie/RecSys) - 计算广告/推荐系统/机器学习(Machine Learning)/点击率(CTR)/转化率(CVR)预估/点击率预估
@@ -283,6 +282,7 @@
 
 ## Python 
 
+- [ngoix/EMMV_benchmarks](https://github.com/ngoix/EMMV_benchmarks) - 
 - [google-research/deep_representation_one_class](https://github.com/google-research/deep_representation_one_class) - 
 - [microsoft/anomalydetector](https://github.com/microsoft/anomalydetector) - SR-CNN
 - [linkedin/luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library
@@ -350,6 +350,7 @@
 - [Tencent/Metis](https://github.com/Tencent/Metis) - Metis is a learnware platform in the field of AIOps.
 - [online-ml/river](https://github.com/online-ml/river) - 🌊 Online machine learning in Python
 - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
+- [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
 - [CamDavidsonPilon/tdigest](https://github.com/CamDavidsonPilon/tdigest) - t-Digest data structure in Python. Useful for percentiles and quantiles, including distributed enviroments like PySpark
 - [rougier/from-python-to-numpy](https://github.com/rougier/from-python-to-numpy) - An open-access book on numpy vectorization techniques, Nicolas P. Rougier, 2017
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
