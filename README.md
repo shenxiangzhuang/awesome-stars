@@ -95,6 +95,7 @@
 
 ## Go 
 
+- [bilibili/gengine](https://github.com/bilibili/gengine) - 
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [peterq/pan-light](https://github.com/peterq/pan-light) - 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
 
@@ -233,6 +234,7 @@
 
 ## Others 
 
+- [DataSystemsGroupUT/AutoML_Survey](https://github.com/DataSystemsGroupUT/AutoML_Survey) - 
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [EthicalML/awesome-artificial-intelligence-guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines) - This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.
 - [js05212/BayesianDeepLearning-Survey](https://github.com/js05212/BayesianDeepLearning-Survey) - Bayesian Deep Learning: A Survey
@@ -283,6 +285,8 @@
 
 ## Python 
 
+- [deepcharles/ruptures](https://github.com/deepcharles/ruptures) - ruptures: change point detection in Python
+- [yzhao062/pytod](https://github.com/yzhao062/pytod) - TOD: Tensor-based Outlier Detection
 - [ngoix/EMMV_benchmarks](https://github.com/ngoix/EMMV_benchmarks) - 
 - [google-research/deep_representation_one_class](https://github.com/google-research/deep_representation_one_class) - 
 - [microsoft/anomalydetector](https://github.com/microsoft/anomalydetector) - SR-CNN
