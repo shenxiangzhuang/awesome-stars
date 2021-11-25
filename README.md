@@ -46,6 +46,7 @@
 
 ## C 
 
+- [RedisAI/RedisAI](https://github.com/RedisAI/RedisAI) - A Redis module for serving tensors and executing deep learning graphs
 - [cstack/db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
 - [cran/arules](https://github.com/cran/arules) - :exclamation: This is a read-only mirror of the CRAN R package repository.  arules — Mining Association Rules and Frequent Itemsets. Homepage: https://github.com/mhahsler/arules  Report bugs for this package: https://github.com/mhahsler/arules/issues
 - [begeekmyfriend/leetcode](https://github.com/begeekmyfriend/leetcode) - LeetCode in pure C
@@ -61,6 +62,7 @@
 
 ## C++ 
 
+- [nmslib/hnswlib](https://github.com/nmslib/hnswlib) - Header-only C++/python library for fast approximate nearest neighbors
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [shapelets/khiva](https://github.com/shapelets/khiva) - An open-source library of algorithms to analyse time series in GPU and CPU.
@@ -95,6 +97,7 @@
 
 ## Go 
 
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open-source vector database for embedding similarity search and AI applications.
 - [bilibili/gengine](https://github.com/bilibili/gengine) - 
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [peterq/pan-light](https://github.com/peterq/pan-light) - 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
@@ -285,6 +288,10 @@
 
 ## Python 
 
+- [RedisTimeSeries/redistimeseries-py](https://github.com/RedisTimeSeries/redistimeseries-py) - RedisTimeSeries python client
+- [RedisAI/redisai-py](https://github.com/RedisAI/redisai-py) - Python client for RedisAI
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [zhmiao/OpenLongTailRecognition-OLTR](https://github.com/zhmiao/OpenLongTailRecognition-OLTR) - Pytorch implementation for "Large-Scale Long-Tailed Recognition in an Open World" (CVPR 2019 ORAL)
 - [deepcharles/ruptures](https://github.com/deepcharles/ruptures) - ruptures: change point detection in Python
 - [yzhao062/pytod](https://github.com/yzhao062/pytod) - TOD: Tensor-based Outlier Detection
 - [ngoix/EMMV_benchmarks](https://github.com/ngoix/EMMV_benchmarks) - 
