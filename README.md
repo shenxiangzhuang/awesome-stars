@@ -344,7 +344,6 @@
 - [MaxHalford/prince](https://github.com/MaxHalford/prince) - :crown: Python factor analysis library (PCA, CA, MCA, MFA, FAMD)
 - [logpai/loglizer](https://github.com/logpai/loglizer) - A log analysis toolkit for automated anomaly detection [ISSRE'16]
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies. An increasing number of  SOTA Quant research works/papers are released in Qlib.
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [abilian/olapy](https://github.com/abilian/olapy) - OlaPy, an experimental OLAP engine based on Pandas
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
@@ -506,6 +505,7 @@
 ## TypeScript 
 
 - [any86/any-rule](https://github.com/any86/any-rule) - 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 
 ## Vim script 
