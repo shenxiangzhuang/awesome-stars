@@ -291,6 +291,7 @@
 
 ## Python 
 
+- [yuezhihan/ts2vec](https://github.com/yuezhihan/ts2vec) - A universal time series representation learning framework
 - [pandera-dev/pandera](https://github.com/pandera-dev/pandera) - A light-weight, flexible, and expressive data validation library for dataframes
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
