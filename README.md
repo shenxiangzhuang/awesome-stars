@@ -168,6 +168,7 @@
 
 ## Jupyter Notebook 
 
+- [Azure/AzurePublicDataset](https://github.com/Azure/AzurePublicDataset) - Microsoft Azure Traces
 - [dreamhomes/PCIC-2021-Track1](https://github.com/dreamhomes/PCIC-2021-Track1) - PCIC 2021 Track1: Causal Discovery
 - [Alro10/deep-learning-time-series](https://github.com/Alro10/deep-learning-time-series) - List of papers, code and experiments using deep learning for time series forecasting
 - [advaitsave/Introduction-to-Time-Series-forecasting-Python](https://github.com/advaitsave/Introduction-to-Time-Series-forecasting-Python) - Introduction to time series preprocessing and forecasting in Python using AR, MA, ARMA, ARIMA, SARIMA and Prophet model with forecast evaluation.
