@@ -292,6 +292,8 @@
 
 ## Python 
 
+- [neurodsp-tools/neurodsp](https://github.com/neurodsp-tools/neurodsp) - Digital signal processing for neural time series.
+- [tensionhead/pyBOAT](https://github.com/tensionhead/pyBOAT) - A Biological Oscillations Analysis Toolkit
 - [yuezhihan/ts2vec](https://github.com/yuezhihan/ts2vec) - A universal time series representation learning framework
 - [pandera-dev/pandera](https://github.com/pandera-dev/pandera) - A light-weight, flexible, and expressive data validation library for dataframes
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
