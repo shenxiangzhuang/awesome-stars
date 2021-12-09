@@ -90,6 +90,7 @@
 
 ## CSS 
 
+- [typlog/sphinx-typlog-theme](https://github.com/typlog/sphinx-typlog-theme) - A sphinx theme by Typlog
 - [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 一个比较特别的 Hexo 主题
 
 ## Erlang 
@@ -292,6 +293,8 @@
 
 ## Python 
 
+- [elenaehrlich/gluon-ts](https://github.com/elenaehrlich/gluon-ts) - Probabilistic time series modeling in Python
+- [pympler/pympler](https://github.com/pympler/pympler) - Development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.
 - [neurodsp-tools/neurodsp](https://github.com/neurodsp-tools/neurodsp) - Digital signal processing for neural time series.
 - [tensionhead/pyBOAT](https://github.com/tensionhead/pyBOAT) - A Biological Oscillations Analysis Toolkit
 - [yuezhihan/ts2vec](https://github.com/yuezhihan/ts2vec) - A universal time series representation learning framework
