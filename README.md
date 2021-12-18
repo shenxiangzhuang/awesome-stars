@@ -120,6 +120,8 @@
 
 ## Haskell 
 
+- [facebookincubator/hsthrift](https://github.com/facebookincubator/hsthrift) - The Haskell Thrift Compiler. This is an implementation of the Thrift spec that generates code in Haskell. It depends on the fbthrift project for the implementation of the underlying transport.
+- [higherkindness/mu-haskell](https://github.com/higherkindness/mu-haskell) - Mu (μ) is a purely functional framework for building micro services.
 - [dfithian/dfdb](https://github.com/dfithian/dfdb) - Write my own database from scratch
 - [stanfordhaskell/cs43](https://github.com/stanfordhaskell/cs43) - Course materials for Stanford's CS43: Functional Programming Paradigms
 - [mikeizbicki/HLearn](https://github.com/mikeizbicki/HLearn) - Homomorphic machine learning
