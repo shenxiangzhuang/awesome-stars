@@ -296,6 +296,7 @@
 
 ## Python 
 
+- [minitorch/minitorch](https://github.com/minitorch/minitorch) - The full minitorch student suite.
 - [elenaehrlich/gluon-ts](https://github.com/elenaehrlich/gluon-ts) - Probabilistic time series modeling in Python
 - [pympler/pympler](https://github.com/pympler/pympler) - Development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.
 - [neurodsp-tools/neurodsp](https://github.com/neurodsp-tools/neurodsp) - Digital signal processing for neural time series.
