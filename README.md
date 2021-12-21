@@ -62,6 +62,7 @@
 
 ## C++ 
 
+- [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
 - [baidu/AnyQ](https://github.com/baidu/AnyQ) - FAQ-based Question Answering System
 - [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
 - [nmslib/hnswlib](https://github.com/nmslib/hnswlib) - Header-only C++/python library for fast approximate nearest neighbors
@@ -120,6 +121,7 @@
 
 ## Haskell 
 
+- [snoyberg/conduit](https://github.com/snoyberg/conduit) - A streaming data library
 - [facebookincubator/hsthrift](https://github.com/facebookincubator/hsthrift) - The Haskell Thrift Compiler. This is an implementation of the Thrift spec that generates code in Haskell. It depends on the fbthrift project for the implementation of the underlying transport.
 - [higherkindness/mu-haskell](https://github.com/higherkindness/mu-haskell) - Mu (μ) is a purely functional framework for building micro services.
 - [dfithian/dfdb](https://github.com/dfithian/dfdb) - Write my own database from scratch
@@ -172,6 +174,7 @@
 
 ## Jupyter Notebook 
 
+- [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [Azure/AzurePublicDataset](https://github.com/Azure/AzurePublicDataset) - Microsoft Azure Traces
 - [dreamhomes/PCIC-2021-Track1](https://github.com/dreamhomes/PCIC-2021-Track1) - PCIC 2021 Track1: Causal Discovery
 - [Alro10/deep-learning-time-series](https://github.com/Alro10/deep-learning-time-series) - List of papers, code and experiments using deep learning for time series forecasting
@@ -296,6 +299,8 @@
 
 ## Python 
 
+- [shwars/mPyPl](https://github.com/shwars/mPyPl) - Monadic Pipeline Library for Python
+- [DataDog/dd-trace-py](https://github.com/DataDog/dd-trace-py) - Datadog Python APM Client
 - [minitorch/minitorch](https://github.com/minitorch/minitorch) - The full minitorch student suite.
 - [elenaehrlich/gluon-ts](https://github.com/elenaehrlich/gluon-ts) - Probabilistic time series modeling in Python
 - [pympler/pympler](https://github.com/pympler/pympler) - Development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.
