@@ -299,6 +299,7 @@
 
 ## Python 
 
+- [huawei-noah/noah-research](https://github.com/huawei-noah/noah-research) - Noah Research
 - [shwars/mPyPl](https://github.com/shwars/mPyPl) - Monadic Pipeline Library for Python
 - [DataDog/dd-trace-py](https://github.com/DataDog/dd-trace-py) - Datadog Python APM Client
 - [minitorch/minitorch](https://github.com/minitorch/minitorch) - The full minitorch student suite.
@@ -509,6 +510,7 @@
 
 ## TeX 
 
+- [CN-TU/machine-learning-in-ebpf](https://github.com/CN-TU/machine-learning-in-ebpf) - This repository contains the code for the paper "A flow-based IDS using Machine Learning in eBPF", Contact: Maximilian Bachl
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [chenkenbio/sysu-graduate-thesis](https://github.com/chenkenbio/sysu-graduate-thesis) - Sun Yat-sen University Graduate Thesis Template for School of Computer and Engineering (based on https://github.com/tuna/thuthesis)
 - [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers
