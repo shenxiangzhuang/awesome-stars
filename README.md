@@ -132,6 +132,7 @@
 
 ## Java 
 
+- [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
 - [GoogleCloudPlatform/df-ml-anomaly-detection](https://github.com/GoogleCloudPlatform/df-ml-anomaly-detection) - Streaming Anomaly Detection Solution by using Pub/Sub, Dataflow, BQML & Cloud DLP
 - [STAMP-project/dspot](https://github.com/STAMP-project/dspot) - Automatically detect and generate missing assertions for Junit test cases (also known as test amplification)
 - [vanilladb/vanillacore](https://github.com/vanilladb/vanillacore) - The core engine of VanillaDB
@@ -494,6 +495,7 @@
 
 ## Scala 
 
+- [niqdev/kafka-scala-examples](https://github.com/niqdev/kafka-scala-examples) - Examples of Avro, Kafka, Schema Registry, Kafka Streams, Interactive Queries, KSQL, Kafka Connect in Scala
 - [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
 - [mikemybytes/spark-fim](https://github.com/mikemybytes/spark-fim) - Frequent Itemsets Mining algorithms for Apache Spark
 - [jeffreyksmithjr/reactive-machine-learning-systems](https://github.com/jeffreyksmithjr/reactive-machine-learning-systems) - Code from the book Machine Learning Systems
