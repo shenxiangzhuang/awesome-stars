@@ -48,7 +48,6 @@
 
 - [RedisAI/RedisAI](https://github.com/RedisAI/RedisAI) - A Redis module for serving tensors and executing deep learning graphs
 - [cstack/db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
-- [cran/arules](https://github.com/cran/arules) - :exclamation: This is a read-only mirror of the CRAN R package repository.  arules — Mining Association Rules and Frequent Itemsets. Homepage: https://github.com/mhahsler/arules  Report bugs for this package: https://github.com/mhahsler/arules/issues
 - [begeekmyfriend/leetcode](https://github.com/begeekmyfriend/leetcode) - LeetCode in pure C
 - [julycoding/The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
 - [topepo/C5.0](https://github.com/topepo/C5.0) - An R package for fitting Quinlan's C5.0 classification model
@@ -367,7 +366,7 @@
 - [dmlc/dgl](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
 - [kevinzakka/recurrent-visual-attention](https://github.com/kevinzakka/recurrent-visual-attention) - A PyTorch Implementation of "Recurrent Models of Visual Attention"
 - [pcyin/pytorch_basic_nmt](https://github.com/pcyin/pytorch_basic_nmt) - A simple yet strong implementation of neural machine translation in pytorch
-- [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualize and explore big tabular data at a billion rows per second 🚀
+- [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
 - [MaxHalford/prince](https://github.com/MaxHalford/prince) - :crown: Python factor analysis library (PCA, CA, MCA, MFA, FAMD)
 - [logpai/loglizer](https://github.com/logpai/loglizer) - A log analysis toolkit for automated anomaly detection [ISSRE'16]
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies. An increasing number of  SOTA Quant research works/papers are released in Qlib.
@@ -463,6 +462,7 @@
 ## R 
 
 - [twitter/AnomalyDetection](https://github.com/twitter/AnomalyDetection) - Anomaly Detection with R
+- [cran/arules](https://github.com/cran/arules) - :exclamation: This is a read-only mirror of the CRAN R package repository.  arules — Mining Association Rules and Frequent Itemsets. Homepage: https://github.com/mhahsler/arules  Report bugs for this package: https://github.com/mhahsler/arules/issues
 - [meghanathmacha/xPACS](https://github.com/meghanathmacha/xPACS) - This repository has the code for the xPacks work that is under submission for academic conference. The code is protected under the below license
 - [robjhyndman/ctv-TimeSeries](https://github.com/robjhyndman/ctv-TimeSeries) - git mirror of CRAN Task View Time Series files
 - [kassambara/survminer](https://github.com/kassambara/survminer) - Survival Analysis and Visualization
