@@ -516,6 +516,7 @@
 
 ## TeX 
 
+- [wisdomfusion/latex-templates](https://github.com/wisdomfusion/latex-templates) - My ready-to-edit LaTeX templates, for books, articles, and notes, using XeLaTeX, specified both for Chinese and English documents.
 - [CN-TU/machine-learning-in-ebpf](https://github.com/CN-TU/machine-learning-in-ebpf) - This repository contains the code for the paper "A flow-based IDS using Machine Learning in eBPF", Contact: Maximilian Bachl
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [chenkenbio/sysu-graduate-thesis](https://github.com/chenkenbio/sysu-graduate-thesis) - Sun Yat-sen University Graduate Thesis Template for School of Computer and Engineering (based on https://github.com/tuna/thuthesis)
