@@ -155,7 +155,6 @@
 - [rpsychologist/rpsychologist-com](https://github.com/rpsychologist/rpsychologist-com) - Source code for https://rpsychologist.com
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
-- [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
 - [hammerlab/grafana-spark-dashboards](https://github.com/hammerlab/grafana-spark-dashboards) - Scripts for generating Grafana dashboards for monitoring Spark jobs
 - [yurtaev/idea-one-dark-theme](https://github.com/yurtaev/idea-one-dark-theme) - One Dark theme for IntelliJ IDEA, PhpStorm, PyCharm, RubyMine, WebStorm
 - [jjmontesl/cubesviewer](https://github.com/jjmontesl/cubesviewer) - Explore and visualize analytical datasets
@@ -274,7 +273,7 @@
 - [chenryn/aiops-handbook](https://github.com/chenryn/aiops-handbook) - Collection of slides, repositories, papers about AIOps
 - [ShameCom/ShameCom](https://github.com/ShameCom/ShameCom) - 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！
 - [linjinjin123/awesome-AIOps](https://github.com/linjinjin123/awesome-AIOps) - AIOps学习资料汇总，欢迎一起补全这个仓库，欢迎star
-- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Free ways to try out machine learning with Python and Jupyter Notebook. Free/open-source resources, notebooks, courses, and other links. First posted in 2016, maintained as of 2022. Pull requests welcome.
+- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. First posted in 2016, maintained as of 2022. Pull requests welcome!
 - [mrdbourke/machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
 - [mJackie/RecSys](https://github.com/mJackie/RecSys) - 计算广告/推荐系统/机器学习(Machine Learning)/点击率(CTR)/转化率(CVR)预估/点击率预估
 - [ppaquay/Learning-from-Data-Solutions](https://github.com/ppaquay/Learning-from-Data-Solutions) - Repository of my solutions to the problems of "Learning from Data"
@@ -519,7 +518,6 @@
 - [wisdomfusion/latex-templates](https://github.com/wisdomfusion/latex-templates) - My ready-to-edit LaTeX templates, for books, articles, and notes, using XeLaTeX, specified both for Chinese and English documents.
 - [CN-TU/machine-learning-in-ebpf](https://github.com/CN-TU/machine-learning-in-ebpf) - This repository contains the code for the paper "A flow-based IDS using Machine Learning in eBPF", Contact: Maximilian Bachl
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
-- [chenkenbio/sysu-graduate-thesis](https://github.com/chenkenbio/sysu-graduate-thesis) - Sun Yat-sen University Graduate Thesis Template for School of Computer and Engineering (based on https://github.com/tuna/thuthesis)
 - [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 - [yxnchen/sysu-beamer-template](https://github.com/yxnchen/sysu-beamer-template) - A LaTeX beamer template for SYSU. 中山大学LaTeX演示模板
@@ -540,6 +538,7 @@
 
 - [any86/any-rule](https://github.com/any86/any-rule) - 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 
 ## Vim script 
