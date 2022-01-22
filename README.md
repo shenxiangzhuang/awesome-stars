@@ -173,6 +173,7 @@
 
 ## Jupyter Notebook 
 
+- [paiml/python_devops_book](https://github.com/paiml/python_devops_book) - [Book-2020] Python For DevOps: Learn Ruthlessly Effective Automation
 - [roboticcam/machine-learning-notes](https://github.com/roboticcam/machine-learning-notes) - My continuously updated Machine Learning, Probabilistic Models and Deep Learning notes and demos (2000+ slides)  我不间断更新的机器学习，概率模型和深度学习的讲义(2000+页)和视频链接
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [Azure/AzurePublicDataset](https://github.com/Azure/AzurePublicDataset) - Microsoft Azure Traces
