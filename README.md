@@ -300,6 +300,8 @@
 
 ## Python 
 
+- [tartley/colorama](https://github.com/tartley/colorama) - Simple cross-platform colored terminal text in Python
+- [SheffieldML/GPy](https://github.com/SheffieldML/GPy) - Gaussian processes framework in python
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - In-Database Machine Learning
 - [openstack/debtcollector](https://github.com/openstack/debtcollector) - A collection of python patterns that help you collect your technical debt in a non-destructive manner. Mirror of code maintained at opendev.org.
 - [gnocchixyz/gnocchi](https://github.com/gnocchixyz/gnocchi) - Timeseries database
