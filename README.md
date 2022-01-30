@@ -302,6 +302,7 @@
 
 ## Python 
 
+- [idvxlab/vega-lite-linter](https://github.com/idvxlab/vega-lite-linter) - Fixing your visualization design written in Vega-Lite based on the answer set programming
 - [locuslab/TCN](https://github.com/locuslab/TCN) - Sequence modeling benchmarks and temporal convolutional networks
 - [tartley/colorama](https://github.com/tartley/colorama) - Simple cross-platform colored terminal text in Python
 - [SheffieldML/GPy](https://github.com/SheffieldML/GPy) - Gaussian processes framework in python
