@@ -141,7 +141,6 @@
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 - [Angel-ML/angel](https://github.com/Angel-ML/angel) - A Flexible and Powerful Parameter Server for large-scale machine learning
 - [rezacsedu/Mining-Maximal-Frequent-Pattern-Spark](https://github.com/rezacsedu/Mining-Maximal-Frequent-Pattern-Spark) - Implementation of Static mining part of "Mining maximal frequent patterns in transactional databases and dynamic data streams: A spark-based approach" Information Sciences, Volume 432, March 2018, Pages 278-300
-- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [heibaiying/BigData-Notes](https://github.com/heibaiying/BigData-Notes) - 大数据入门指南  :star:
 - [felipekunzler/spark-twitter-analysis](https://github.com/felipekunzler/spark-twitter-analysis) - Analyse a twitter dataset with Spark and vizualize the results on a React dashboard.
 
@@ -283,6 +282,7 @@
 - [ept/ddia-references](https://github.com/ept/ddia-references) - Literature references for “Designing Data-Intensive Applications”
 - [Alpha21016/Minecraft-Digital-Circuit](https://github.com/Alpha21016/Minecraft-Digital-Circuit) - Build digital circuits in Minecraft 在游戏我的世界中搭建数字电路
 - [spoddutur/spark-notes](https://github.com/spoddutur/spark-notes) - 
+- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [JerryLead/SparkInternals](https://github.com/JerryLead/SparkInternals) - Notes talking about the design and implementation of Apache Spark
 - [Trinkle23897/oi_slides](https://github.com/Trinkle23897/oi_slides) - 我的 OI 课件
 - [WalterInSH/risk-management-note](https://github.com/WalterInSH/risk-management-note) - 🧯风险控制笔记，适用于互联网企业
