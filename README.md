@@ -108,6 +108,7 @@
 
 ## HTML 
 
+- [jitsejan/python-flask-with-javascript](https://github.com/jitsejan/python-flask-with-javascript) - This repository contains an example app to communicate between JavaScript and Python.
 - [WestHealth/pyvis](https://github.com/WestHealth/pyvis) - Python package for creating and visualizing interactive network graphs.
 - [storopoli/Turing-Workshop](https://github.com/storopoli/Turing-Workshop) - Workshop of Bayesian Statistics using Julia and Turing
 - [itorr/nbnhhsh](https://github.com/itorr/nbnhhsh) - 😩「能不能好好说话？」 拼音首字母缩写翻译工具
