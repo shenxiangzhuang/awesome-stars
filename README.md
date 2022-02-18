@@ -304,6 +304,8 @@
 
 ## Python 
 
+- [koaning/scikit-lego](https://github.com/koaning/scikit-lego) - Extra blocks for scikit-learn pipelines.
+- [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [idvxlab/vega-lite-linter](https://github.com/idvxlab/vega-lite-linter) - Fixing your visualization design written in Vega-Lite based on the answer set programming
 - [locuslab/TCN](https://github.com/locuslab/TCN) - Sequence modeling benchmarks and temporal convolutional networks
 - [tartley/colorama](https://github.com/tartley/colorama) - Simple cross-platform colored terminal text in Python
