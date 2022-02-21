@@ -46,6 +46,7 @@
 
 ## C 
 
+- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [RedisAI/RedisAI](https://github.com/RedisAI/RedisAI) - A Redis module for serving tensors and executing deep learning graphs
 - [cstack/db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
@@ -101,6 +102,7 @@
 
 ## Go 
 
+- [ariga/atlas](https://github.com/ariga/atlas) - A database toolkit
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open-source vector database for scalable similarity search and AI applications.
 - [bilibili/gengine](https://github.com/bilibili/gengine) - 
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
@@ -116,6 +118,7 @@
 - [rstudio/concept-maps](https://github.com/rstudio/concept-maps) - Concept maps for all things data science
 - [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises: https://huyenchip.com/machine-learning-systems-design/toc.html
 - [MingChen0919/learning-apache-spark](https://github.com/MingChen0919/learning-apache-spark) - Notes on Apache Spark (pyspark)
+- [feng-li/Distributed-Statistical-Computing](https://github.com/feng-li/Distributed-Statistical-Computing) - Teaching Materials for Distributed Statistical Computing (大数据分布式计算教学材料)
 - [statsmaths/stat665](https://github.com/statsmaths/stat665) - Course website for STAT 665
 - [ursa-labs/ursa-labs.github.io](https://github.com/ursa-labs/ursa-labs.github.io) - 
 - [uc-r/uc-r.github.io](https://github.com/uc-r/uc-r.github.io) - Main repository for R programming courses @ University of Cincinnati, courses and tutorials that focus on data wrangling, exploration, visualization, and analysis with R.
@@ -216,7 +219,6 @@
 - [christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) - Book about interpretable machine learning
 - [m2dsupsdlclass/lectures-labs](https://github.com/m2dsupsdlclass/lectures-labs) - Slides and Jupyter notebooks for the Deep Learning lectures at Master Year 2 Data Science from Institut Polytechnique de Paris
 - [sevamoo/SOMPY](https://github.com/sevamoo/SOMPY) - A Python Library for Self Organizing Map (SOM)
-- [feng-li/Distributed-Statistical-Computing](https://github.com/feng-li/Distributed-Statistical-Computing) - Teaching Materials for Distributed Statistical Computing (大数据分布式计算教学材料)
 - [nndl/exercise](https://github.com/nndl/exercise) - exercise for nndl
 - [hktxt/Learn-Statistical-Learning-Method](https://github.com/hktxt/Learn-Statistical-Learning-Method) - Implementation of Statistical Learning Method, Second Edition.《统计学习方法》第二版，算法实现。
 - [pandas-profiling/pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
@@ -305,6 +307,7 @@
 
 ## Python 
 
+- [loglabs/mltrace-demo](https://github.com/loglabs/mltrace-demo) - Python ML pipeline that showcases mltrace functionality.
 - [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl) - Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Google BigQuery https://goo.gl/oY5BCQ
 - [bycycle-tools/bycycle](https://github.com/bycycle-tools/bycycle) - Cycle-by-cycle analysis of neural oscillations.
 - [koaning/scikit-lego](https://github.com/koaning/scikit-lego) - Extra blocks for scikit-learn pipelines.
@@ -396,7 +399,7 @@
 - [cosmicpython/book](https://github.com/cosmicpython/book) - A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho.
 - [wemake-services/wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
-- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
+- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Machine learning: a probabilistic perspective" (2nd edition)
 - [ray-project/ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
