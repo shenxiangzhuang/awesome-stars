@@ -224,7 +224,7 @@
 - [sevamoo/SOMPY](https://github.com/sevamoo/SOMPY) - A Python Library for Self Organizing Map (SOM)
 - [nndl/exercise](https://github.com/nndl/exercise) - exercise for nndl
 - [hktxt/Learn-Statistical-Learning-Method](https://github.com/hktxt/Learn-Statistical-Learning-Method) - Implementation of Statistical Learning Method, Second Edition.《统计学习方法》第二版，算法实现。
-- [pandas-profiling/pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
+- [ydataai/pandas-profiling](https://github.com/ydataai/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [davidrosenberg/mlcourse](https://github.com/davidrosenberg/mlcourse) - Machine learning course materials.
 - [ZhuoruLin/DSGA1003_ML](https://github.com/ZhuoruLin/DSGA1003_ML) - NYU Data Science Course DSGA-1003 Machine Learning Assignments.
 - [devAmoghS/Python-Interview-Problems-for-Practice](https://github.com/devAmoghS/Python-Interview-Problems-for-Practice) - 120+ Common code and interview problems solved in Python **(it's GROWING...)** Give a Star 🌟If it helps you. Please go through the README.md before starting.
@@ -257,7 +257,7 @@
 
 ## Others 
 
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese).
 - [HuaizhengZhang/Awesome-System-for-Machine-Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning) - A curated list of research in machine learning systems (MLSys). Paper notes are also provided.
 - [DataSystemsGroupUT/AutoML_Survey](https://github.com/DataSystemsGroupUT/AutoML_Survey) - 
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
