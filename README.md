@@ -153,6 +153,7 @@
 
 ## JavaScript 
 
+- [JeanJouliaCode/wipeClean](https://github.com/JeanJouliaCode/wipeClean) - 
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [IceEnd/Yosoro](https://github.com/IceEnd/Yosoro) - :shaved_ice:Beautiful Markdown NoteBook. 🏖
 - [danpaz/bodybuilder](https://github.com/danpaz/bodybuilder) - An elasticsearch query body builder :muscle:
@@ -310,6 +311,7 @@
 
 ## Python 
 
+- [eugeneyan/testing-ml](https://github.com/eugeneyan/testing-ml) - 🔍 Minimal examples of machine learning tests for implementation, behaviour, and performance.
 - [rushter/MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms implementations
 - [kaidic/LDAM-DRW](https://github.com/kaidic/LDAM-DRW) - [NeurIPS 2019] Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss
 - [alkaline-ml/pmdarima](https://github.com/alkaline-ml/pmdarima) - A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function.
