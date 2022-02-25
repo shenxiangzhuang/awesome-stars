@@ -182,6 +182,7 @@
 
 ## Jupyter Notebook 
 
+- [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica) - New version of the website
 - [rasbt/deeplearning-models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips
 - [paiml/python_devops_book](https://github.com/paiml/python_devops_book) - [Book-2020] Python For DevOps: Learn Ruthlessly Effective Automation
 - [roboticcam/machine-learning-notes](https://github.com/roboticcam/machine-learning-notes) - My continuously updated Machine Learning, Probabilistic Models and Deep Learning notes and demos (2000+ slides)  我不间断更新的机器学习，概率模型和深度学习的讲义(2000+页)和视频链接
@@ -311,6 +312,7 @@
 
 ## Python 
 
+- [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [eugeneyan/testing-ml](https://github.com/eugeneyan/testing-ml) - 🔍 Minimal examples of machine learning tests for implementation, behaviour, and performance.
 - [rushter/MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms implementations
 - [kaidic/LDAM-DRW](https://github.com/kaidic/LDAM-DRW) - [NeurIPS 2019] Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss
