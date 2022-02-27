@@ -96,6 +96,7 @@
 
 - [typlog/sphinx-typlog-theme](https://github.com/typlog/sphinx-typlog-theme) - A sphinx theme by Typlog
 - [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 一个比较特别的 Hexo 主题
+- [vatlab/sos-notebook](https://github.com/vatlab/sos-notebook) - Multi-language Jupyter Notebook
 
 ## Erlang 
 
@@ -308,7 +309,7 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [CPdogson/996action](https://github.com/CPdogson/996action) - 
 - [sysuexam/SYSU-Exam](https://github.com/sysuexam/SYSU-Exam) - 收集整理SYSU期末考试卷子、资料
-- [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
+- [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book ，配套视频教程：https://www.bilibili.com/video/BV1Mh411e7VU
 - [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 
 ## Python 
@@ -461,7 +462,6 @@
 - [maoxc/rmq](https://github.com/maoxc/rmq) - Range minimum query data structures
 - [DataBrewery/cubes](https://github.com/DataBrewery/cubes) - Light-weight Python OLAP framework for multi-dimensional data analysis
 - [spry-group/python-vultr](https://github.com/spry-group/python-vultr) - Vultr Python Client library
-- [vatlab/sos-notebook](https://github.com/vatlab/sos-notebook) - Multi-language Jupyter Notebook
 - [careermonk/data-structures-and-algorithmic-thinking-with-python](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-python) - Data Structure And Algorithmic Thinking With Python
 - [davecom/ClassicComputerScienceProblemsInPython](https://github.com/davecom/ClassicComputerScienceProblemsInPython) - Source Code for the Book Classic Computer Science Problems in Python
 - [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2021年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
