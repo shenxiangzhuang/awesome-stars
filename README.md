@@ -262,6 +262,7 @@
 
 ## Others 
 
+- [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac :tada: Open an issue here to give feedback or ask for help.
 - [HuaizhengZhang/Awesome-System-for-Machine-Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning) - A curated list of research in machine learning systems (MLSys). Paper notes are also provided.
 - [DataSystemsGroupUT/AutoML_Survey](https://github.com/DataSystemsGroupUT/AutoML_Survey) - 
