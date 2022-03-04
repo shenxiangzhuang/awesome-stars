@@ -316,6 +316,9 @@
 
 ## Python 
 
+- [pypyr/pypyr](https://github.com/pypyr/pypyr) - pypyr task-runner cli & api for automation pipelines. Automate anything by combining commands, different scripts in different languages & applications into one pipeline process.
+- [invl/retry](https://github.com/invl/retry) - easy to use retry decorator in python
+- [geoopt/geoopt](https://github.com/geoopt/geoopt) - Riemannian Adaptive Optimization Methods with pytorch optim
 - [influxdata/influxdb-python](https://github.com/influxdata/influxdb-python) - Python client for InfluxDB
 - [winedarksea/AutoTS](https://github.com/winedarksea/AutoTS) - Automated Time Series Forecasting
 - [pytest-dev/pytest-html](https://github.com/pytest-dev/pytest-html) - Plugin for generating HTML reports for pytest results
