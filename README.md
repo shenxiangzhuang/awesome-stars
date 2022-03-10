@@ -187,6 +187,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/EconML](https://github.com/microsoft/EconML) - ALICE (Automated Learning and Intelligence for Causation and Economics) is a Microsoft Research project aimed at applying Artificial Intelligence concepts to economic decision making. One of its  goals is to build a toolkit that combines state-of-the-art machine learning techniques with econometrics in order to bring automation to complex causal inference problems. To date, the ALICE Python SDK (econml) implements orthogonal machine learning algorithms such as the double machine learning work of Chernozhukov et al. This toolkit is designed to measure the causal effect of some treatment variable(s) t on an outcome variable y, controlling for a set of features x.
 - [Azure/MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft
 - [DanielBok/copulae](https://github.com/DanielBok/copulae) - Multivariate data modelling with Copulas in Python
 - [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica) - New version of the website
