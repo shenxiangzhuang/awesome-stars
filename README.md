@@ -157,8 +157,9 @@
 
 ## JavaScript 
 
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [JeanJouliaCode/wipeClean](https://github.com/JeanJouliaCode/wipeClean) - 
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese).
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [IceEnd/Yosoro](https://github.com/IceEnd/Yosoro) - :shaved_ice:Beautiful Markdown NoteBook. 🏖
 - [danpaz/bodybuilder](https://github.com/danpaz/bodybuilder) - An elasticsearch query body builder :muscle:
@@ -321,6 +322,8 @@
 
 ## Python 
 
+- [keiichishima/pcalg](https://github.com/keiichishima/pcalg) - CPDAG Estimation using PC-Algorithm
+- [FenTechSolutions/CausalDiscoveryToolbox](https://github.com/FenTechSolutions/CausalDiscoveryToolbox) - Package for causal inference in graphs and in the pairwise settings. Tools for graph structure recovery and dependencies are included.
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [scikit-multiflow/scikit-multiflow](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning package for streaming data in Python. The other ancestor of River.
 - [pypyr/pypyr](https://github.com/pypyr/pypyr) - pypyr task-runner cli & api for automation pipelines. Automate anything by combining commands, different scripts in different languages & applications into one pipeline process.
@@ -498,6 +501,7 @@
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [shubhamjha97/hierarchical-clustering](https://github.com/shubhamjha97/hierarchical-clustering) - A Python implementation of divisive and hierarchical clustering algorithms. The algorithms were tested on the Human Gene DNA Sequence dataset and dendrograms were plotted.
 - [ZwEin27/Hierarchical-Clustering](https://github.com/ZwEin27/Hierarchical-Clustering) - Hierarchical Clustering Python Implementation
+- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [svaante/decision-tree-id3](https://github.com/svaante/decision-tree-id3) - 
 - [SmirkCao/Lihang](https://github.com/SmirkCao/Lihang) - Statistical learning methods, 统计学习方法(第2版)[李航]  [笔记, 代码, notebook, 参考文献, Errata, lihang]
 - [WenDesi/lihang_book_algorithm](https://github.com/WenDesi/lihang_book_algorithm) - 致力于将李航博士《统计学习方法》一书中所有算法实现一遍
@@ -593,7 +597,6 @@
 - [any86/any-rule](https://github.com/any86/any-rule) - 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
-- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 
 ## Vim script 
 
