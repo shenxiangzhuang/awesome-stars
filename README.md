@@ -105,6 +105,7 @@
 
 ## Go 
 
+- [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [sturdy-dev/sturdy](https://github.com/sturdy-dev/sturdy) - 🐥 Sturdy is an open-source, real-time, version control platform for startups (https://getsturdy.com)
 - [didi/nightingale](https://github.com/didi/nightingale) - An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and management.
 - [ariga/atlas](https://github.com/ariga/atlas) - A database toolkit
@@ -322,6 +323,7 @@
 
 ## Python 
 
+- [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) - OpenTelemetry Python API and SDK
 - [keiichishima/pcalg](https://github.com/keiichishima/pcalg) - CPDAG Estimation using PC-Algorithm
 - [FenTechSolutions/CausalDiscoveryToolbox](https://github.com/FenTechSolutions/CausalDiscoveryToolbox) - Package for causal inference in graphs and in the pairwise settings. Tools for graph structure recovery and dependencies are included.
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
