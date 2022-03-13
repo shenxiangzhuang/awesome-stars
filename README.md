@@ -52,6 +52,7 @@
 - [cstack/db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
 - [begeekmyfriend/leetcode](https://github.com/begeekmyfriend/leetcode) - LeetCode in pure C
 - [julycoding/The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
+- [zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation
 - [topepo/C5.0](https://github.com/topepo/C5.0) - An R package for fitting Quinlan's C5.0 classification model
 - [ccpalettes/the-c-programming-language-second-edition-solutions](https://github.com/ccpalettes/the-c-programming-language-second-edition-solutions) - Solutions for all exercises in the book "The C Programming Language - Second Edition"(referred to as K&R, after its authors' initials) by Brian W. Kernighan and Dennis M. Ritchie.
 
@@ -465,7 +466,6 @@
 - [shenxiangzhuang/ToyData](https://github.com/shenxiangzhuang/ToyData) - Data Structures in Python.
 - [Apress/pyspark-recipes](https://github.com/Apress/pyspark-recipes) - Source code for 'PySpark Recipes' by Raju Kumar Mishra
 - [shenweichen/GraphEmbedding](https://github.com/shenweichen/GraphEmbedding) - Implementation and experiments  of graph embedding algorithms.
-- [zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation
 - [ResidentMario/missingno](https://github.com/ResidentMario/missingno) - Missing data visualization module for Python.
 - [dkaslovsky/Coupled-Biased-Random-Walks](https://github.com/dkaslovsky/Coupled-Biased-Random-Walks) - Outlier detection for categorical data
 - [zero323/pyspark-stubs](https://github.com/zero323/pyspark-stubs) - Apache (Py)Spark type annotations  (stub files).
