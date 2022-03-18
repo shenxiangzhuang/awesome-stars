@@ -66,6 +66,7 @@
 
 ## C++ 
 
+- [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a performance-centered and open-source deep learning framework.
 - [ZhangShurong/rebucket](https://github.com/ZhangShurong/rebucket) - ReBucket – A Method for Clustering Duplicate Crash Reports based on Call Stack Similarity
 - [mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
@@ -332,7 +333,7 @@
 ## Python 
 
 - [selimfirat/pysad](https://github.com/selimfirat/pysad) - Streaming Anomaly Detection Framework in Python (Outlier Detection for Streaming Data)
-- [Stream-AD/MemStream](https://github.com/Stream-AD/MemStream) - MemStream: Memory-Based Anomaly Detection in Multi-Aspect Streams with Concept Drift
+- [Stream-AD/MemStream](https://github.com/Stream-AD/MemStream) - MemStream: Memory-Based Streaming Anomaly Detection
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [cmu-phil/causal-learn](https://github.com/cmu-phil/causal-learn) - Causal Discovery for Python. Translation and extension of the Tetrad Java code.
 - [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) - OpenTelemetry Python API and SDK
