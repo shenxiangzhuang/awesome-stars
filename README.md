@@ -22,7 +22,6 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [Makefile](#makefile)
   - [Markdown](#markdown)
-  - [Objective-C](#objective-c)
   - [Others](#others)
   - [Python](#python)
   - [R](#r)
@@ -49,6 +48,7 @@
 
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
+- [CN-TU/machine-learning-in-ebpf](https://github.com/CN-TU/machine-learning-in-ebpf) - This repository contains the code for the paper "A flow-based IDS using Machine Learning in eBPF", Contact: Maximilian Bachl
 - [RedisAI/RedisAI](https://github.com/RedisAI/RedisAI) - A Redis module for serving tensors and executing deep learning graphs
 - [cstack/db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
 - [begeekmyfriend/leetcode](https://github.com/begeekmyfriend/leetcode) - LeetCode in pure C
@@ -274,12 +274,9 @@
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
-## Objective-C 
-
-- [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。
-
 ## Others 
 
+- [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac :tada: Open an issue here to give feedback or ask for help.
 - [HuaizhengZhang/Awesome-System-for-Machine-Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning) - A curated list of research in machine learning systems (MLSys). Paper notes are also provided.
@@ -589,7 +586,6 @@
 
 - [vdumoulin/conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic) - A technical report on convolution arithmetic in the context of deep learning
 - [wisdomfusion/latex-templates](https://github.com/wisdomfusion/latex-templates) - My ready-to-edit LaTeX templates, for books, articles, and notes, using XeLaTeX, specified both for Chinese and English documents.
-- [CN-TU/machine-learning-in-ebpf](https://github.com/CN-TU/machine-learning-in-ebpf) - This repository contains the code for the paper "A flow-based IDS using Machine Learning in eBPF", Contact: Maximilian Bachl
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
