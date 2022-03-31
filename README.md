@@ -29,6 +29,7 @@
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [SCSS](#scss)
   - [Scala](#scala)
   - [Shell](#shell)
   - [Swift](#swift)
@@ -120,6 +121,7 @@
 
 ## HTML 
 
+- [sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 - [quantifiedcode/python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns) - An open collection of Python anti-patterns and worst practices.
 - [jitsejan/python-flask-with-javascript](https://github.com/jitsejan/python-flask-with-javascript) - This repository contains an example app to communicate between JavaScript and Python.
 - [WestHealth/pyvis](https://github.com/WestHealth/pyvis) - Python package for creating and visualizing interactive network graphs.
@@ -147,7 +149,7 @@
 
 ## Java 
 
-- [alibaba/SREWorks](https://github.com/alibaba/SREWorks) - 
+- [alibaba/SREWorks](https://github.com/alibaba/SREWorks) - 提供专业高效、安全可靠的一站式"数据化、智能化"运维SaaS应用套件（交、监、管、控、营、服）和云原生运维开发平台
 - [aws/random-cut-forest-by-aws](https://github.com/aws/random-cut-forest-by-aws) - An implementation of the Random Cut Forest data structure for sketching streaming data, with support for anomaly detection, density estimation, imputation, and more.
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
 - [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
@@ -564,6 +566,10 @@
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 
+## SCSS 
+
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
+
 ## Scala 
 
 - [niqdev/kafka-scala-examples](https://github.com/niqdev/kafka-scala-examples) - Examples of Avro, Kafka, Schema Registry, Kafka Streams, Interactive Queries, KSQL, Kafka Connect in Scala
@@ -576,6 +582,7 @@
 
 ## Shell 
 
+- [samoshkin/tmux-config](https://github.com/samoshkin/tmux-config) - Tmux configuration, that supercharges your tmux to build cozy and cool terminal environment
 - [apachecn/awesome-cs-courses-zh](https://github.com/apachecn/awesome-cs-courses-zh) - 计算机公开课推荐
 - [steveloughran/winutils](https://github.com/steveloughran/winutils) - Windows binaries for Hadoop versions (built from the git commit ID used for the ASF relase)
 
