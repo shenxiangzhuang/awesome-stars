@@ -22,6 +22,7 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [Makefile](#makefile)
   - [Markdown](#markdown)
+  - [Nix](#nix)
   - [Others](#others)
   - [Python](#python)
   - [R](#r)
@@ -280,6 +281,10 @@
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
+## Nix 
+
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+
 ## Others 
 
 - [piglei/one-python-craftsman](https://github.com/piglei/one-python-craftsman) - 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
@@ -338,6 +343,7 @@
 
 ## Python 
 
+- [jingxil/Neural-Decision-Forests](https://github.com/jingxil/Neural-Decision-Forests) - An implementation of the Deep Neural Decision Forests in PyTorch
 - [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC)
 - [AlexImmer/Laplace](https://github.com/AlexImmer/Laplace) - Laplace approximations for Deep Learning.
 - [laike9m/Cyberbrain](https://github.com/laike9m/Cyberbrain) - Python debugging, redefined.
