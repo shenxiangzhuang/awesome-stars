@@ -345,6 +345,8 @@
 
 ## Python 
 
+- [etingof/pysnmp](https://github.com/etingof/pysnmp) - Python SNMP library
+- [sourceperl/pyModbusTCP](https://github.com/sourceperl/pyModbusTCP) - A simple Modbus/TCP library for Python
 - [jingxil/Neural-Decision-Forests](https://github.com/jingxil/Neural-Decision-Forests) - An implementation of the Deep Neural Decision Forests in PyTorch
 - [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC)
 - [AlexImmer/Laplace](https://github.com/AlexImmer/Laplace) - Laplace approximations for Deep Learning.
