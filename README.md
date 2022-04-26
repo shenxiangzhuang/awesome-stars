@@ -151,6 +151,8 @@
 
 ## Java 
 
+- [deepjavalibrary/djl](https://github.com/deepjavalibrary/djl) - An Engine-Agnostic Deep Learning Framework in Java
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
 - [linkedin/cruise-control](https://github.com/linkedin/cruise-control) - Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a Kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters.
 - [alibaba/SREWorks](https://github.com/alibaba/SREWorks) - 提供专业高效、安全可靠的一站式"数据化、智能化"运维SaaS应用套件（交、监、管、控、营、服）和云原生运维开发平台
 - [aws/random-cut-forest-by-aws](https://github.com/aws/random-cut-forest-by-aws) - An implementation of the Random Cut Forest data structure for sketching streaming data, with support for anomaly detection, density estimation, imputation, and more.
@@ -345,6 +347,7 @@
 
 ## Python 
 
+- [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [etingof/pysnmp](https://github.com/etingof/pysnmp) - Python SNMP library
 - [sourceperl/pyModbusTCP](https://github.com/sourceperl/pyModbusTCP) - A simple Modbus/TCP library for Python
 - [jingxil/Neural-Decision-Forests](https://github.com/jingxil/Neural-Decision-Forests) - An implementation of the Deep Neural Decision Forests in PyTorch
@@ -603,6 +606,7 @@
 
 ## Shell 
 
+- [xbin-io/xbin](https://github.com/xbin-io/xbin) - Your serverless cli toolkit.
 - [LesnyRumcajs/grpc_bench](https://github.com/LesnyRumcajs/grpc_bench) - Various gRPC benchmarks
 - [samoshkin/tmux-config](https://github.com/samoshkin/tmux-config) - Tmux configuration, that supercharges your tmux to build cozy and cool terminal environment
 - [apachecn/awesome-cs-courses-zh](https://github.com/apachecn/awesome-cs-courses-zh) - 计算机公开课推荐
