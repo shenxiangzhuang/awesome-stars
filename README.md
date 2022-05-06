@@ -20,6 +20,7 @@
   - [JavaScript](#javascript)
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
+  - [Less](#less)
   - [Makefile](#makefile)
   - [Markdown](#markdown)
   - [Nix](#nix)
@@ -69,6 +70,7 @@
 
 ## C++ 
 
+- [pytorch/FBGEMM](https://github.com/pytorch/FBGEMM) - FB (Facebook) + GEMM (General Matrix-Matrix Multiplication) - https://code.fb.com/ml-applications/fbgemm/
 - [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a performance-centered and open-source deep learning framework.
 - [ZhangShurong/rebucket](https://github.com/ZhangShurong/rebucket) - ReBucket – A Method for Clustering Duplicate Crash Reports based on Call Stack Similarity
 - [mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
@@ -275,6 +277,10 @@
 - [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
 - [IHaskell/IHaskell](https://github.com/IHaskell/IHaskell) - A Haskell kernel for the Jupyter project.
 
+## Less 
+
+- [shenliyang/hexo-theme-snippet](https://github.com/shenliyang/hexo-theme-snippet) - Snippet 简洁而不简单，也许是一款你寻找已久的hexo主题
+
 ## Makefile 
 
 - [tomwhite/hadoop-book](https://github.com/tomwhite/hadoop-book) - Example source code accompanying O'Reilly's "Hadoop: The Definitive Guide" by Tom White
@@ -291,6 +297,7 @@
 
 ## Others 
 
+- [qingsongedu/time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review) - A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.
 - [debugging-assistant/Revelio](https://github.com/debugging-assistant/Revelio) - 
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
 - [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
@@ -350,6 +357,10 @@
 
 ## Python 
 
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
+- [etingof/snmpsim](https://github.com/etingof/snmpsim) - SNMP Simulator
+- [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
+- [rochacbruno/dynaconf](https://github.com/rochacbruno/dynaconf) - Configuration Management for Python ⚙
 - [viniciuschiele/flask-apscheduler](https://github.com/viniciuschiele/flask-apscheduler) - Adds APScheduler support to Flask
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [etingof/pysnmp](https://github.com/etingof/pysnmp) - Python SNMP library
