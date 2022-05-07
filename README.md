@@ -114,6 +114,7 @@
 
 ## Go 
 
+- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Production infrastructure for machine learning at scale
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 - [open-falcon/falcon-plus](https://github.com/open-falcon/falcon-plus) - An open-source and enterprise-level monitoring system.
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
@@ -156,7 +157,7 @@
 
 - [deepjavalibrary/djl](https://github.com/deepjavalibrary/djl) - An Engine-Agnostic Deep Learning Framework in Java
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
-- [linkedin/cruise-control](https://github.com/linkedin/cruise-control) - Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a Kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters.
+- [linkedin/cruise-control](https://github.com/linkedin/cruise-control) - Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a Kafka cluster. It provides great value to Kafka users by simplifying the operation of Kaf
 - [alibaba/SREWorks](https://github.com/alibaba/SREWorks) - 提供专业高效、安全可靠的一站式"数据化、智能化"运维SaaS应用套件（交、监、管、控、营、服）和云原生运维开发平台
 - [aws/random-cut-forest-by-aws](https://github.com/aws/random-cut-forest-by-aws) - An implementation of the Random Cut Forest data structure for sketching streaming data, with support for anomaly detection, density estimation, imputation, and more.
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
@@ -168,7 +169,7 @@
 - [tdunning/t-digest](https://github.com/tdunning/t-digest) - A new data structure for accurate on-line accumulation of rank-based statistics such as quantiles and trimmed means
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 - [Angel-ML/angel](https://github.com/Angel-ML/angel) - A Flexible and Powerful Parameter Server for large-scale machine learning
-- [rezacsedu/Mining-Maximal-Frequent-Pattern-Spark](https://github.com/rezacsedu/Mining-Maximal-Frequent-Pattern-Spark) - Implementation of Static mining part of "Mining maximal frequent patterns in transactional databases and dynamic data streams: A spark-based approach" Information Sciences, Volume 432, March 2018, Pages 278-300
+- [rezacsedu/Mining-Maximal-Frequent-Pattern-Spark](https://github.com/rezacsedu/Mining-Maximal-Frequent-Pattern-Spark) - Implementation of Static mining part of "Mining maximal frequent patterns in transactional databases and dynamic data streams: A spark-based approach" Information Sciences, Volume 432, March 2018, Pag
 - [heibaiying/BigData-Notes](https://github.com/heibaiying/BigData-Notes) - 大数据入门指南  :star:
 - [felipekunzler/spark-twitter-analysis](https://github.com/felipekunzler/spark-twitter-analysis) - Analyse a twitter dataset with Spark and vizualize the results on a React dashboard.
 
@@ -191,12 +192,11 @@
 - [hammerlab/grafana-spark-dashboards](https://github.com/hammerlab/grafana-spark-dashboards) - Scripts for generating Grafana dashboards for monitoring Spark jobs
 - [yurtaev/idea-one-dark-theme](https://github.com/yurtaev/idea-one-dark-theme) - One Dark theme for IntelliJ IDEA, PhpStorm, PyCharm, RubyMine, WebStorm
 - [jjmontesl/cubesviewer](https://github.com/jjmontesl/cubesviewer) - Explore and visualize analytical datasets
-- [b3log/baidu-netdisk-downloaderx](https://github.com/b3log/baidu-netdisk-downloaderx) - ⚡️ 一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
-- [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
+- [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.0
 
 ## Julia 
 
@@ -207,8 +207,8 @@
 ## Jupyter Notebook 
 
 - [lindseysbrown/Auto-eD](https://github.com/lindseysbrown/Auto-eD) - A web based tool for visualization of the forward and reverse modes of automatic differentiation
-- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
-- [microsoft/EconML](https://github.com/microsoft/EconML) - ALICE (Automated Learning and Intelligence for Causation and Economics) is a Microsoft Research project aimed at applying Artificial Intelligence concepts to economic decision making. One of its  goals is to build a toolkit that combines state-of-the-art machine learning techniques with econometrics in order to bring automation to complex causal inference problems. To date, the ALICE Python SDK (econml) implements orthogonal machine learning algorithms such as the double machine learning work of Chernozhukov et al. This toolkit is designed to measure the causal effect of some treatment variable(s) t on an outcome variable y, controlling for a set of features x.
+- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan
+- [microsoft/EconML](https://github.com/microsoft/EconML) - ALICE (Automated Learning and Intelligence for Causation and Economics) is a Microsoft Research project aimed at applying Artificial Intelligence concepts to economic decision making. One of its  goal
 - [Azure/MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft
 - [DanielBok/copulae](https://github.com/DanielBok/copulae) - Multivariate data modelling with Copulas in Python
 - [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica) - A computer science textbook
@@ -245,7 +245,7 @@
 - [makeyourownneuralnetwork/makeyourownneuralnetwork](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork) - Code for the Make Your Own Neural Network book
 - [DataForScience/DeepLearning](https://github.com/DataForScience/DeepLearning) - Deep Learning From Scratch
 - [intel-analytics/BigDL](https://github.com/intel-analytics/BigDL) - Building Large-Scale AI Applications for Distributed Big Data
-- [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
+- [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters
 - [blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series:
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 - [Atcold/pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) - Deep Learning (with PyTorch)
@@ -394,7 +394,7 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [loglabs/mltrace-demo](https://github.com/loglabs/mltrace-demo) - Python ML pipeline that showcases mltrace functionality.
-- [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl) - Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Google BigQuery https://goo.gl/oY5BCQ
+- [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl) - Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Go
 - [bycycle-tools/bycycle](https://github.com/bycycle-tools/bycycle) - Cycle-by-cycle analysis of neural oscillations.
 - [koaning/scikit-lego](https://github.com/koaning/scikit-lego) - Extra blocks for scikit-learn pipelines.
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
@@ -452,14 +452,14 @@
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [johannfaouzi/pyts](https://github.com/johannfaouzi/pyts) - A Python package for time series classification
 - [target/matrixprofile-ts](https://github.com/target/matrixprofile-ts) - A Python library for detecting patterns and anomalies in massive datasets using the Matrix Profile
-- [microsoft/dowhy](https://github.com/microsoft/dowhy) - DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks.
+- [microsoft/dowhy](https://github.com/microsoft/dowhy) - DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical
 - [KIT-IAI/pyWATTS](https://github.com/KIT-IAI/pyWATTS) - pyWATTS: Python Workflow Automation Tool for Time-Series
 - [TDAmeritrade/stumpy](https://github.com/TDAmeritrade/stumpy) - STUMPY is a powerful and scalable Python library for modern time series analysis
 - [kLabUM/rrcf](https://github.com/kLabUM/rrcf) - 🌲 Implementation of the Robust Random Cut Forest algorithm for anomaly detection on streams
 - [ariaghora/robust-period](https://github.com/ariaghora/robust-period) - Unofficial Implementation of RobustPeriod: Time-Frequency Mining for Robust Multiple Periodicities Detection
 - [slaypni/fastdtw](https://github.com/slaypni/fastdtw) - A Python implementation of FastDTW
 - [gabfl/redis-priority-queue](https://github.com/gabfl/redis-priority-queue) - Simple Redis work queue with added features (priorities, pop multiple items at once)
-- [facebookresearch/Kats](https://github.com/facebookresearch/Kats) - Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.
+- [facebookresearch/Kats](https://github.com/facebookresearch/Kats) - Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics,
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - The Unified Model Serving Framework 🍱
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
@@ -479,7 +479,7 @@
 - [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
 - [MaxHalford/prince](https://github.com/MaxHalford/prince) - :crown: Python factor analysis library (PCA, CA, MCA, MFA, FAMD)
 - [logpai/loglizer](https://github.com/logpai/loglizer) - A log analysis toolkit for automated anomaly detection [ISSRE'16]
-- [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies. An increasing number of  SOTA Quant research works/papers are released in Qlib.
+- [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you c
 - [abilian/olapy](https://github.com/abilian/olapy) - OlaPy, an experimental OLAP engine based on Pandas
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
@@ -487,7 +487,7 @@
 - [wemake-services/wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
-- [ray-project/ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
+- [ray-project/ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperp
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [fars-data-analysis/FIS](https://github.com/fars-data-analysis/FIS) - Frequent Itemsets in Map-Reduce with Spark
 - [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
@@ -537,12 +537,12 @@
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [DestructHub/ProjectEuler](https://github.com/DestructHub/ProjectEuler) - Polyglot solutions for www.projecteuler.net mathematical challenges
 - [joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch) - code for Data Science From Scratch book
-- [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
+- [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 - [ddbourgin/numpy-ml](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
 - [rougier/numpy-100](https://github.com/rougier/numpy-100) - 100 numpy exercises (with solutions)
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [LasseRegin/SVM-w-SMO](https://github.com/LasseRegin/SVM-w-SMO) - Simple implementation of a Support Vector Machine using the Sequential Minimal Optimization (SMO) algorithm for training.
-- [chuanconggao/PrefixSpan-py](https://github.com/chuanconggao/PrefixSpan-py) - The shortest yet efficient Python implementation of the sequential pattern mining algorithm PrefixSpan, closed sequential pattern mining algorithm BIDE, and generator sequential pattern mining algorithm FEAT.
+- [chuanconggao/PrefixSpan-py](https://github.com/chuanconggao/PrefixSpan-py) - The shortest yet efficient Python implementation of the sequential pattern mining algorithm PrefixSpan, closed sequential pattern mining algorithm BIDE, and generator sequential pattern mining algorit
 - [voila-dashboards/voila](https://github.com/voila-dashboards/voila) - Voilà turns Jupyter notebooks into standalone web applications
 - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
@@ -571,7 +571,7 @@
 
 - [SteffenMoritz/imputeTS](https://github.com/SteffenMoritz/imputeTS) - CRAN R Package: Time Series Missing Value Imputation
 - [twitter/AnomalyDetection](https://github.com/twitter/AnomalyDetection) - Anomaly Detection with R
-- [cran/arules](https://github.com/cran/arules) - :exclamation: This is a read-only mirror of the CRAN R package repository.  arules — Mining Association Rules and Frequent Itemsets. Homepage: https://github.com/mhahsler/arules  Report bugs for this package: https://github.com/mhahsler/arules/issues
+- [cran/arules](https://github.com/cran/arules) - :exclamation: This is a read-only mirror of the CRAN R package repository.  arules — Mining Association Rules and Frequent Itemsets. Homepage: https://github.com/mhahsler/arules  Report bugs for this
 - [meghanathmacha/xPACS](https://github.com/meghanathmacha/xPACS) - This repository has the code for the xPacks work that is under submission for academic conference. The code is protected under the below license
 - [robjhyndman/ctv-TimeSeries](https://github.com/robjhyndman/ctv-TimeSeries) - git mirror of CRAN Task View Time Series files
 - [kassambara/survminer](https://github.com/kassambara/survminer) - Survival Analysis and Visualization
@@ -580,7 +580,7 @@
 - [swirldev/swirl](https://github.com/swirldev/swirl) - :cyclone: Learn R, in R.
 - [yihui/animation](https://github.com/yihui/animation) - A gallery of animations in statistics and utilities to create animations
 - [ajtulloch/Elements-of-Statistical-Learning](https://github.com/ajtulloch/Elements-of-Statistical-Learning) - Contains LaTeX, SciPy and R code providing solutions to exercises in Elements of Statistical Learning (Hastie, Tibshirani & Friedman)
-- [cran/ElemStatLearn](https://github.com/cran/ElemStatLearn) - :exclamation: This is a read-only mirror of the CRAN R package repository.  ElemStatLearn — Data Sets, Functions and Examples from the Book: "The Elements of Statistical Learning, Data Mining, Inference, and Prediction" by Trevor Hastie, Robert Tibshirani and Jerome Friedman. Homepage: http://www-stat.stanford.edu/~tibs/ElemStatLearn/
+- [cran/ElemStatLearn](https://github.com/cran/ElemStatLearn) - :exclamation: This is a read-only mirror of the CRAN R package repository.  ElemStatLearn — Data Sets, Functions and Examples from the Book: "The Elements of Statistical Learning, Data Mining, Inferen
 - [terrytangyuan/lfda](https://github.com/terrytangyuan/lfda) - Local Fisher Discriminant Analysis in R
 
 ## RMarkdown 
