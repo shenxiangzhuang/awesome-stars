@@ -364,6 +364,7 @@
 
 ## Python 
 
+- [linsomniac/python-memcached](https://github.com/linsomniac/python-memcached) - A python memcached client library.
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
