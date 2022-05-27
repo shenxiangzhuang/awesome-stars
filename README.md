@@ -303,6 +303,7 @@
 
 ## Others 
 
+- [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
 - [Lionelsy/Conference-Accepted-Paper-List](https://github.com/Lionelsy/Conference-Accepted-Paper-List) - Some Conferences' accepted paper lists (including AAAI, IJCAI, KDD, WWW, ICLR, ICML...)
 - [qingsongedu/time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review) - A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.
 - [debugging-assistant/Revelio](https://github.com/debugging-assistant/Revelio) - 
@@ -364,6 +365,8 @@
 
 ## Python 
 
+- [mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning"
+- [IBM/import-tracker](https://github.com/IBM/import-tracker) - Python utility for tracking third party dependencies within a library
 - [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 - [linsomniac/python-memcached](https://github.com/linsomniac/python-memcached) - A python memcached client library.
