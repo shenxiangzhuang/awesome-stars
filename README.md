@@ -543,7 +543,7 @@
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 300 universities from 55 countries including Stanford, MIT, Harvard, and Cambridge.
 - [scikit-learn-contrib/imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning
 - [w-hat/ctci-solutions](https://github.com/w-hat/ctci-solutions) - Python solutions to Cracking the Coding Interview (6th edition)
-- [maoxc/rmq](https://github.com/maoxc/rmq) - Range minimum query data structures
+- [kemenyt/rmq](https://github.com/kemenyt/rmq) - Range minimum query data structures
 - [DataBrewery/cubes](https://github.com/DataBrewery/cubes) - Light-weight Python OLAP framework for multi-dimensional data analysis
 - [spry-group/python-vultr](https://github.com/spry-group/python-vultr) - Vultr Python Client library
 - [careermonk/data-structures-and-algorithmic-thinking-with-python](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-python) - Data Structure And Algorithmic Thinking With Python
