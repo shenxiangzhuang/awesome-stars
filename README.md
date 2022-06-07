@@ -182,7 +182,7 @@
 ## JavaScript 
 
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - 📷 Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [JeanJouliaCode/wipeClean](https://github.com/JeanJouliaCode/wipeClean) - 
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
@@ -365,6 +365,7 @@
 
 ## Python 
 
+- [zedr/clean-code-python](https://github.com/zedr/clean-code-python) - :bathtub: Clean Code concepts adapted for Python
 - [dpressel/mint](https://github.com/dpressel/mint) - MinT: Minimal Transformer Library and Tutorials
 - [iterative/mlem](https://github.com/iterative/mlem) - 🐶 Version and deploy your ML models following GitOps principles
 - [m-lundberg/simple-pid](https://github.com/m-lundberg/simple-pid) - A simple and easy to use PID controller in Python
@@ -684,6 +685,7 @@
 
 ## Vim script 
 
+- [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [wklken/k-vim](https://github.com/wklken/k-vim) - vim配置
 
 
