@@ -126,6 +126,7 @@
 
 ## Go 
 
+- [alicfeng/mysql_markdown](https://github.com/alicfeng/mysql_markdown) - It can generate markdown structure documents of MySQL succinctly~
 - [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Production infrastructure for machine learning at scale
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 - [open-falcon/falcon-plus](https://github.com/open-falcon/falcon-plus) - An open-source and enterprise-level monitoring system.
