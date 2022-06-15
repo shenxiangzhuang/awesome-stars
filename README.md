@@ -156,6 +156,7 @@
 
 ## Haskell 
 
+- [haskell/parsec](https://github.com/haskell/parsec) - A monadic parser combinator library
 - [haskell/stylish-haskell](https://github.com/haskell/stylish-haskell) - Haskell code prettifier
 - [snoyberg/conduit](https://github.com/snoyberg/conduit) - A streaming data library
 - [facebookincubator/hsthrift](https://github.com/facebookincubator/hsthrift) - The Haskell Thrift Compiler. This is an implementation of the Thrift spec that generates code in Haskell. It depends on the fbthrift project for the implementation of the underlying transport.
@@ -192,7 +193,6 @@
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [JeanJouliaCode/wipeClean](https://github.com/JeanJouliaCode/wipeClean) - 
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [IceEnd/Yosoro](https://github.com/IceEnd/Yosoro) - :shaved_ice:Beautiful Markdown NoteBook. 🏖
 - [danpaz/bodybuilder](https://github.com/danpaz/bodybuilder) - An elasticsearch query body builder :muscle:
@@ -375,6 +375,7 @@
 
 ## Python 
 
+- [automl/DeepCAVE](https://github.com/automl/DeepCAVE) - An interactive framework to visualize and analyze your AutoML process in real-time.
 - [weifantt/DEPTS](https://github.com/weifantt/DEPTS) - 
 - [pytorch/captum](https://github.com/pytorch/captum) - Model interpretability and understanding for PyTorch
 - [zedr/clean-code-python](https://github.com/zedr/clean-code-python) - :bathtub: Clean Code concepts adapted for Python
@@ -658,6 +659,7 @@
 - [xbin-io/xbin](https://github.com/xbin-io/xbin) - Your serverless cli toolkit.
 - [LesnyRumcajs/grpc_bench](https://github.com/LesnyRumcajs/grpc_bench) - Various gRPC benchmarks
 - [samoshkin/tmux-config](https://github.com/samoshkin/tmux-config) - Tmux configuration, that supercharges your tmux to build cozy and cool terminal environment
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [apachecn/awesome-cs-courses-zh](https://github.com/apachecn/awesome-cs-courses-zh) - 计算机公开课推荐
 - [steveloughran/winutils](https://github.com/steveloughran/winutils) - Windows binaries for Hadoop versions (built from the git commit ID used for the ASF relase)
 
