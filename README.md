@@ -338,6 +338,7 @@
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [zhuyiche/awesome-anomaly-detection](https://github.com/zhuyiche/awesome-anomaly-detection) - A complete list of papers on anomaly detection.
+- [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
 - [623637646/996.Leave](https://github.com/623637646/996.Leave) - 逃离996
 - [mercari/ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern) - System design patterns for machine learning
@@ -375,6 +376,7 @@
 
 ## Python 
 
+- [intel/scikit-learn-intelex](https://github.com/intel/scikit-learn-intelex) - Intel(R) Extension for Scikit-learn is a seamless way to speed up your Scikit-learn application
 - [automl/DeepCAVE](https://github.com/automl/DeepCAVE) - An interactive framework to visualize and analyze your AutoML process in real-time.
 - [weifantt/DEPTS](https://github.com/weifantt/DEPTS) - 
 - [pytorch/captum](https://github.com/pytorch/captum) - Model interpretability and understanding for PyTorch
@@ -442,7 +444,7 @@
 - [ionelmc/python-hunter](https://github.com/ionelmc/python-hunter) - Hunter is a flexible code tracing toolkit.
 - [NetManAIOps/OmniAnomaly](https://github.com/NetManAIOps/OmniAnomaly) - KDD 2019: Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network
 - [fbcotter/pytorch_wavelets](https://github.com/fbcotter/pytorch_wavelets) - Pytorch implementation of 2D Discrete Wavelet (DWT) and Dual Tree Complex Wavelet Transforms (DTCWT) and a DTCWT based ScatterNet
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build high-performance AI models for state-of-the-art AI research, and deploy them with Lightning Apps (end-to-end ML systems).
 - [huawei-noah/noah-research](https://github.com/huawei-noah/noah-research) - Noah Research
 - [shwars/mPyPl](https://github.com/shwars/mPyPl) - Monadic Pipeline Library for Python
 - [DataDog/dd-trace-py](https://github.com/DataDog/dd-trace-py) - Datadog Python APM Client
@@ -515,7 +517,6 @@
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you c
 - [abilian/olapy](https://github.com/abilian/olapy) - OlaPy, an experimental OLAP engine based on Pandas
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
-- [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [cosmicpython/book](https://github.com/cosmicpython/book) - A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho.
 - [wemake-services/wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
