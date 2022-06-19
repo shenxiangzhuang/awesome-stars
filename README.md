@@ -444,7 +444,7 @@
 - [ionelmc/python-hunter](https://github.com/ionelmc/python-hunter) - Hunter is a flexible code tracing toolkit.
 - [NetManAIOps/OmniAnomaly](https://github.com/NetManAIOps/OmniAnomaly) - KDD 2019: Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network
 - [fbcotter/pytorch_wavelets](https://github.com/fbcotter/pytorch_wavelets) - Pytorch implementation of 2D Discrete Wavelet (DWT) and Dual Tree Complex Wavelet Transforms (DTCWT) and a DTCWT based ScatterNet
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build high-performance AI models for state-of-the-art AI research, and deploy them with Lightning Apps (end-to-end ML systems).
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build high-performance AI models with PyTorch Lightning (organized PyTorch). Deploy models with Lightning Apps (organized Python to build end-to-end ML systems).
 - [huawei-noah/noah-research](https://github.com/huawei-noah/noah-research) - Noah Research
 - [shwars/mPyPl](https://github.com/shwars/mPyPl) - Monadic Pipeline Library for Python
 - [DataDog/dd-trace-py](https://github.com/DataDog/dd-trace-py) - Datadog Python APM Client
@@ -621,7 +621,7 @@
 
 ## RMarkdown 
 
-- [XiangyunHuang/notesdown](https://github.com/XiangyunHuang/notesdown) - :book: R 语言学习笔记
+- [XiangyunHuang/notesdown](https://github.com/XiangyunHuang/notesdown) - :book: R 语言学习笔记：数据操作、统计图形和统计计算
 
 ## Roff 
 
