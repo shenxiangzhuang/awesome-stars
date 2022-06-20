@@ -376,6 +376,7 @@
 
 ## Python 
 
+- [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
 - [intel/scikit-learn-intelex](https://github.com/intel/scikit-learn-intelex) - Intel(R) Extension for Scikit-learn is a seamless way to speed up your Scikit-learn application
 - [automl/DeepCAVE](https://github.com/automl/DeepCAVE) - An interactive framework to visualize and analyze your AutoML process in real-time.
 - [weifantt/DEPTS](https://github.com/weifantt/DEPTS) - 
