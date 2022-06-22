@@ -464,7 +464,7 @@
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [zhmiao/OpenLongTailRecognition-OLTR](https://github.com/zhmiao/OpenLongTailRecognition-OLTR) - Pytorch implementation for "Large-Scale Long-Tailed Recognition in an Open World" (CVPR 2019 ORAL)
 - [deepcharles/ruptures](https://github.com/deepcharles/ruptures) - ruptures: change point detection in Python
-- [yzhao062/pytod](https://github.com/yzhao062/pytod) - TOD: Tensor-based Outlier Detection
+- [yzhao062/pytod](https://github.com/yzhao062/pytod) - TOD: GPU-accelerated Outlier Detection via Tensor Operations
 - [ngoix/EMMV_benchmarks](https://github.com/ngoix/EMMV_benchmarks) - 
 - [google-research/deep_representation_one_class](https://github.com/google-research/deep_representation_one_class) - 
 - [microsoft/anomalydetector](https://github.com/microsoft/anomalydetector) - SR-CNN
@@ -626,6 +626,7 @@
 
 ## Roff 
 
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [lydrainbowcat/tedukuri](https://github.com/lydrainbowcat/tedukuri) - 《算法竞赛进阶指南》资源社区
 
 ## Ruby 
@@ -658,6 +659,7 @@
 
 ## Shell 
 
+- [billw2/rpi-clone](https://github.com/billw2/rpi-clone) - A shell script to clone a booted disk.
 - [xbin-io/xbin](https://github.com/xbin-io/xbin) - Your serverless cli toolkit.
 - [LesnyRumcajs/grpc_bench](https://github.com/LesnyRumcajs/grpc_bench) - Various gRPC benchmarks
 - [samoshkin/tmux-config](https://github.com/samoshkin/tmux-config) - Tmux configuration, that supercharges your tmux to build cozy and cool terminal environment
