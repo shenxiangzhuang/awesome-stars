@@ -147,7 +147,7 @@
 - [storopoli/Turing-Workshop](https://github.com/storopoli/Turing-Workshop) - Workshop of Bayesian Statistics using Julia and Turing
 - [zelenski/stanford-cpp-library](https://github.com/zelenski/stanford-cpp-library) - Stanford C++ library used in CS106B/X courses
 - [rstudio/concept-maps](https://github.com/rstudio/concept-maps) - Concept maps for all things data science
-- [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises: https://huyenchip.com/machine-learning-systems-design/toc.html
+- [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Systems"
 - [MingChen0919/learning-apache-spark](https://github.com/MingChen0919/learning-apache-spark) - Notes on Apache Spark (pyspark)
 - [feng-li/Distributed-Statistical-Computing](https://github.com/feng-li/Distributed-Statistical-Computing) - Teaching Materials for Distributed Statistical Computing (大数据分布式计算教学材料)
 - [statsmaths/stat665](https://github.com/statsmaths/stat665) - Course website for STAT 665
