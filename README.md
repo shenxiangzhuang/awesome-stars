@@ -376,6 +376,8 @@
 
 ## Python 
 
+- [briggySmalls/cookiecutter-pypackage](https://github.com/briggySmalls/cookiecutter-pypackage) - Cookiecutter template for a poetry-managed Python package.
+- [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage) - Cookiecutter template for a Python package.
 - [hirschmann/pid-autotune](https://github.com/hirschmann/pid-autotune) - PID-controller/brewing kettle simulation
 - [aisk/memcache](https://github.com/aisk/memcache) - Experimental memcached client library for python.
 - [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
