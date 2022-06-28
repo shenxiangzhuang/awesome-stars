@@ -221,6 +221,7 @@
 
 ## Jupyter Notebook 
 
+- [johnpaparrizos/TSB-UAD](https://github.com/johnpaparrizos/TSB-UAD) - An End-to-End Benchmark Suite for Univariate Time-Series Anomaly Detection
 - [ari-dasci/S-TSFE-DL](https://github.com/ari-dasci/S-TSFE-DL) - Time Series Feature Extraction using Deep Learning
 - [sintel-dev/Orion](https://github.com/sintel-dev/Orion) - A machine learning library for detecting anomalies in signals.
 - [lindseysbrown/Auto-eD](https://github.com/lindseysbrown/Auto-eD) - A web based tool for visualization of the forward and reverse modes of automatic differentiation
@@ -376,6 +377,7 @@
 
 ## Python 
 
+- [rnt-pmi/odin](https://github.com/rnt-pmi/odin) - ODIN: pluggable meta-annotations and metrics for the diagnosis of classification and localization
 - [briggySmalls/cookiecutter-pypackage](https://github.com/briggySmalls/cookiecutter-pypackage) - Cookiecutter template for a poetry-managed Python package.
 - [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage) - Cookiecutter template for a Python package.
 - [hirschmann/pid-autotune](https://github.com/hirschmann/pid-autotune) - PID-controller/brewing kettle simulation
