@@ -377,6 +377,7 @@
 
 ## Python 
 
+- [online-ml/river-torch](https://github.com/online-ml/river-torch) - 
 - [rnt-pmi/odin](https://github.com/rnt-pmi/odin) - ODIN: pluggable meta-annotations and metrics for the diagnosis of classification and localization
 - [briggySmalls/cookiecutter-pypackage](https://github.com/briggySmalls/cookiecutter-pypackage) - Cookiecutter template for a poetry-managed Python package.
 - [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage) - Cookiecutter template for a Python package.
