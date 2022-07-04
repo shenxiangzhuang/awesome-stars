@@ -377,6 +377,7 @@
 
 ## Python 
 
+- [python-attrs/attrs](https://github.com/python-attrs/attrs) - Python Classes Without Boilerplate
 - [online-ml/river-torch](https://github.com/online-ml/river-torch) - 
 - [rnt-pmi/odin](https://github.com/rnt-pmi/odin) - ODIN: pluggable meta-annotations and metrics for the diagnosis of classification and localization
 - [briggySmalls/cookiecutter-pypackage](https://github.com/briggySmalls/cookiecutter-pypackage) - Cookiecutter template for a poetry-managed Python package.
@@ -570,7 +571,6 @@
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 300 universities from 55 countries including Stanford, MIT, Harvard, and Cambridge.
 - [scikit-learn-contrib/imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning
 - [w-hat/ctci-solutions](https://github.com/w-hat/ctci-solutions) - Python solutions to Cracking the Coding Interview (6th edition)
-- [kemenyt/rmq](https://github.com/kemenyt/rmq) - Range minimum query data structures
 - [DataBrewery/cubes](https://github.com/DataBrewery/cubes) - Light-weight Python OLAP framework for multi-dimensional data analysis
 - [spry-group/python-vultr](https://github.com/spry-group/python-vultr) - Vultr Python Client library
 - [careermonk/data-structures-and-algorithmic-thinking-with-python](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-python) - Data Structure And Algorithmic Thinking With Python
@@ -681,6 +681,7 @@
 
 ## TeX 
 
+- [michaelgutmann/ml-pen-and-paper-exercises](https://github.com/michaelgutmann/ml-pen-and-paper-exercises) - Pen and paper exercises in machine learning
 - [vdumoulin/conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic) - A technical report on convolution arithmetic in the context of deep learning
 - [wisdomfusion/latex-templates](https://github.com/wisdomfusion/latex-templates) - My ready-to-edit LaTeX templates, for books, articles, and notes, using XeLaTeX, specified both for Chinese and English documents.
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
