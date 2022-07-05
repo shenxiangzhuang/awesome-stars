@@ -23,6 +23,7 @@
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Less](#less)
+- [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nix](#nix)
@@ -298,6 +299,10 @@
 
 - [shenliyang/hexo-theme-snippet](https://github.com/shenliyang/hexo-theme-snippet) - Snippet 简洁而不简单，也许是一款你寻找已久的hexo主题
 
+## Lua 
+
+- [ssnhd/rime](https://github.com/ssnhd/rime) - Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼）
+
 ## Makefile 
 
 - [tomwhite/hadoop-book](https://github.com/tomwhite/hadoop-book) - Example source code accompanying O'Reilly's "Hadoop: The Definitive Guide" by Tom White
@@ -377,6 +382,9 @@
 
 ## Python 
 
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [google/sympy2jax](https://github.com/google/sympy2jax) - Turn SymPy expressions into trainable JAX expressions.
+- [microsoft/graphing](https://github.com/microsoft/graphing) - All kinds of graph algorithms. From path cover for special graphs to traversal, etc.
 - [python-attrs/attrs](https://github.com/python-attrs/attrs) - Python Classes Without Boilerplate
 - [online-ml/river-torch](https://github.com/online-ml/river-torch) - 
 - [rnt-pmi/odin](https://github.com/rnt-pmi/odin) - ODIN: pluggable meta-annotations and metrics for the diagnosis of classification and localization
