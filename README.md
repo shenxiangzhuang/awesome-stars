@@ -382,6 +382,7 @@
 
 ## Python 
 
+- [SimmerChan/KG-demo-for-movie](https://github.com/SimmerChan/KG-demo-for-movie) - 从无到有构建一个电影知识图谱，并基于该KG，开发一个简易的KBQA程序。
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [google/sympy2jax](https://github.com/google/sympy2jax) - Turn SymPy expressions into trainable JAX expressions.
 - [microsoft/graphing](https://github.com/microsoft/graphing) - All kinds of graph algorithms. From path cover for special graphs to traversal, etc.
