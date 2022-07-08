@@ -73,6 +73,7 @@
 
 ## C++ 
 
+- [Stream-AD/MIDAS](https://github.com/Stream-AD/MIDAS) - Anomaly Detection on Dynamic (time-evolving) Graphs in Real-time and Streaming manner. Detecting intrusions (DoS and DDoS attacks), frauds, fake rating anomalies.
 - [RGF-team/rgf](https://github.com/RGF-team/rgf) - Home repository for the Regularized Greedy Forest (RGF) library. It includes original implementation from the paper and multithreaded one written in C++, along with various language-specific wrappers.
 - [pytorch/FBGEMM](https://github.com/pytorch/FBGEMM) - FB (Facebook) + GEMM (General Matrix-Matrix Multiplication) - https://code.fb.com/ml-applications/fbgemm/
 - [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a performance-centered and open-source deep learning framework.
@@ -382,6 +383,7 @@
 
 ## Python 
 
+- [squareRoot3/Rethinking-Anomaly-Detection](https://github.com/squareRoot3/Rethinking-Anomaly-Detection) - ICML 2022 https://arxiv.org/abs/2205.15508
 - [SimmerChan/KG-demo-for-movie](https://github.com/SimmerChan/KG-demo-for-movie) - 从无到有构建一个电影知识图谱，并基于该KG，开发一个简易的KBQA程序。
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [google/sympy2jax](https://github.com/google/sympy2jax) - Turn SymPy expressions into trainable JAX expressions.
@@ -462,7 +464,7 @@
 - [ionelmc/python-hunter](https://github.com/ionelmc/python-hunter) - Hunter is a flexible code tracing toolkit.
 - [NetManAIOps/OmniAnomaly](https://github.com/NetManAIOps/OmniAnomaly) - KDD 2019: Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network
 - [fbcotter/pytorch_wavelets](https://github.com/fbcotter/pytorch_wavelets) - Pytorch implementation of 2D Discrete Wavelet (DWT) and Dual Tree Complex Wavelet Transforms (DTCWT) and a DTCWT based ScatterNet
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build high-performance AI models with PyTorch Lightning (organized PyTorch). Deploy models with Lightning Apps (organized Python to build end-to-end ML systems).
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The most intuitive, flexible, way for researchers, ML engineers and data scientists to build models (with PyTorch) and ML systems for the ML lifecycle with an obsessive focus on flexibility and perfor
 - [huawei-noah/noah-research](https://github.com/huawei-noah/noah-research) - Noah Research
 - [shwars/mPyPl](https://github.com/shwars/mPyPl) - Monadic Pipeline Library for Python
 - [DataDog/dd-trace-py](https://github.com/DataDog/dd-trace-py) - Datadog Python APM Client
