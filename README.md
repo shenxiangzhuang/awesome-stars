@@ -567,7 +567,7 @@
 - [rasbt/mlxtend](https://github.com/rasbt/mlxtend) - A library of extension and helper modules for Python's data analysis and machine learning libraries.
 - [hudson-and-thames/mlfinlab](https://github.com/hudson-and-thames/mlfinlab) - MlFinLab helps portfolio managers and traders who want to leverage the power of machine learning by providing reproducible, interpretable, and easy to use tools.
 - [tushushu/imylu](https://github.com/tushushu/imylu) - Pure Python implementation of machine learning algorithms
-- [han1057578619/MachineLearning_Zhouzhihua_ProblemSets](https://github.com/han1057578619/MachineLearning_Zhouzhihua_ProblemSets) - Exercises answers to the book "machine-learning" written by Zhou Zhihua。周志华《机器学习》课后习题，个人解答。各算法都拿numpy和pandas实现了一遍
+- [mikey-Han/MachineLearning_Zhouzhihua_ProblemSets](https://github.com/mikey-Han/MachineLearning_Zhouzhihua_ProblemSets) - Exercises answers to the book "machine-learning" written by Zhou Zhihua。周志华《机器学习》课后习题，个人解答。各算法都拿numpy和pandas实现了一遍
 - [shenxiangzhuang/ToyData](https://github.com/shenxiangzhuang/ToyData) - Data Structures in Python.
 - [Apress/pyspark-recipes](https://github.com/Apress/pyspark-recipes) - Source code for 'PySpark Recipes' by Raju Kumar Mishra
 - [shenweichen/GraphEmbedding](https://github.com/shenweichen/GraphEmbedding) - Implementation and experiments  of graph embedding algorithms.
@@ -627,7 +627,6 @@
 - [SteffenMoritz/imputeTS](https://github.com/SteffenMoritz/imputeTS) - CRAN R Package: Time Series Missing Value Imputation
 - [twitter/AnomalyDetection](https://github.com/twitter/AnomalyDetection) - Anomaly Detection with R
 - [cran/arules](https://github.com/cran/arules) - :exclamation: This is a read-only mirror of the CRAN R package repository.  arules — Mining Association Rules and Frequent Itemsets. Homepage: https://github.com/mhahsler/arules  Report bugs for this 
-- [meghanathmacha/xPACS](https://github.com/meghanathmacha/xPACS) - This repository has the code for the xPacks work that is under submission for academic conference. The code is protected under the below license
 - [robjhyndman/ctv-TimeSeries](https://github.com/robjhyndman/ctv-TimeSeries) - git mirror of CRAN Task View Time Series files
 - [kassambara/survminer](https://github.com/kassambara/survminer) - Survival Analysis and Visualization
 - [jaroslav-kuchar/fpmoutliers](https://github.com/jaroslav-kuchar/fpmoutliers) - Algorithms for detection of outliers based on frequent pattern mining
