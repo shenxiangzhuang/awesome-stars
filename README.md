@@ -320,6 +320,7 @@
 
 ## Others 
 
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [hpreston/rpi-networklab](https://github.com/hpreston/rpi-networklab) - The Raspberry Pi is an inexpensive computer that makes a great addition to everyone's network lab.  In fact, you might want to pickup a few of them for your lab.    This repository includes some docum
 - [dair-ai/Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) - 🧮  A collection of resources to learn mathematics for machine learning
 - [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
@@ -385,6 +386,7 @@
 
 ## Python 
 
+- [slinderman/pyhawkes](https://github.com/slinderman/pyhawkes) - Python framework for inference in Hawkes processes.
 - [squareRoot3/Rethinking-Anomaly-Detection](https://github.com/squareRoot3/Rethinking-Anomaly-Detection) - ICML 2022 https://arxiv.org/abs/2205.15508
 - [SimmerChan/KG-demo-for-movie](https://github.com/SimmerChan/KG-demo-for-movie) - 从无到有构建一个电影知识图谱，并基于该KG，开发一个简易的KBQA程序。
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
