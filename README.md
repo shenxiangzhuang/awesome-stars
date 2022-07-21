@@ -386,6 +386,7 @@
 
 ## Python 
 
+- [sebp/scikit-survival](https://github.com/sebp/scikit-survival) - Survival analysis built on top of scikit-learn
 - [slinderman/pyhawkes](https://github.com/slinderman/pyhawkes) - Python framework for inference in Hawkes processes.
 - [squareRoot3/Rethinking-Anomaly-Detection](https://github.com/squareRoot3/Rethinking-Anomaly-Detection) - ICML 2022 https://arxiv.org/abs/2205.15508
 - [SimmerChan/KG-demo-for-movie](https://github.com/SimmerChan/KG-demo-for-movie) - 从无到有构建一个电影知识图谱，并基于该KG，开发一个简易的KBQA程序。
