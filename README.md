@@ -13,6 +13,7 @@
 - [CMake](#cmake)
 - [CSS](#css)
 - [Clojure](#clojure)
+- [Cython](#cython)
 - [Dockerfile](#dockerfile)
 - [Erlang](#erlang)
 - [Go](#go)
@@ -119,6 +120,10 @@
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://athensresearch.github.io/docs/
 
+## Cython 
+
+- [scipopt/PySCIPOpt](https://github.com/scipopt/PySCIPOpt) - Python interface for the SCIP Optimization Suite
+
 ## Dockerfile 
 
 - [lukechilds/dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
@@ -224,6 +229,7 @@
 
 ## Jupyter Notebook 
 
+- [deepcharles/tutorials-mva-2022](https://github.com/deepcharles/tutorials-mva-2022) - Tutorials for the Machine Learning for Time Series class - Master MVA (2021/2022)
 - [johnpaparrizos/TSB-UAD](https://github.com/johnpaparrizos/TSB-UAD) - An End-to-End Benchmark Suite for Univariate Time-Series Anomaly Detection
 - [ari-dasci/S-TSFE-DL](https://github.com/ari-dasci/S-TSFE-DL) - Time Series Feature Extraction using Deep Learning
 - [sintel-dev/Orion](https://github.com/sintel-dev/Orion) - A machine learning library for detecting anomalies in signals.
