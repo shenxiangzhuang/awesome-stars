@@ -53,6 +53,7 @@
 
 ## C 
 
+- [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [metal-crow/Dark-Souls-PvP-AI](https://github.com/metal-crow/Dark-Souls-PvP-AI) - AI for playing (and winning) in dark souls pvp
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
