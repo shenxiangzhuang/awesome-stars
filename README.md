@@ -159,7 +159,6 @@
 - [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Systems"
 - [MingChen0919/learning-apache-spark](https://github.com/MingChen0919/learning-apache-spark) - Notes on Apache Spark (pyspark)
 - [feng-li/Distributed-Statistical-Computing](https://github.com/feng-li/Distributed-Statistical-Computing) - Teaching Materials for Distributed Statistical Computing (大数据分布式计算教学材料)
-- [statsmaths/stat665](https://github.com/statsmaths/stat665) - Course website for STAT 665
 - [ursa-labs/ursa-labs.github.io](https://github.com/ursa-labs/ursa-labs.github.io) - 
 - [uc-r/uc-r.github.io](https://github.com/uc-r/uc-r.github.io) - Main repository for R programming courses @ University of Cincinnati, courses and tutorials that focus on data wrangling, exploration, visualization, and analysis with R.
 
