@@ -135,6 +135,8 @@
 
 ## Go 
 
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+- [wangkechun/go-by-example](https://github.com/wangkechun/go-by-example) - 
 - [alicfeng/mysql_markdown](https://github.com/alicfeng/mysql_markdown) - It can generate markdown structure documents of MySQL succinctly~
 - [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Production infrastructure for machine learning at scale
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
@@ -392,6 +394,7 @@
 
 ## Python 
 
+- [nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA) - Run isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks
 - [sebp/scikit-survival](https://github.com/sebp/scikit-survival) - Survival analysis built on top of scikit-learn
 - [slinderman/pyhawkes](https://github.com/slinderman/pyhawkes) - Python framework for inference in Hawkes processes.
 - [squareRoot3/Rethinking-Anomaly-Detection](https://github.com/squareRoot3/Rethinking-Anomaly-Detection) - ICML 2022 https://arxiv.org/abs/2205.15508
@@ -729,6 +732,8 @@
 
 ## TypeScript 
 
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
+- [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Figma to HTML, CSS, React, Vue, and more!
 - [July541/haskell-search-extension](https://github.com/July541/haskell-search-extension) - A browser extension to search Haskell knowledge.
 - [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
