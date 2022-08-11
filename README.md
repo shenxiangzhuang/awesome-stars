@@ -112,6 +112,7 @@
 
 ## CSS 
 
+- [23784148/knowledge-garden](https://github.com/23784148/knowledge-garden) - 简悦 + Logseq + Github Page 无代码全自动化知识管理发布方案
 - [typlog/sphinx-typlog-theme](https://github.com/typlog/sphinx-typlog-theme) - A sphinx theme by Typlog
 - [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 一个比较特别的 Hexo 主题
 - [vatlab/sos-notebook](https://github.com/vatlab/sos-notebook) - Multi-language Jupyter Notebook
