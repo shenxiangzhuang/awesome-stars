@@ -395,6 +395,7 @@
 
 ## Python 
 
+- [abarker/pdfCropMargins](https://github.com/abarker/pdfCropMargins) - pdfCropMargins -- a program to crop the margins of PDF files
 - [nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA) - Run isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks
 - [sebp/scikit-survival](https://github.com/sebp/scikit-survival) - Survival analysis built on top of scikit-learn
 - [slinderman/pyhawkes](https://github.com/slinderman/pyhawkes) - Python framework for inference in Hawkes processes.
@@ -711,6 +712,7 @@
 
 ## TeX 
 
+- [matze/mtheme](https://github.com/matze/mtheme) - A modern LaTeX Beamer theme
 - [michaelgutmann/ml-pen-and-paper-exercises](https://github.com/michaelgutmann/ml-pen-and-paper-exercises) - Pen and paper exercises in machine learning
 - [vdumoulin/conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic) - A technical report on convolution arithmetic in the context of deep learning
 - [wisdomfusion/latex-templates](https://github.com/wisdomfusion/latex-templates) - My ready-to-edit LaTeX templates, for books, articles, and notes, using XeLaTeX, specified both for Chinese and English documents.
