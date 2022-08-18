@@ -395,7 +395,7 @@
 
 ## Python 
 
-- [jina-ai/jina](https://github.com/jina-ai/jina) - Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI
+- [jina-ai/jina](https://github.com/jina-ai/jina) - Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI · Cloud Native
 - [HPI-Information-Systems/TimeEval-GUI](https://github.com/HPI-Information-Systems/TimeEval-GUI) - [Read-Only Mirror]  Benchmarking Toolkit for Time Series Anomaly Detection Algorithms using TimeEval and GutenTAG
 - [abarker/pdfCropMargins](https://github.com/abarker/pdfCropMargins) - pdfCropMargins -- a program to crop the margins of PDF files
 - [nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA) - Run isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks
