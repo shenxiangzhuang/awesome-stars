@@ -330,6 +330,7 @@
 
 ## Others 
 
+- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [hpreston/rpi-networklab](https://github.com/hpreston/rpi-networklab) - The Raspberry Pi is an inexpensive computer that makes a great addition to everyone's network lab.  In fact, you might want to pickup a few of them for your lab.    This repository includes some docum
 - [dair-ai/Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) - 🧮  A collection of resources to learn mathematics for machine learning
@@ -586,7 +587,7 @@
 - [rasbt/mlxtend](https://github.com/rasbt/mlxtend) - A library of extension and helper modules for Python's data analysis and machine learning libraries.
 - [hudson-and-thames/mlfinlab](https://github.com/hudson-and-thames/mlfinlab) - MlFinLab helps portfolio managers and traders who want to leverage the power of machine learning by providing reproducible, interpretable, and easy to use tools.
 - [tushushu/imylu](https://github.com/tushushu/imylu) - Pure Python implementation of machine learning algorithms
-- [mikey-Han/MachineLearning_Zhouzhihua_ProblemSets](https://github.com/mikey-Han/MachineLearning_Zhouzhihua_ProblemSets) - Exercises answers to the book "machine-learning" written by Zhou Zhihua。周志华《机器学习》课后习题，个人解答。各算法都拿numpy和pandas实现了一遍
+- [hanmq/MachineLearning_Zhouzhihua_ProblemSets](https://github.com/hanmq/MachineLearning_Zhouzhihua_ProblemSets) - Exercises answers to the book "machine-learning" written by Zhou Zhihua。周志华《机器学习》课后习题，个人解答。各算法都拿numpy和pandas实现了一遍
 - [shenxiangzhuang/ToyData](https://github.com/shenxiangzhuang/ToyData) - Data Structures in Python.
 - [Apress/pyspark-recipes](https://github.com/Apress/pyspark-recipes) - Source code for 'PySpark Recipes' by Raju Kumar Mishra
 - [shenweichen/GraphEmbedding](https://github.com/shenweichen/GraphEmbedding) - Implementation and experiments  of graph embedding algorithms.
