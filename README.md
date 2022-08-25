@@ -41,7 +41,7 @@
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 
 ## Assembly 
 
@@ -184,7 +184,7 @@
 - [deepjavalibrary/djl](https://github.com/deepjavalibrary/djl) - An Engine-Agnostic Deep Learning Framework in Java
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
 - [linkedin/cruise-control](https://github.com/linkedin/cruise-control) - Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a Kafka cluster. It provides great value to Kafka users by simplifying the operation of Kaf
-- [alibaba/SREWorks](https://github.com/alibaba/SREWorks) - Cloud Native DataOps & AIOps Platform | 云原生运维平台 | 一站式数据化、智能化运维SaaS应用套件（交付、监测、管理、控制、运维、服务）
+- [alibaba/SREWorks](https://github.com/alibaba/SREWorks) - Cloud Native DataOps & AIOps Platform | 云原生运维平台 | 一站式数据化、智能化运维SaaS应用套件（交付、监测、管理、控制、运营、服务）
 - [aws/random-cut-forest-by-aws](https://github.com/aws/random-cut-forest-by-aws) - An implementation of the Random Cut Forest data structure for sketching streaming data, with support for anomaly detection, density estimation, imputation, and more.
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
 - [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
@@ -396,7 +396,7 @@
 
 ## Python 
 
-- [jina-ai/jina](https://github.com/jina-ai/jina) - Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI · Cloud Native
+- [jina-ai/jina](https://github.com/jina-ai/jina) - Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI · Cloud Native · MLOps
 - [HPI-Information-Systems/TimeEval-GUI](https://github.com/HPI-Information-Systems/TimeEval-GUI) - [Read-Only Mirror]  Benchmarking Toolkit for Time Series Anomaly Detection Algorithms using TimeEval and GutenTAG
 - [abarker/pdfCropMargins](https://github.com/abarker/pdfCropMargins) - pdfCropMargins -- a program to crop the margins of PDF files
 - [nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA) - Run isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks
@@ -750,7 +750,7 @@
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
 
-## Vim script 
+## Vim Script 
 
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [wklken/k-vim](https://github.com/wklken/k-vim) - vim配置
