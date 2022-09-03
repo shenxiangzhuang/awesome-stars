@@ -13,6 +13,7 @@
 - [CMake](#cmake)
 - [CSS](#css)
 - [Clojure](#clojure)
+- [Cuda](#cuda)
 - [Cython](#cython)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
@@ -122,6 +123,10 @@
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://athensresearch.github.io/docs/
+
+## Cuda 
+
+- [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.
 
 ## Cython 
 
@@ -233,12 +238,14 @@
 
 ## Julia 
 
+- [RaphaelS1/SurvivalAnalysis.jl](https://github.com/RaphaelS1/SurvivalAnalysis.jl) - A survival analysis interface for Julia
 - [JuliaCN/JuliaDataScience](https://github.com/JuliaCN/JuliaDataScience) - Julia Data Science 中文版
 - [JuliaStats/TimeModels.jl](https://github.com/JuliaStats/TimeModels.jl) - Modeling time series in Julia
 - [mossr/BeautifulAlgorithms.jl](https://github.com/mossr/BeautifulAlgorithms.jl) - Concise and beautiful algorithms written in Julia
 
 ## Jupyter Notebook 
 
+- [SkyAPM/aiops-engine-for-skywalking](https://github.com/SkyAPM/aiops-engine-for-skywalking) - This is an incubating repository of the Apache SkyWalking AIOps Engine
 - [jamalsenouci/causalimpact](https://github.com/jamalsenouci/causalimpact) - Python port of CausalImpact R library
 - [hlky/stable-diffusion](https://github.com/hlky/stable-diffusion) - 
 - [deepcharles/tutorials-mva-2022](https://github.com/deepcharles/tutorials-mva-2022) - Tutorials for the Machine Learning for Time Series class - Master MVA (2021/2022)
@@ -339,6 +346,7 @@
 
 ## Others 
 
+- [awesome-mlops/awesome-ml-monitoring](https://github.com/awesome-mlops/awesome-ml-monitoring) - A curated list of awesome open source tools and commercial products for monitoring data quality, monitoring model performance, and profiling data  🚀
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [hpreston/rpi-networklab](https://github.com/hpreston/rpi-networklab) - The Raspberry Pi is an inexpensive computer that makes a great addition to everyone's network lab.  In fact, you might want to pickup a few of them for your lab.    This repository includes some docum
@@ -456,7 +464,7 @@
 - [AlexImmer/Laplace](https://github.com/AlexImmer/Laplace) - Laplace approximations for Deep Learning.
 - [laike9m/Cyberbrain](https://github.com/laike9m/Cyberbrain) - Python debugging, redefined.
 - [hill-a/stable-baselines](https://github.com/hill-a/stable-baselines) - A fork of OpenAI Baselines, implementations of reinforcement learning algorithms
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to coordinate your dataflow
 - [selimfirat/pysad](https://github.com/selimfirat/pysad) - Streaming Anomaly Detection Framework in Python (Outlier Detection for Streaming Data)
 - [Stream-AD/MemStream](https://github.com/Stream-AD/MemStream) - MemStream: Memory-Based Streaming Anomaly Detection
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
