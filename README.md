@@ -694,6 +694,7 @@
 
 ## Rust 
 
+- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [liborty/rstats](https://github.com/liborty/rstats) - Statistics, Linear Algebra, Information Measures, Cholesky Matrix Decomposition, Mahalanobis Distance, Multidimensional Data Analysis, Machine Learning and more ...
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 - [remykarem/apriori-rs](https://github.com/remykarem/apriori-rs) - Apriori for association rule mining with Python bindings 🦀🐍
