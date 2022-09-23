@@ -166,6 +166,7 @@
 - [sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 - [quantifiedcode/python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns) - An open collection of Python anti-patterns and worst practices.
 - [jitsejan/python-flask-with-javascript](https://github.com/jitsejan/python-flask-with-javascript) - This repository contains an example app to communicate between JavaScript and Python.
+- [WestHealth/pyvis](https://github.com/WestHealth/pyvis) - Python package for creating and visualizing interactive network graphs.
 - [storopoli/Turing-Workshop](https://github.com/storopoli/Turing-Workshop) - Workshop of Bayesian Statistics using Julia and Turing
 - [zelenski/stanford-cpp-library](https://github.com/zelenski/stanford-cpp-library) - Stanford C++ library used in CS106B/X courses
 - [rstudio/concept-maps](https://github.com/rstudio/concept-maps) - Concept maps for all things data science
@@ -194,7 +195,7 @@
 - [deepjavalibrary/djl](https://github.com/deepjavalibrary/djl) - An Engine-Agnostic Deep Learning Framework in Java
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
 - [linkedin/cruise-control](https://github.com/linkedin/cruise-control) - Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a Kafka cluster. It provides great value to Kafka users by simplifying the operation of Kaf
-- [alibaba/SREWorks](https://github.com/alibaba/SREWorks) - Cloud Native DataOps & AIOps Platform | 云原生运维平台 | 一站式数据化、智能化运维SaaS应用套件（交付、监测、管理、控制、运营、服务）
+- [alibaba/SREWorks](https://github.com/alibaba/SREWorks) - Cloud Native DataOps & AIOps Platform | 云原生数智运维平台
 - [aws/random-cut-forest-by-aws](https://github.com/aws/random-cut-forest-by-aws) - An implementation of the Random Cut Forest data structure for sketching streaming data, with support for anomaly detection, density estimation, imputation, and more.
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
 - [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
@@ -249,7 +250,6 @@
 - [deepcharles/tutorials-mva-2022](https://github.com/deepcharles/tutorials-mva-2022) - Tutorials for the Machine Learning for Time Series class - Master MVA (2021/2022)
 - [johnpaparrizos/TSB-UAD](https://github.com/johnpaparrizos/TSB-UAD) - An End-to-End Benchmark Suite for Univariate Time-Series Anomaly Detection
 - [ari-dasci/S-TSFE-DL](https://github.com/ari-dasci/S-TSFE-DL) - Time Series Feature Extraction using Deep Learning
-- [sintel-dev/Orion](https://github.com/sintel-dev/Orion) - A machine learning library for detecting anomalies in signals.
 - [lindseysbrown/Auto-eD](https://github.com/lindseysbrown/Auto-eD) - A web based tool for visualization of the forward and reverse modes of automatic differentiation
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan,
 - [microsoft/EconML](https://github.com/microsoft/EconML) - ALICE (Automated Learning and Intelligence for Causation and Economics) is a Microsoft Research project aimed at applying Artificial Intelligence concepts to economic decision making. One of its  goal
@@ -413,6 +413,7 @@
 
 ## Python 
 
+- [PyCQA/flake8-bugbear](https://github.com/PyCQA/flake8-bugbear) - A plugin for Flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.
 - [pvlib/pvanalytics](https://github.com/pvlib/pvanalytics) - Quality control, filtering, feature labeling, and other tools for working with data from photovoltaic energy systems.
 - [datamllab/tods](https://github.com/datamllab/tods) - TODS: An Automated Time-series Outlier Detection System
 - [proplot-dev/proplot](https://github.com/proplot-dev/proplot) - 🎨 A succinct matplotlib wrapper for making beautiful, publication-quality graphics
@@ -442,6 +443,7 @@
 - [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
 - [intel/scikit-learn-intelex](https://github.com/intel/scikit-learn-intelex) - Intel(R) Extension for Scikit-learn is a seamless way to speed up your Scikit-learn application
 - [automl/DeepCAVE](https://github.com/automl/DeepCAVE) - An interactive framework to visualize and analyze your AutoML process in real-time.
+- [sintel-dev/Orion](https://github.com/sintel-dev/Orion) - A machine learning library for detecting anomalies in signals.
 - [weifantt/DEPTS](https://github.com/weifantt/DEPTS) - 
 - [pytorch/captum](https://github.com/pytorch/captum) - Model interpretability and understanding for PyTorch
 - [zedr/clean-code-python](https://github.com/zedr/clean-code-python) - :bathtub: Clean Code concepts adapted for Python
@@ -534,7 +536,6 @@
 - [microsoft/anomalydetector](https://github.com/microsoft/anomalydetector) - SR-CNN
 - [linkedin/luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library
 - [NetManAIOps/donut](https://github.com/NetManAIOps/donut) - WWW 2018: Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications
-- [WestHealth/pyvis](https://github.com/WestHealth/pyvis) - Python package for creating and visualizing interactive network graphs.
 - [jmcarpenter2/swifter](https://github.com/jmcarpenter2/swifter) - A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner
 - [akhtarshahnawaz/multiprocesspandas](https://github.com/akhtarshahnawaz/multiprocesspandas) - Adds multiprocessing capabilities to Pandas to parallelize apply operations on DataFrames, Series and DataFrameGroupBy
 - [huawei-noah/trustworthyAI](https://github.com/huawei-noah/trustworthyAI) - trustworthy AI related projects
