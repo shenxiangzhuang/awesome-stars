@@ -77,6 +77,7 @@
 
 ## C++ 
 
+- [NREL/EnergyPlus](https://github.com/NREL/EnergyPlus) - EnergyPlus™ is a whole building energy simulation program that engineers, architects, and researchers use to model both energy consumption and water use in buildings.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [Stream-AD/MIDAS](https://github.com/Stream-AD/MIDAS) - Anomaly Detection on Dynamic (time-evolving) Graphs in Real-time and Streaming manner. Detecting intrusions (DoS and DDoS attacks), frauds, fake rating anomalies.
 - [RGF-team/rgf](https://github.com/RGF-team/rgf) - Home repository for the Regularized Greedy Forest (RGF) library. It includes original implementation from the paper and multithreaded one written in C++, along with various language-specific wrappers.
