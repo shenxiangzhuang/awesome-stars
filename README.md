@@ -706,7 +706,7 @@
 
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.
-- [liborty/rstats](https://github.com/liborty/rstats) - Statistics, Linear Algebra, Information Measures, Cholesky Matrix Decomposition, Mahalanobis Distance, Multidimensional Data Analysis, Machine Learning and more ...
+- [liborty/rstats](https://github.com/liborty/rstats) - Statistics, Information Measures, Vector Algebra, Linear Algebra, Cholesky Matrix Decomposition, Mahalanobis Distance, Householder QR Decomposition, Multidimensional Data Analysis, Geometric Median, M
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 - [remykarem/apriori-rs](https://github.com/remykarem/apriori-rs) - Apriori for association rule mining with Python bindings 🦀🐍
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
