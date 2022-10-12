@@ -292,7 +292,7 @@
 - [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Probabilistic Machine learning" book by Kevin Murphy
 - [makeyourownneuralnetwork/makeyourownneuralnetwork](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork) - Code for the Make Your Own Neural Network book
 - [DataForScience/DeepLearning](https://github.com/DataForScience/DeepLearning) - Deep Learning From Scratch
-- [intel-analytics/BigDL](https://github.com/intel-analytics/BigDL) - Building Large-Scale AI Applications for Distributed Big Data
+- [intel-analytics/BigDL](https://github.com/intel-analytics/BigDL) - Fast, distributed, secure AI for Big Data (by seamlessly scaling your data analytics & AI applications from laptop to cloud)
 - [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters
 - [blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series:
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
@@ -348,6 +348,7 @@
 
 ## Others 
 
+- [kathoffman/causal-inference-visual-guides](https://github.com/kathoffman/causal-inference-visual-guides) - A collection of visual guides to help applied scientists learn causal inference.
 - [YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) - Diffusion model papers, survey, and taxonomy
 - [awesome-mlops/awesome-ml-monitoring](https://github.com/awesome-mlops/awesome-ml-monitoring) - A curated list of awesome open source tools and commercial products for monitoring data quality, monitoring model performance, and profiling data  🚀
 - [sd-webui/stable-diffusion](https://github.com/sd-webui/stable-diffusion) - 
@@ -417,6 +418,8 @@
 
 ## Python 
 
+- [jpmens/mqttwarn](https://github.com/jpmens/mqttwarn) - Subscribe to MQTT topics (with wildcards) and notify pluggable services
+- [miguelgrinberg/flasky](https://github.com/miguelgrinberg/flasky) - Companion code to my O'Reilly book "Flask Web Development", second edition.
 - [wilsonrljr/sysidentpy](https://github.com/wilsonrljr/sysidentpy) - A Python Package For System Identification Using NARMAX Models
 - [Shunichi09/PythonLinearNonlinearControl](https://github.com/Shunichi09/PythonLinearNonlinearControl) - PythonLinearNonLinearControl is a library implementing the linear and nonlinear control theories in python.
 - [AtsushiSakai/PyAdvancedControl](https://github.com/AtsushiSakai/PyAdvancedControl) - Python codes for advanced control
@@ -713,7 +716,7 @@
 - [remykarem/apriori-rs](https://github.com/remykarem/apriori-rs) - Apriori for association rule mining with Python bindings 🦀🐍
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-- [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程/书籍
+- [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / B
 - [prql/prql](https://github.com/prql/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
