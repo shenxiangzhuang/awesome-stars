@@ -201,7 +201,7 @@
 - [linkedin/cruise-control](https://github.com/linkedin/cruise-control) - Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a Kafka cluster. It provides great value to Kafka users by simplifying the operation of Kaf
 - [alibaba/SREWorks](https://github.com/alibaba/SREWorks) - Cloud Native DataOps & AIOps Platform | 云原生数智运维平台
 - [aws/random-cut-forest-by-aws](https://github.com/aws/random-cut-forest-by-aws) - An implementation of the Random Cut Forest data structure for sketching streaming data, with support for anomaly detection, density estimation, imputation, and more.
-- [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
+- [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
 - [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
 - [GoogleCloudPlatform/df-ml-anomaly-detection](https://github.com/GoogleCloudPlatform/df-ml-anomaly-detection) - Streaming Anomaly Detection Solution by using Pub/Sub, Dataflow, BQML & Cloud DLP
 - [STAMP-project/dspot](https://github.com/STAMP-project/dspot) - Automatically detect and generate missing assertions for Junit test cases (also known as test amplification)
