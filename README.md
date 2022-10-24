@@ -354,7 +354,7 @@
 - [kathoffman/causal-inference-visual-guides](https://github.com/kathoffman/causal-inference-visual-guides) - A collection of visual guides to help applied scientists learn causal inference.
 - [YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) - Diffusion model papers, survey, and taxonomy
 - [awesome-mlops/awesome-ml-monitoring](https://github.com/awesome-mlops/awesome-ml-monitoring) - A curated list of awesome open source tools and commercial products for monitoring data quality, monitoring model performance, and profiling data  🚀
-- [sd-webui/stable-diffusion](https://github.com/sd-webui/stable-diffusion) - 
+- [Sygil-Dev/stable-diffusion](https://github.com/Sygil-Dev/stable-diffusion) - 
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [hpreston/rpi-networklab](https://github.com/hpreston/rpi-networklab) - The Raspberry Pi is an inexpensive computer that makes a great addition to everyone's network lab.  In fact, you might want to pickup a few of them for your lab.    This repository includes some docum
