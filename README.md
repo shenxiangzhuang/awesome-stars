@@ -104,7 +104,7 @@
 - [nraghuraman/CS106L-Fall-2020](https://github.com/nraghuraman/CS106L-Fall-2020) - 
 - [CS144/sponge](https://github.com/CS144/sponge) - CS144 Lab Assignments
 - [dmlc/xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
-- [mlpack/mlpack](https://github.com/mlpack/mlpack) - mlpack: a scalable C++ machine learning library --
+- [mlpack/mlpack](https://github.com/mlpack/mlpack) - mlpack: a fast, header-only C++ machine learning library
 - [prabhuomkar/pytorch-cpp](https://github.com/prabhuomkar/pytorch-cpp) - C++ Implementation of PyTorch Tutorials for Everyone
 - [zhedahht/ChineseCodingInterviewAppendix](https://github.com/zhedahht/ChineseCodingInterviewAppendix) - The source code for the appendix part of the Chinese version of the book Coding Interviews
 
@@ -421,6 +421,7 @@
 
 ## Python 
 
+- [SeldonIO/MLServer](https://github.com/SeldonIO/MLServer) - An inference server for your machine learning models, including support for multiple frameworks, multi-model serving and more
 - [mthh/jenkspy](https://github.com/mthh/jenkspy) - Compute Natural Breaks in Python (Fisher-Jenks algorithm)
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [jpmens/mqttwarn](https://github.com/jpmens/mqttwarn) - Subscribe to MQTT topics (with wildcards) and notify pluggable services
