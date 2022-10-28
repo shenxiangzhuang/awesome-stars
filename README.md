@@ -421,6 +421,7 @@
 
 ## Python 
 
+- [nalepae/pandarallel](https://github.com/nalepae/pandarallel) - A simple and efficient tool to parallelize Pandas operations on all available CPUs
 - [SeldonIO/MLServer](https://github.com/SeldonIO/MLServer) - An inference server for your machine learning models, including support for multiple frameworks, multi-model serving and more
 - [mthh/jenkspy](https://github.com/mthh/jenkspy) - Compute Natural Breaks in Python (Fisher-Jenks algorithm)
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
