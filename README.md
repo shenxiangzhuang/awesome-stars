@@ -143,6 +143,7 @@
 
 ## Go 
 
+- [cloudwego/hertz](https://github.com/cloudwego/hertz) - A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
@@ -421,6 +422,7 @@
 
 ## Python 
 
+- [PaddlePaddle/PaddleTS](https://github.com/PaddlePaddle/PaddleTS) - PaddleTS - PaddlePaddle-based Time Series Modeling in Python
 - [unit8co/darts](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
 - [nalepae/pandarallel](https://github.com/nalepae/pandarallel) - A simple and efficient tool to parallelize Pandas operations on all available CPUs
 - [SeldonIO/MLServer](https://github.com/SeldonIO/MLServer) - An inference server for your machine learning models, including support for multiple frameworks, multi-model serving and more
