@@ -352,6 +352,7 @@
 
 ## Others 
 
+- [cure-lab/Awesome-time-series](https://github.com/cure-lab/Awesome-time-series) - A comprehensive survey on the time series domains
 - [cuge1995/awesome-time-series](https://github.com/cuge1995/awesome-time-series) - list of papers, code, and other resources
 - [kathoffman/causal-inference-visual-guides](https://github.com/kathoffman/causal-inference-visual-guides) - A collection of visual guides to help applied scientists learn causal inference.
 - [YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) - Diffusion model papers, survey, and taxonomy
@@ -425,7 +426,7 @@
 
 - [ServiceNow/N-BEATS](https://github.com/ServiceNow/N-BEATS) - N-BEATS is a neural-network based model for univariate timeseries forecasting. N-BEATS is a ServiceNow Research project that was started at Element AI.
 - [yanyongyu/githubkit](https://github.com/yanyongyu/githubkit) - The modern, all-batteries-included GitHub SDK for Python, including rest api, graphql, webhooks, like octokit!
-- [PaddlePaddle/PaddleTS](https://github.com/PaddlePaddle/PaddleTS) - PaddleTS - PaddlePaddle-based Time Series Modeling in Python
+- [PaddlePaddle/PaddleTS](https://github.com/PaddlePaddle/PaddleTS) - Awesome Easy-to-Use Deep Time Series Modeling based on PaddlePaddle, including comprehensive functionality modules like TSDataset, Analysis, Transform, Models, AutoTS, and Ensemble, etc., supporting v
 - [unit8co/darts](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
 - [nalepae/pandarallel](https://github.com/nalepae/pandarallel) - A simple and efficient tool to parallelize Pandas operations on all available CPUs
 - [SeldonIO/MLServer](https://github.com/SeldonIO/MLServer) - An inference server for your machine learning models, including support for multiple frameworks, multi-model serving and more
@@ -458,7 +459,7 @@
 - [microsoft/graphing](https://github.com/microsoft/graphing) - All kinds of graph algorithms. From path cover for special graphs to traversal, etc.
 - [python-attrs/attrs](https://github.com/python-attrs/attrs) - Python Classes Without Boilerplate
 - [online-ml/river-torch](https://github.com/online-ml/river-torch) - 
-- [rnt-pmi/odin](https://github.com/rnt-pmi/odin) - ODIN: pluggable meta-annotations and metrics for the diagnosis of classification and localization
+- [nahitorres/odin](https://github.com/nahitorres/odin) - ODIN: pluggable meta-annotations and metrics for the diagnosis of classification and localization
 - [briggySmalls/cookiecutter-pypackage](https://github.com/briggySmalls/cookiecutter-pypackage) - Cookiecutter template for a poetry-managed Python package.
 - [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage) - Cookiecutter template for a Python package.
 - [hirschmann/pid-autotune](https://github.com/hirschmann/pid-autotune) - PID-controller/brewing kettle simulation
