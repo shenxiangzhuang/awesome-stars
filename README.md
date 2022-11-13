@@ -324,7 +324,6 @@
 - [jihoonerd/Data_Structures_and_Algorithms_in_Python](https://github.com/jihoonerd/Data_Structures_and_Algorithms_in_Python) - :book: Worked Solutions of "Data Structures & Algorithms in Python", written by Michael T. Goodrich, Roberto Tamassia and Michael H. Goldwasser. ✏️
 - [fengdu78/lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》的代码实现
 - [hktxt/Courses](https://github.com/hktxt/Courses) - An AI engineer Prepares / 算法工程师自我修养
-- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [random-forests/tutorials](https://github.com/random-forests/tutorials) - 
 - [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
 - [IHaskell/IHaskell](https://github.com/IHaskell/IHaskell) - A Haskell kernel for the Jupyter project.
@@ -677,6 +676,7 @@
 - [billpmurphy/hask](https://github.com/billpmurphy/hask) - Haskell language features and standard libraries in pure Python.
 - [OmkarPathak/pygorithm](https://github.com/OmkarPathak/pygorithm) - A Python module for learning all major algorithms
 - [bartdag/pymining](https://github.com/bartdag/pymining) - A few data mining algorithms in pure python
+- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [shubhamjha97/hierarchical-clustering](https://github.com/shubhamjha97/hierarchical-clustering) - A Python implementation of divisive and hierarchical clustering algorithms. The algorithms were tested on the Human Gene DNA Sequence dataset and dendrograms were plotted.
