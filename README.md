@@ -243,6 +243,7 @@
 
 ## Julia 
 
+- [OutlierDetectionJL/OutlierDetection.jl](https://github.com/OutlierDetectionJL/OutlierDetection.jl) - Fast, scalable and flexible Outlier Detection with Julia
 - [RaphaelS1/SurvivalAnalysis.jl](https://github.com/RaphaelS1/SurvivalAnalysis.jl) - A survival analysis interface for Julia
 - [JuliaCN/JuliaDataScience](https://github.com/JuliaCN/JuliaDataScience) - Julia Data Science 中文版
 - [JuliaStats/TimeModels.jl](https://github.com/JuliaStats/TimeModels.jl) - Modeling time series in Julia
@@ -420,6 +421,7 @@
 
 ## Python 
 
+- [quantumblacklabs/causalnex](https://github.com/quantumblacklabs/causalnex) - A Python library that helps data scientists to infer causation rather than observing correlation.
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
 - [ServiceNow/N-BEATS](https://github.com/ServiceNow/N-BEATS) - N-BEATS is a neural-network based model for univariate timeseries forecasting. N-BEATS is a ServiceNow Research project that was started at Element AI.
 - [yanyongyu/githubkit](https://github.com/yanyongyu/githubkit) - The modern, all-batteries-included GitHub SDK for Python, including rest api, graphql, webhooks, like octokit!
@@ -752,6 +754,7 @@
 
 ## Shell 
 
+- [xu-cheng/latex-action](https://github.com/xu-cheng/latex-action) - :octocat: GitHub Action to compile LaTeX documents
 - [billw2/rpi-clone](https://github.com/billw2/rpi-clone) - A shell script to clone a booted disk.
 - [xbin-io/xbin](https://github.com/xbin-io/xbin) - Your serverless cli toolkit.
 - [LesnyRumcajs/grpc_bench](https://github.com/LesnyRumcajs/grpc_bench) - Various gRPC benchmarks
