@@ -15,6 +15,7 @@
 - [Clojure](#clojure)
 - [Cython](#cython)
 - [Dockerfile](#dockerfile)
+- [EJS](#ejs)
 - [Erlang](#erlang)
 - [Go](#go)
 - [HTML](#html)
@@ -132,6 +133,10 @@
 ## Dockerfile 
 
 - [lukechilds/dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
+
+## EJS 
+
+- [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 
 ## Erlang 
 
@@ -350,7 +355,6 @@
 
 ## Others 
 
-- [Fechin/reference](https://github.com/Fechin/reference) - Share quick reference cheat sheet for developers.
 - [cure-lab/Awesome-time-series](https://github.com/cure-lab/Awesome-time-series) - A comprehensive survey on the time series domains
 - [cuge1995/awesome-time-series](https://github.com/cuge1995/awesome-time-series) - list of papers, code, and other resources
 - [kathoffman/causal-inference-visual-guides](https://github.com/kathoffman/causal-inference-visual-guides) - A collection of visual guides to help applied scientists learn causal inference.
@@ -423,6 +427,7 @@
 
 ## Python 
 
+- [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [Azure/mlops-templates](https://github.com/Azure/mlops-templates) - 
 - [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
 - [google/latexify_py](https://github.com/google/latexify_py) - Generates LaTeX math description from Python functions.
