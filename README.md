@@ -219,6 +219,7 @@
 
 ## JavaScript 
 
+- [paperswithcode/ai-deadlines](https://github.com/paperswithcode/ai-deadlines) - :alarm_clock: AI conference deadline countdowns
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [PacktPublishing/Full-Stack-FastAPI-React-and-MongoDB](https://github.com/PacktPublishing/Full-Stack-FastAPI-React-and-MongoDB) - Full Stack FastAPI, React, and MongoDB, published by Packt
@@ -427,6 +428,9 @@
 
 ## Python 
 
+- [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - Python client library for Modal
+- [kach/gradient-descent-the-ultimate-optimizer](https://github.com/kach/gradient-descent-the-ultimate-optimizer) - Code for our NeurIPS 2022 paper
+- [loglabs/mltrace](https://github.com/loglabs/mltrace) - Coarse-grained lineage and tracing for machine learning pipelines.
 - [uber/causalml](https://github.com/uber/causalml) - Uplift modeling and causal inference with machine learning algorithms
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
 - [georgebv/pyextremes](https://github.com/georgebv/pyextremes) - Extreme Value Analysis (EVA) in Python
