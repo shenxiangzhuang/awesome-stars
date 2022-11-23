@@ -200,7 +200,7 @@
 - [apache/flink-training](https://github.com/apache/flink-training) - Apache Flink Training Excercises
 - [IanDarwin/javasrc](https://github.com/IanDarwin/javasrc) - Ian's Collected code examples from the O'Reilly Java Cookbook & elsewhere
 - [deepjavalibrary/djl](https://github.com/deepjavalibrary/djl) - An Engine-Agnostic Deep Learning Framework in Java
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration pipelines from APIs, databases & files to warehouses & lakes.
 - [linkedin/cruise-control](https://github.com/linkedin/cruise-control) - Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a Kafka cluster. It provides great value to Kafka users by simplifying the operation of Kaf
 - [alibaba/SREWorks](https://github.com/alibaba/SREWorks) - Cloud Native DataOps & AIOps Platform | 云原生数智运维平台
 - [aws/random-cut-forest-by-aws](https://github.com/aws/random-cut-forest-by-aws) - An implementation of the Random Cut Forest data structure for sketching streaming data, with support for anomaly detection, density estimation, imputation, and more.
@@ -727,7 +727,7 @@
 
 ## RMarkdown 
 
-- [XiangyunHuang/notesdown](https://github.com/XiangyunHuang/notesdown) - :book: R 语言学习笔记：数据操作、统计图形和统计计算
+- [XiangyunHuang/notesdown](https://github.com/XiangyunHuang/notesdown) - :book: R 语言学习笔记：数据操作、统计图形和数值优化
 
 ## Roff 
 
