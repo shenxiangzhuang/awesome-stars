@@ -144,6 +144,7 @@
 
 ## Go 
 
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
