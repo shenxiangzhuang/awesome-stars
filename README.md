@@ -356,6 +356,7 @@
 
 ## Makefile 
 
+- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [tomwhite/hadoop-book](https://github.com/tomwhite/hadoop-book) - Example source code accompanying O'Reilly's "Hadoop: The Definitive Guide" by Tom White
 - [SYSU-ROS-Develop/ros_pratical_training](https://github.com/SYSU-ROS-Develop/ros_pratical_training) - 中山大学软件工程实训 - 面向机器人开发
 
