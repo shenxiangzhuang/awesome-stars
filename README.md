@@ -19,6 +19,7 @@
 - [EJS](#ejs)
 - [Erlang](#erlang)
 - [Go](#go)
+- [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
 - [Java](#java)
@@ -173,6 +174,10 @@
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [peterq/pan-light](https://github.com/peterq/pan-light) - 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
 
+## HCL 
+
+- [antonputra/tutorials](https://github.com/antonputra/tutorials) - DevOps by Example
+
 ## HTML 
 
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
@@ -208,6 +213,7 @@
 
 ## Java 
 
+- [bytedance/primus](https://github.com/bytedance/primus) - 
 - [s4kibs4mi/java-developer-roadmap](https://github.com/s4kibs4mi/java-developer-roadmap) - Roadmap to becoming a Java developer in 2022
 - [apache/flink-training](https://github.com/apache/flink-training) - Apache Flink Training Excercises
 - [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management
@@ -232,6 +238,7 @@
 
 ## JavaScript 
 
+- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
 - [paperswithcode/ai-deadlines](https://github.com/paperswithcode/ai-deadlines) - :alarm_clock: AI conference deadline countdowns
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
@@ -445,6 +452,7 @@
 
 ## Python 
 
+- [kushalkolar/fastplotlib](https://github.com/kushalkolar/fastplotlib) - A fast plotting library
 - [jacopotagliabue/post-modern-stack](https://github.com/jacopotagliabue/post-modern-stack) - Joining the modern data stack with the modern ML stack
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface.
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pantsbuild developer workflow system
@@ -683,7 +691,7 @@
 - [hudson-and-thames/mlfinlab](https://github.com/hudson-and-thames/mlfinlab) - MlFinLab helps portfolio managers and traders who want to leverage the power of machine learning by providing reproducible, interpretable, and easy to use tools.
 - [tushushu/imylu](https://github.com/tushushu/imylu) - Pure Python implementation of machine learning algorithms
 - [hanmq/MachineLearning_Zhouzhihua_ProblemSets](https://github.com/hanmq/MachineLearning_Zhouzhihua_ProblemSets) - Exercises answers to the book "machine-learning" written by Zhou Zhihua。周志华《机器学习》课后习题，个人解答。各算法都拿numpy和pandas实现了一遍
-- [shenxiangzhuang/toydata](https://github.com/shenxiangzhuang/toydata) - Data Structures in Python.
+- [shenxiangzhuang/toydata](https://github.com/shenxiangzhuang/toydata) - Data Structures in Python
 - [Apress/pyspark-recipes](https://github.com/Apress/pyspark-recipes) - Source code for 'PySpark Recipes' by Raju Kumar Mishra
 - [shenweichen/GraphEmbedding](https://github.com/shenweichen/GraphEmbedding) - Implementation and experiments  of graph embedding algorithms.
 - [ResidentMario/missingno](https://github.com/ResidentMario/missingno) - Missing data visualization module for Python.
