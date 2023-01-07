@@ -813,6 +813,7 @@
 
 ## Shell 
 
+- [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - Linux 一键更换国内软件源
 - [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
 - [pantsbuild/example-python](https://github.com/pantsbuild/example-python) - An example repo to demonstrate Python support in Pants v2
 - [mhausenblas/mkdocs-deploy-gh-pages](https://github.com/mhausenblas/mkdocs-deploy-gh-pages) - GitHub Action to deploy an MkDocs site to GitHub Pages
