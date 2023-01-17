@@ -839,6 +839,7 @@
 
 ## TeX 
 
+- [OsbertWang/install-latex-guide-zh-cn](https://github.com/OsbertWang/install-latex-guide-zh-cn) - 一份简短的关于 LaTeX 安装的介绍
 - [CTeX-org/ctex-kit](https://github.com/CTeX-org/ctex-kit) - Macro Packages and Scripts for Chinese TeX users
 - [matze/mtheme](https://github.com/matze/mtheme) - A modern LaTeX Beamer theme
 - [michaelgutmann/ml-pen-and-paper-exercises](https://github.com/michaelgutmann/ml-pen-and-paper-exercises) - Pen and paper exercises in machine learning
