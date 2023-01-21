@@ -462,6 +462,7 @@
 
 ## Python 
 
+- [arminstraub/krop](https://github.com/arminstraub/krop) - A simple graphical tool to crop the pages of PDF files, written in Python/Qt
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
 - [tamentis/rpdb](https://github.com/tamentis/rpdb) - Wrapper around pdb allowing remote debugging via netcat or telnet. This is especially useful in a Tomcat/Jython environment where little debugging tools are available.
 - [SidiLu001/disk_failure_prediction](https://github.com/SidiLu001/disk_failure_prediction) - 
@@ -753,7 +754,7 @@
 - [rossant/awesome-scientific-python](https://github.com/rossant/awesome-scientific-python) - A curated list of awesome scientific Python resources
 - [fluentpython/example-code](https://github.com/fluentpython/example-code) - Example code for the book Fluent Python, 1st Edition (O'Reilly, 2015)
 - [goelhardik/projects](https://github.com/goelhardik/projects) - Projects. And then some.
-- [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
+- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [tryolabs/requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
 - [mattnedrich/GradientDescentExample](https://github.com/mattnedrich/GradientDescentExample) - Example demonstrating how gradient descent may be used to solve a linear regression problem
 - [buckyroberts/Spider](https://github.com/buckyroberts/Spider) - Python website crawler.
