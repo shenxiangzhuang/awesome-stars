@@ -569,7 +569,7 @@
 - [selimfirat/pysad](https://github.com/selimfirat/pysad) - Streaming Anomaly Detection Framework in Python (Outlier Detection for Streaming Data)
 - [Stream-AD/MemStream](https://github.com/Stream-AD/MemStream) - MemStream: Memory-Based Streaming Anomaly Detection
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
-- [cmu-phil/causal-learn](https://github.com/cmu-phil/causal-learn) - Causal Discovery for Python. Translation and extension of the Tetrad Java code.
+- [py-why/causal-learn](https://github.com/py-why/causal-learn) - Causal Discovery for Python. Translation and extension of the Tetrad Java code.
 - [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) - OpenTelemetry Python API and SDK
 - [keiichishima/pcalg](https://github.com/keiichishima/pcalg) - CPDAG Estimation using PC-Algorithm
 - [FenTechSolutions/CausalDiscoveryToolbox](https://github.com/FenTechSolutions/CausalDiscoveryToolbox) - Package for causal inference in graphs and in the pairwise settings. Tools for graph structure recovery and dependencies are included.
@@ -724,7 +724,7 @@
 - [spry-group/python-vultr](https://github.com/spry-group/python-vultr) - Vultr Python Client library
 - [careermonk/data-structures-and-algorithmic-thinking-with-python](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-python) - Data Structure And Algorithmic Thinking With Python
 - [davecom/ClassicComputerScienceProblemsInPython](https://github.com/davecom/ClassicComputerScienceProblemsInPython) - Source Code for the Book Classic Computer Science Problems in Python
-- [ydataai/pandas-profiling](https://github.com/ydataai/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
+- [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2021年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [DestructHub/ProjectEuler](https://github.com/DestructHub/ProjectEuler) - Polyglot solutions for www.projecteuler.net mathematical challenges
