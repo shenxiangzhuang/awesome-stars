@@ -386,6 +386,7 @@
 
 ## Others 
 
+- [apifox/apifox](https://github.com/apifox/apifox) - Apifox = Postman + Swagger + Mock + JMeter。Apifox 官网：https://www.apifox.cn/
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [DaoSword/Time-Series-Forecasting-and-Deep-Learning](https://github.com/DaoSword/Time-Series-Forecasting-and-Deep-Learning) - Resources about time series forecasting and deep learning.
 - [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
@@ -462,6 +463,7 @@
 
 ## Python 
 
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [samuelcolvin/pytest-pretty](https://github.com/samuelcolvin/pytest-pretty) - pytest plugin for pretty printing the test summary.
 - [arminstraub/krop](https://github.com/arminstraub/krop) - A simple graphical tool to crop the pages of PDF files, written in Python/Qt
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
