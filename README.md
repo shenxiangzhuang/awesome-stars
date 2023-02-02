@@ -284,6 +284,7 @@
 
 ## Jupyter Notebook 
 
+- [erdogant/distfit](https://github.com/erdogant/distfit) - distfit is a python library for probability density fitting.
 - [jinit24/ARIMA-Model](https://github.com/jinit24/ARIMA-Model) - ARIMA model from scratch using numpy and pandas.
 - [jakobrunge/tigramite](https://github.com/jakobrunge/tigramite) - Tigramite is a python package for causal inference with a focus on time series data. The Tigramite documentation is at
 - [LeeDoYup/RobustSTL](https://github.com/LeeDoYup/RobustSTL) - Unofficial Implementation of RobustSTL: A Robust Seasonal-Trend Decomposition Algorithm for Long Time Series (AAAI 2019)
@@ -463,6 +464,7 @@
 
 ## Python 
 
+- [salesforce/logai](https://github.com/salesforce/logai) - LogAI - An open-source library for log analytics and intelligence
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [samuelcolvin/pytest-pretty](https://github.com/samuelcolvin/pytest-pretty) - pytest plugin for pretty printing the test summary.
 - [arminstraub/krop](https://github.com/arminstraub/krop) - A simple graphical tool to crop the pages of PDF files, written in Python/Qt
