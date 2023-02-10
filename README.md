@@ -174,7 +174,7 @@
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [sturdy-dev/sturdy](https://github.com/sturdy-dev/sturdy) - 🐥 Sturdy is an open-source, real-time, version control platform for startups (https://getsturdy.com)
 - [ccfos/nightingale](https://github.com/ccfos/nightingale) - An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.
-- [ariga/atlas](https://github.com/ariga/atlas) - Atlas: A modern tool for managing database schemas
+- [ariga/atlas](https://github.com/ariga/atlas) - A modern tool for managing database schemas
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Vector database for scalable similarity search and AI applications.
 - [bilibili/gengine](https://github.com/bilibili/gengine) - 
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
@@ -493,7 +493,7 @@
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
 - [georgebv/pyextremes](https://github.com/georgebv/pyextremes) - Extreme Value Analysis (EVA) in Python
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
-- [Azure/mlops-templates](https://github.com/Azure/mlops-templates) - 
+- [Azure/mlops-templates](https://github.com/Azure/mlops-templates) - Azure MLOps (v2) solution accelerators. Enterprise ready templates to deploy your machine learning models on the Azure Platform.
 - [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
 - [google/latexify_py](https://github.com/google/latexify_py) - A library to generate LaTeX expression from Python code.
 - [seatgeek/thefuzz](https://github.com/seatgeek/thefuzz) - Fuzzy String Matching in Python
