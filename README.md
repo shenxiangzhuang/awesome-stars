@@ -466,6 +466,7 @@
 
 ## Python 
 
+- [IDEA-CCNL/Fengshenbang-LM](https://github.com/IDEA-CCNL/Fengshenbang-LM) - Fengshenbang-LM(封神榜大模型)是IDEA研究院认知计算与自然语言研究中心主导的大模型开源体系，成为中文AIGC和认知智能的基础设施。
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [thautwarm/moshmosh](https://github.com/thautwarm/moshmosh) - An amazing syntax extension system in pure Python, the way to coding efficiency.
 - [sdispater/pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy
@@ -876,6 +877,7 @@
 
 ## TypeScript 
 
+- [clnnn/chat-summarizer](https://github.com/clnnn/chat-summarizer) - 💬 Real-time chat application prototype that can summarise the entire chat log
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
