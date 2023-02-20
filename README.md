@@ -226,7 +226,6 @@
 - [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management
 - [IanDarwin/javasrc](https://github.com/IanDarwin/javasrc) - Ian's Collected code examples from the O'Reilly Java Cookbook & elsewhere
 - [deepjavalibrary/djl](https://github.com/deepjavalibrary/djl) - An Engine-Agnostic Deep Learning Framework in Java
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
 - [linkedin/cruise-control](https://github.com/linkedin/cruise-control) - Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a Kafka cluster. It provides great value to Kafka users by simplifying the operation of Kaf
 - [alibaba/SREWorks](https://github.com/alibaba/SREWorks) - Cloud Native DataOps & AIOps Platform | 云原生数智运维平台
 - [aws/random-cut-forest-by-aws](https://github.com/aws/random-cut-forest-by-aws) - An implementation of the Random Cut Forest data structure for sketching streaming data, with support for anomaly detection, density estimation, imputation, and more.
@@ -568,6 +567,7 @@
 - [viniciuschiele/flask-apscheduler](https://github.com/viniciuschiele/flask-apscheduler) - Adds APScheduler support to Flask
 - [debugging-assistant/Revelio](https://github.com/debugging-assistant/Revelio) - 
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
 - [etingof/pysnmp](https://github.com/etingof/pysnmp) - Python SNMP library
 - [sourceperl/pyModbusTCP](https://github.com/sourceperl/pyModbusTCP) - A simple Modbus/TCP library for Python
 - [jingxil/Neural-Decision-Forests](https://github.com/jingxil/Neural-Decision-Forests) - An implementation of the Deep Neural Decision Forests in PyTorch
@@ -680,7 +680,7 @@
 - [kevinzakka/recurrent-visual-attention](https://github.com/kevinzakka/recurrent-visual-attention) - A PyTorch Implementation of "Recurrent Models of Visual Attention"
 - [pcyin/pytorch_basic_nmt](https://github.com/pcyin/pytorch_basic_nmt) - A simple yet strong implementation of neural machine translation in pytorch
 - [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
-- [MaxHalford/prince](https://github.com/MaxHalford/prince) - :crown: Python factor analysis library (PCA, CA, MCA, MFA, FAMD)
+- [MaxHalford/prince](https://github.com/MaxHalford/prince) - :crown: Factor analysis in Python: PCA, CA, MCA, MFA, FAMD, GPA
 - [logpai/loglizer](https://github.com/logpai/loglizer) - A log analysis toolkit for automated anomaly detection [ISSRE'16]
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you c
 - [abilian/olapy](https://github.com/abilian/olapy) - OlaPy, an experimental OLAP engine based on Pandas
