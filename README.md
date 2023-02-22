@@ -194,7 +194,7 @@
 - [jitsejan/python-flask-with-javascript](https://github.com/jitsejan/python-flask-with-javascript) - This repository contains an example app to communicate between JavaScript and Python.
 - [WestHealth/pyvis](https://github.com/WestHealth/pyvis) - Python package for creating and visualizing interactive network graphs.
 - [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
-- [storopoli/Turing-Workshop](https://github.com/storopoli/Turing-Workshop) - Workshop of Bayesian Statistics using Julia and Turing
+- [storopoli/Turing-Workshop](https://github.com/storopoli/Turing-Workshop) - DEPRECATED IN FAVOR OF TuringLang/Turing-Workshop
 - [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)
 - [zelenski/stanford-cpp-library](https://github.com/zelenski/stanford-cpp-library) - Stanford C++ library used in CS106B/X courses
 - [rstudio/concept-maps](https://github.com/rstudio/concept-maps) - Concept maps for all things data science
@@ -465,6 +465,9 @@
 
 ## Python 
 
+- [citrusvanilla/tinyflux](https://github.com/citrusvanilla/tinyflux) - The tiny time series database optimized for your happiness.
+- [dongtsi/OWAD](https://github.com/dongtsi/OWAD) - Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS'23).
+- [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
 - [IDEA-CCNL/Fengshenbang-LM](https://github.com/IDEA-CCNL/Fengshenbang-LM) - Fengshenbang-LM(封神榜大模型)是IDEA研究院认知计算与自然语言研究中心主导的大模型开源体系，成为中文AIGC和认知智能的基础设施。
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [thautwarm/moshmosh](https://github.com/thautwarm/moshmosh) - An amazing syntax extension system in pure Python, the way to coding efficiency.
