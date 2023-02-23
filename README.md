@@ -283,6 +283,7 @@
 
 ## Jupyter Notebook 
 
+- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 - [erdogant/distfit](https://github.com/erdogant/distfit) - distfit is a python library for probability density fitting.
 - [jinit24/ARIMA-Model](https://github.com/jinit24/ARIMA-Model) - ARIMA model from scratch using numpy and pandas.
 - [jakobrunge/tigramite](https://github.com/jakobrunge/tigramite) - Tigramite is a python package for causal inference with a focus on time series data. The Tigramite documentation is at
@@ -465,6 +466,7 @@
 
 ## Python 
 
+- [pymc-labs/pymc-marketing](https://github.com/pymc-labs/pymc-marketing) - Bayesian marketing toolbox in PyMC. Media Mix, CLV models and more.
 - [citrusvanilla/tinyflux](https://github.com/citrusvanilla/tinyflux) - The tiny time series database optimized for your happiness.
 - [dongtsi/OWAD](https://github.com/dongtsi/OWAD) - Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS'23).
 - [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
@@ -683,7 +685,7 @@
 - [kevinzakka/recurrent-visual-attention](https://github.com/kevinzakka/recurrent-visual-attention) - A PyTorch Implementation of "Recurrent Models of Visual Attention"
 - [pcyin/pytorch_basic_nmt](https://github.com/pcyin/pytorch_basic_nmt) - A simple yet strong implementation of neural machine translation in pytorch
 - [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
-- [MaxHalford/prince](https://github.com/MaxHalford/prince) - :crown: Factor analysis in Python: PCA, CA, MCA, MFA, FAMD, GPA
+- [MaxHalford/prince](https://github.com/MaxHalford/prince) - :crown: Multivariate exploratory data analysis in Python: PCA, CA, MCA, MFA, FAMD, GPA
 - [logpai/loglizer](https://github.com/logpai/loglizer) - A log analysis toolkit for automated anomaly detection [ISSRE'16]
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you c
 - [abilian/olapy](https://github.com/abilian/olapy) - OlaPy, an experimental OLAP engine based on Pandas
