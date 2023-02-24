@@ -156,6 +156,7 @@
 
 ## Go 
 
+- [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [pyroscope-io/pyroscope](https://github.com/pyroscope-io/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment for AI/ML
