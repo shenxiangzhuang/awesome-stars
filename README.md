@@ -166,7 +166,7 @@
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code cloud development environments.
 - [wangkechun/go-by-example](https://github.com/wangkechun/go-by-example) - 
 - [alicfeng/mysql_markdown](https://github.com/alicfeng/mysql_markdown) - It can generate markdown structure documents of MySQL succinctly~
 - [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Production infrastructure for machine learning at scale
@@ -221,6 +221,7 @@
 
 ## Java 
 
+- [OpenTSDB/opentsdb](https://github.com/OpenTSDB/opentsdb) - A scalable, distributed Time Series Database.
 - [bytedance/primus](https://github.com/bytedance/primus) - 
 - [s4kibs4mi/java-developer-roadmap](https://github.com/s4kibs4mi/java-developer-roadmap) - Roadmap to becoming a Java developer in 2022
 - [apache/flink-training](https://github.com/apache/flink-training) - Apache Flink Training Excercises
@@ -468,6 +469,7 @@
 
 ## Python 
 
+- [cocolato/pydumpling](https://github.com/cocolato/pydumpling) - Python post-mortem debugger | 针对Python的异常调试器
 - [pymc-labs/pymc-marketing](https://github.com/pymc-labs/pymc-marketing) - Bayesian marketing toolbox in PyMC. Media Mix, CLV models and more.
 - [citrusvanilla/tinyflux](https://github.com/citrusvanilla/tinyflux) - The tiny time series database optimized for your happiness.
 - [dongtsi/OWAD](https://github.com/dongtsi/OWAD) - Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS'23).
@@ -486,6 +488,7 @@
 - [kushalkolar/fastplotlib](https://github.com/kushalkolar/fastplotlib) - A fast plotting library
 - [jacopotagliabue/post-modern-stack](https://github.com/jacopotagliabue/post-modern-stack) - Joining the modern data stack with the modern ML stack
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface.
+- [pantsbuild/example-python](https://github.com/pantsbuild/example-python) - An example repo to demonstrate Python support in Pants v2
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pantsbuild developer workflow system
 - [salesforce/CoST](https://github.com/salesforce/CoST) - PyTorch code for CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting (ICLR 2022)
 - [brainix/pottery](https://github.com/brainix/pottery) - Redis for humans. 🌎🌍🌏
@@ -844,7 +847,6 @@
 
 - [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - Linux 一键更换国内软件源
 - [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
-- [pantsbuild/example-python](https://github.com/pantsbuild/example-python) - An example repo to demonstrate Python support in Pants v2
 - [mhausenblas/mkdocs-deploy-gh-pages](https://github.com/mhausenblas/mkdocs-deploy-gh-pages) - GitHub Action to deploy an MkDocs site to GitHub Pages
 - [xu-cheng/latex-action](https://github.com/xu-cheng/latex-action) - :octocat: GitHub Action to compile LaTeX documents
 - [billw2/rpi-clone](https://github.com/billw2/rpi-clone) - A shell script to clone a booted disk.
