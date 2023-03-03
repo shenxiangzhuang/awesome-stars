@@ -156,6 +156,7 @@
 
 ## Go 
 
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [pyroscope-io/pyroscope](https://github.com/pyroscope-io/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
@@ -470,6 +471,7 @@
 
 ## Python 
 
+- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [MatthewReid854/reliability](https://github.com/MatthewReid854/reliability) - Reliability engineering toolkit for Python - https://reliability.readthedocs.io/en/latest/
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [cocolato/pydumpling](https://github.com/cocolato/pydumpling) - Python post-mortem debugger | 针对Python的异常调试器
@@ -543,7 +545,7 @@
 - [nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA) - Run isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks
 - [sebp/scikit-survival](https://github.com/sebp/scikit-survival) - Survival analysis built on top of scikit-learn
 - [slinderman/pyhawkes](https://github.com/slinderman/pyhawkes) - Python framework for inference in Hawkes processes.
-- [squareRoot3/Rethinking-Anomaly-Detection](https://github.com/squareRoot3/Rethinking-Anomaly-Detection) - ICML 2022 https://arxiv.org/abs/2205.15508
+- [squareRoot3/Rethinking-Anomaly-Detection](https://github.com/squareRoot3/Rethinking-Anomaly-Detection) - "Rethinking Graph Neural Networks for Anomaly Detection" in ICML 2022
 - [SimmerChan/KG-demo-for-movie](https://github.com/SimmerChan/KG-demo-for-movie) - 从无到有构建一个电影知识图谱，并基于该KG，开发一个简易的KBQA程序。
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [google/sympy2jax](https://github.com/google/sympy2jax) - Turn SymPy expressions into trainable JAX expressions.
@@ -620,7 +622,7 @@
 - [locuslab/TCN](https://github.com/locuslab/TCN) - Sequence modeling benchmarks and temporal convolutional networks
 - [tartley/colorama](https://github.com/tartley/colorama) - Simple cross-platform colored terminal text in Python
 - [SheffieldML/GPy](https://github.com/SheffieldML/GPy) - Gaussian processes framework in python
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - In-Database Machine Learning
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - An emerging platform to help developers build #AI solutions
 - [openstack/debtcollector](https://github.com/openstack/debtcollector) - A collection of python patterns that help you collect your technical debt in a non-destructive manner. Mirror of code maintained at opendev.org.
 - [gnocchixyz/gnocchi](https://github.com/gnocchixyz/gnocchi) - Timeseries database
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
@@ -815,6 +817,10 @@
 
 ## Rust 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+- [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
+- [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [CeresDB/ceresdb](https://github.com/CeresDB/ceresdb) - CeresDB is a high-performance, distributed, cloud native time-series database.
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
@@ -896,7 +902,7 @@
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
-- [modern-js-dev/garfish](https://github.com/modern-js-dev/garfish) - A powerful micro front-end framework 🚚
+- [web-infra-dev/garfish](https://github.com/web-infra-dev/garfish) - A powerful micro front-end framework 🚚
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Figma to HTML, CSS, React, Vue, and more!
 - [July541/haskell-search-extension](https://github.com/July541/haskell-search-extension) - A browser extension to search Haskell knowledge.
