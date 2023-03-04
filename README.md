@@ -471,6 +471,7 @@
 
 ## Python 
 
+- [upciti/wheel2deb](https://github.com/upciti/wheel2deb) - Python Wheel to Debian package converter
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [MatthewReid854/reliability](https://github.com/MatthewReid854/reliability) - Reliability engineering toolkit for Python - https://reliability.readthedocs.io/en/latest/
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
@@ -817,6 +818,7 @@
 
 ## Rust 
 
+- [kornelski/cargo-deb](https://github.com/kornelski/cargo-deb) - A cargo subcommand that generates Debian packages from information in Cargo.toml
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
