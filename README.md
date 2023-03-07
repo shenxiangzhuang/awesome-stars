@@ -222,6 +222,7 @@
 
 ## Java 
 
+- [HPI-Information-Systems/DADS](https://github.com/HPI-Information-Systems/DADS) - Distributed detection of sequential anomalies in univariate time series
 - [OpenTSDB/opentsdb](https://github.com/OpenTSDB/opentsdb) - A scalable, distributed Time Series Database.
 - [bytedance/primus](https://github.com/bytedance/primus) - 
 - [s4kibs4mi/java-developer-roadmap](https://github.com/s4kibs4mi/java-developer-roadmap) - Roadmap to becoming a Java developer in 2022
@@ -773,7 +774,7 @@
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [shubhamjha97/hierarchical-clustering](https://github.com/shubhamjha97/hierarchical-clustering) - A Python implementation of divisive and hierarchical clustering algorithms. The algorithms were tested on the Human Gene DNA Sequence dataset and dendrograms were plotted.
 - [ZwEin27/Hierarchical-Clustering](https://github.com/ZwEin27/Hierarchical-Clustering) - Hierarchical Clustering Python Implementation
-- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
+- [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
 - [svaante/decision-tree-id3](https://github.com/svaante/decision-tree-id3) - 
 - [SmirkCao/Lihang](https://github.com/SmirkCao/Lihang) - Statistical learning methods, 统计学习方法(第2版)[李航]  [笔记, 代码, notebook, 参考文献, Errata, lihang]
 - [WenDesi/lihang_book_algorithm](https://github.com/WenDesi/lihang_book_algorithm) - 致力于将李航博士《统计学习方法》一书中所有算法实现一遍
@@ -899,6 +900,7 @@
 
 ## TypeScript 
 
+- [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [clnnn/chat-summarizer](https://github.com/clnnn/chat-summarizer) - 💬 Real-time chat application prototype that can summarise the entire chat log
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
