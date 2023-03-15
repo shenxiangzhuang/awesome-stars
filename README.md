@@ -476,6 +476,10 @@
 
 ## Python 
 
+- [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers.
+- [stanford-crfm/helm](https://github.com/stanford-crfm/helm) - Holistic Evaluation of Language Models (HELM), a framework to increase the transparency of language models (https://arxiv.org/abs/2211.09110).
+- [dirty-cat/dirty_cat](https://github.com/dirty-cat/dirty_cat) - Machine learning on dirty tabular data
+- [OracLabs/orac](https://github.com/OracLabs/orac) - 🦫 MLOps for (online) machine learning
 - [kotaNakm/CubeScope](https://github.com/kotaNakm/CubeScope) - 
 - [lucidrains/lion-pytorch](https://github.com/lucidrains/lion-pytorch) - 🦁 Lion, new optimizer discovered by Google Brain using genetic algorithms that is purportedly better than Adam(w), in Pytorch
 - [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
@@ -509,7 +513,7 @@
 - [brainix/pottery](https://github.com/brainix/pottery) - Redis for humans. 🌎🌍🌏
 - [chaos-genius/chaos_genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier detection and root cause analysis.
 - [shankarpandala/lazypredict](https://github.com/shankarpandala/lazypredict) - Lazy Predict help build a lot of basic models without much code and helps understand which models works better without any parameter tuning
-- [mmabrouk/chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) - API for interacting with ChatGPT using Python and from Shell.
+- [mmabrouk/chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) - API for interacting with ChatGPT and GPT4 using Python and from Shell.
 - [reiinakano/scikit-plot](https://github.com/reiinakano/scikit-plot) - An intuitive library to add plotting functionality to scikit-learn objects.
 - [shaido987/riskloc](https://github.com/shaido987/riskloc) - Implementation of RiskLoc, a method for localizing multi-dimensional root causes.
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
@@ -600,7 +604,7 @@
 - [AlexImmer/Laplace](https://github.com/AlexImmer/Laplace) - Laplace approximations for Deep Learning.
 - [laike9m/Cyberbrain](https://github.com/laike9m/Cyberbrain) - Python debugging, redefined.
 - [hill-a/stable-baselines](https://github.com/hill-a/stable-baselines) - A fork of OpenAI Baselines, implementations of reinforcement learning algorithms
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to coordinate your dataflow
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
 - [selimfirat/pysad](https://github.com/selimfirat/pysad) - Streaming Anomaly Detection Framework in Python (Outlier Detection for Streaming Data)
 - [Stream-AD/MemStream](https://github.com/Stream-AD/MemStream) - MemStream: Memory-Based Streaming Anomaly Detection
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
