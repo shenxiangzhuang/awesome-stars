@@ -483,7 +483,7 @@
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers.
 - [stanford-crfm/helm](https://github.com/stanford-crfm/helm) - Holistic Evaluation of Language Models (HELM), a framework to increase the transparency of language models (https://arxiv.org/abs/2211.09110).
 - [dirty-cat/dirty_cat](https://github.com/dirty-cat/dirty_cat) - Machine learning on dirty tabular data
-- [OracLabs/orac](https://github.com/OracLabs/orac) - 🦫 MLOps for (online) machine learning
+- [online-ml/orac](https://github.com/online-ml/orac) - 🦫 MLOps for (online) machine learning
 - [kotaNakm/CubeScope](https://github.com/kotaNakm/CubeScope) - 
 - [lucidrains/lion-pytorch](https://github.com/lucidrains/lion-pytorch) - 🦁 Lion, new optimizer discovered by Google Brain using genetic algorithms that is purportedly better than Adam(w), in Pytorch
 - [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
