@@ -180,7 +180,7 @@
 - [sturdy-dev/sturdy](https://github.com/sturdy-dev/sturdy) - 🐥 Sturdy is an open-source, real-time, version control platform for startups (https://getsturdy.com)
 - [ccfos/nightingale](https://github.com/ccfos/nightingale) - An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.
 - [ariga/atlas](https://github.com/ariga/atlas) - A modern tool for managing database schemas
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database with high-performance and high scalability.
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 - [bilibili/gengine](https://github.com/bilibili/gengine) - 
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [peterq/pan-light](https://github.com/peterq/pan-light) - 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
@@ -478,6 +478,7 @@
 
 ## Python 
 
+- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - 
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers.
