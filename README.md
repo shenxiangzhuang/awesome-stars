@@ -111,7 +111,7 @@
 - [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
 - [comzyh/TCP-Lab](https://github.com/comzyh/TCP-Lab) - Stanford cs144 lab，an elegant TCP/IP implementation
 - [nraghuraman/CS106L-Fall-2020](https://github.com/nraghuraman/CS106L-Fall-2020) - 
-- [CS144/sponge](https://github.com/CS144/sponge) - CS144 Lab Assignments
+- [CS144/sponge-old2](https://github.com/CS144/sponge-old2) - CS144 Lab Assignments
 - [dmlc/xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
 - [mlpack/mlpack](https://github.com/mlpack/mlpack) - mlpack: a fast, header-only C++ machine learning library
 - [prabhuomkar/pytorch-cpp](https://github.com/prabhuomkar/pytorch-cpp) - C++ Implementation of PyTorch Tutorials for Everyone
@@ -478,7 +478,7 @@
 
 ## Python 
 
-- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - 
+- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers.
