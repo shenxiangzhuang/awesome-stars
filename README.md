@@ -111,7 +111,6 @@
 - [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
 - [comzyh/TCP-Lab](https://github.com/comzyh/TCP-Lab) - Stanford cs144 lab，an elegant TCP/IP implementation
 - [nraghuraman/CS106L-Fall-2020](https://github.com/nraghuraman/CS106L-Fall-2020) - 
-- [CS144/sponge-old2](https://github.com/CS144/sponge-old2) - CS144 Lab Assignments
 - [dmlc/xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
 - [mlpack/mlpack](https://github.com/mlpack/mlpack) - mlpack: a fast, header-only C++ machine learning library
 - [prabhuomkar/pytorch-cpp](https://github.com/prabhuomkar/pytorch-cpp) - C++ Implementation of PyTorch Tutorials for Everyone
