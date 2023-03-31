@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [Assembly](#assembly)
 - [Astro](#astro)
 - [Batchfile](#batchfile)
 - [C](#c)
@@ -46,10 +45,6 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
-
-## Assembly 
-
-- [JonnyKong/CMU-15-213-Intro-to-Computer-Systems](https://github.com/JonnyKong/CMU-15-213-Intro-to-Computer-Systems) - CS 15-213: Introduction to Computer Systems in 2017 Spring, CMU
 
 ## Astro 
 
@@ -283,7 +278,7 @@
 ## Julia 
 
 - [OutlierDetectionJL/OutlierDetection.jl](https://github.com/OutlierDetectionJL/OutlierDetection.jl) - Fast, scalable and flexible Outlier Detection with Julia
-- [RaphaelS1/SurvivalAnalysis.jl](https://github.com/RaphaelS1/SurvivalAnalysis.jl) - A survival analysis interface for Julia
+- [vollmersj/SurvivalAnalysis.jl](https://github.com/vollmersj/SurvivalAnalysis.jl) - A survival analysis interface for Julia
 - [JuliaCN/JuliaDataScience](https://github.com/JuliaCN/JuliaDataScience) - Julia Data Science 中文版
 - [JuliaStats/TimeModels.jl](https://github.com/JuliaStats/TimeModels.jl) - Modeling time series in Julia
 - [mossr/BeautifulAlgorithms.jl](https://github.com/mossr/BeautifulAlgorithms.jl) - Concise and beautiful algorithms written in Julia
