@@ -180,6 +180,7 @@
 
 ## HTML 
 
+- [microsoft/ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [niltok/magic-in-ten-mins](https://github.com/niltok/magic-in-ten-mins) - 十分钟魔法练习
@@ -469,6 +470,8 @@
 
 ## Python 
 
+- [fraunhoferportugal/tsfel](https://github.com/fraunhoferportugal/tsfel) - An intuitive library to extract features from time series.
+- [microsoft/AI-System](https://github.com/microsoft/AI-System) - System for AI Education Resource.
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B：开源双语对话语言模型  | An Open Bilingual Dialogue Language Model
@@ -832,6 +835,7 @@
 
 ## Rust 
 
+- [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Arroyo is a distributed stream processing engine written in Rust
 - [pythonspeed/filprofiler](https://github.com/pythonspeed/filprofiler) - A Python memory profiler for data processing and scientific computing applications
 - [rikhuijzer/ata](https://github.com/rikhuijzer/ata) - Ask the Terminal Anything (ATA): ChatGPT in the terminal
 - [kornelski/cargo-deb](https://github.com/kornelski/cargo-deb) - A cargo subcommand that generates Debian packages from information in Cargo.toml
@@ -916,6 +920,7 @@
 
 ## TypeScript 
 
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [yetone/openai-translator](https://github.com/yetone/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
