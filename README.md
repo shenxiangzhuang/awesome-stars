@@ -51,6 +51,7 @@
 
 ## C 
 
+- [yhzhang0128/egos-2000](https://github.com/yhzhang0128/egos-2000) - A minimal operating system (2K LOC) on QEMU and a RISC-V board
 - [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
@@ -773,7 +774,7 @@
 - [careermonk/data-structures-and-algorithmic-thinking-with-python](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-python) - Data Structure And Algorithmic Thinking With Python
 - [davecom/ClassicComputerScienceProblemsInPython](https://github.com/davecom/ClassicComputerScienceProblemsInPython) - Source Code for the Book Classic Computer Science Problems in Python
 - [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - Create HTML profiling reports from pandas DataFrame objects
-- [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2021年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+- [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2023年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [DestructHub/ProjectEuler](https://github.com/DestructHub/ProjectEuler) - Polyglot solutions for www.projecteuler.net mathematical challenges
 - [joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch) - code for Data Science From Scratch book
