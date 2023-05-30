@@ -483,6 +483,7 @@
 
 ## Python 
 
+- [rpicard/explore-flask](https://github.com/rpicard/explore-flask) - Source of Explore Flask book
 - [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
 - [SkalskiP/courses](https://github.com/SkalskiP/courses) - This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)
 - [wntrblm/nox](https://github.com/wntrblm/nox) - Flexible test automation for Python
