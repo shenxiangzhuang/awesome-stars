@@ -287,6 +287,7 @@
 
 ## Jupyter Notebook 
 
+- [mononitogoswami/tsad-model-selection](https://github.com/mononitogoswami/tsad-model-selection) - Code for "Unsupervised Model Selection for Time-series Anomaly Detection", ICLR 2023.
 - [patrickloeber/python-fun](https://github.com/patrickloeber/python-fun) - Some fun and useful projects with Python
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -329,7 +330,7 @@
 - [leehanchung/cs182](https://github.com/leehanchung/cs182) - Berkeley CS182/282A Designing, Visualizing and Understanding Deep Neural Networks
 - [FighterLYL/GraphNeuralNetwork](https://github.com/FighterLYL/GraphNeuralNetwork) - 《深入浅出图神经网络：GNN原理解析》配套代码
 - [SethHWeidman/DLFS_code](https://github.com/SethHWeidman/DLFS_code) - Code for the book Deep Learning From Scratch, from O'Reilly September 2019
-- [MAIF/shapash](https://github.com/MAIF/shapash) - 🔅 Shapash makes Machine Learning models transparent and understandable by everyone
+- [MAIF/shapash](https://github.com/MAIF/shapash) - 🔅 Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models
 - [rasbt/stat453-deep-learning-ss20](https://github.com/rasbt/stat453-deep-learning-ss20) - STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)
 - [rasbt/pattern_classification](https://github.com/rasbt/pattern_classification) - A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks
 - [trekhleb/machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments) - 🤖 Interactive Machine Learning experiments: 🏋️models training + 🎨models demo
@@ -483,6 +484,7 @@
 
 ## Python 
 
+- [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning & inference!
 - [rpicard/explore-flask](https://github.com/rpicard/explore-flask) - Source of Explore Flask book
 - [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
 - [SkalskiP/courses](https://github.com/SkalskiP/courses) - This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)
