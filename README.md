@@ -862,6 +862,7 @@
 
 ## Rust 
 
+- [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 interactive call graph generator that supports various programming languages
 - [rust-lang/docs.rs](https://github.com/rust-lang/docs.rs) - crates.io documentation generator
 - [statrs-dev/statrs](https://github.com/statrs-dev/statrs) - Statistical computation library for Rust
 - [rust-ml/linfa](https://github.com/rust-ml/linfa) - A Rust machine learning framework.
