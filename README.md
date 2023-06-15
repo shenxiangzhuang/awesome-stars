@@ -302,6 +302,7 @@
 - [dcai-course/dcai-lab](https://github.com/dcai-course/dcai-lab) - Lab assignments for Introduction to Data-Centric AI, MIT IAP 2023 👩🏽‍💻
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 - [erdogant/distfit](https://github.com/erdogant/distfit) - distfit is a python library for probability density fitting.
+- [kushalkolar/fastplotlib](https://github.com/kushalkolar/fastplotlib) - A fast plotting library
 - [jinit24/ARIMA-Model](https://github.com/jinit24/ARIMA-Model) - ARIMA model from scratch using numpy and pandas.
 - [jakobrunge/tigramite](https://github.com/jakobrunge/tigramite) - Tigramite is a python package for causal inference with a focus on time series data. The Tigramite documentation is at
 - [LeeDoYup/RobustSTL](https://github.com/LeeDoYup/RobustSTL) - Unofficial Implementation of RobustSTL: A Robust Seasonal-Trend Decomposition Algorithm for Long Time Series (AAAI 2019)
@@ -404,6 +405,7 @@
 
 ## Others 
 
+- [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
 - [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
 - [ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network) - Tools to Design or Visualize Architecture of Neural Network
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
@@ -492,6 +494,7 @@
 
 ## Python 
 
+- [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Vector search for humans.
 - [bloomberg/pystack](https://github.com/bloomberg/pystack) - 🔍 🐍 Like pstack but for Python!
 - [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
@@ -557,7 +560,6 @@
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
 - [tamentis/rpdb](https://github.com/tamentis/rpdb) - Wrapper around pdb allowing remote debugging via netcat or telnet. This is especially useful in a Tomcat/Jython environment where little debugging tools are available.
 - [SidiLu001/disk_failure_prediction](https://github.com/SidiLu001/disk_failure_prediction) - 
-- [kushalkolar/fastplotlib](https://github.com/kushalkolar/fastplotlib) - A fast plotting library
 - [jacopotagliabue/post-modern-stack](https://github.com/jacopotagliabue/post-modern-stack) - Joining the modern data stack with the modern ML stack
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface.
 - [pantsbuild/example-python](https://github.com/pantsbuild/example-python) - An example repo to demonstrate Python support in Pants v2
@@ -749,7 +751,7 @@
 - [kevinzakka/recurrent-visual-attention](https://github.com/kevinzakka/recurrent-visual-attention) - A PyTorch Implementation of "Recurrent Models of Visual Attention"
 - [pcyin/pytorch_basic_nmt](https://github.com/pcyin/pytorch_basic_nmt) - A simple yet strong implementation of neural machine translation in pytorch
 - [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
-- [MaxHalford/prince](https://github.com/MaxHalford/prince) - :crown: Multivariate exploratory data analysis in Python: PCA, CA, MCA, MFA, FAMD, GPA
+- [MaxHalford/prince](https://github.com/MaxHalford/prince) - :crown: Multivariate exploratory data analysis in Python — PCA, CA, MCA, MFA, FAMD, GPA
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to
 - [abilian/olapy](https://github.com/abilian/olapy) - OlaPy, an experimental OLAP engine based on Pandas
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
