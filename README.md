@@ -153,6 +153,7 @@
 
 ## Go 
 
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
 - [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
@@ -494,6 +495,8 @@
 
 ## Python 
 
+- [baichuan-inc/baichuan-7B](https://github.com/baichuan-inc/baichuan-7B) - A large-scale 7B pretraining language model developed by BaiChuan-Inc.
+- [amoffat/sh](https://github.com/amoffat/sh) - Python process launching
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Vector search for humans.
 - [bloomberg/pystack](https://github.com/bloomberg/pystack) - 🔍 🐍 Like pstack but for Python!
 - [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
@@ -654,7 +657,7 @@
 - [selimfirat/pysad](https://github.com/selimfirat/pysad) - Streaming Anomaly Detection Framework in Python (Outlier Detection for Streaming Data)
 - [Stream-AD/MemStream](https://github.com/Stream-AD/MemStream) - MemStream: Memory-Based Streaming Anomaly Detection
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
-- [py-why/causal-learn](https://github.com/py-why/causal-learn) - Causal Discovery for Python. Translation and extension of the Tetrad Java code.
+- [py-why/causal-learn](https://github.com/py-why/causal-learn) - Causal Discovery in Python. Translation and extension of the Tetrad Java code.
 - [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) - OpenTelemetry Python API and SDK
 - [keiichishima/pcalg](https://github.com/keiichishima/pcalg) - CPDAG Estimation using PC-Algorithm
 - [FenTechSolutions/CausalDiscoveryToolbox](https://github.com/FenTechSolutions/CausalDiscoveryToolbox) - Package for causal inference in graphs and in the pairwise settings. Tools for graph structure recovery and dependencies are included.
@@ -871,6 +874,7 @@
 
 ## Rust 
 
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - 🚀SQL stream processing with Postgres-like experience. 🪄More than a modern alternative to Apache Flink.
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 interactive call graph generator that supports various programming languages
 - [rust-lang/docs.rs](https://github.com/rust-lang/docs.rs) - crates.io documentation generator
 - [statrs-dev/statrs](https://github.com/statrs-dev/statrs) - Statistical computation library for Rust
