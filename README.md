@@ -153,6 +153,7 @@
 
 ## Go 
 
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
 - [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
@@ -495,6 +496,7 @@
 
 ## Python 
 
+- [salesforce/PyRCA](https://github.com/salesforce/PyRCA) - PyRCA: A Python library for Root Cause Analysis
 - [baichuan-inc/baichuan-7B](https://github.com/baichuan-inc/baichuan-7B) - A large-scale 7B pretraining language model developed by BaiChuan-Inc.
 - [amoffat/sh](https://github.com/amoffat/sh) - Python process launching
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Vector search for humans.
