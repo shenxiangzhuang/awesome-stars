@@ -407,6 +407,7 @@
 
 ## Others 
 
+- [hongleizhang/RSPapers](https://github.com/hongleizhang/RSPapers) - A Curated List of Must-read Papers on Recommender System.
 - [IntelligentDDS/awesome-papers](https://github.com/IntelligentDDS/awesome-papers) - Awesome-papers is a collection of awesome papers about cloud computing including resource management, serverless, microservice,  observerbility and so on.
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
 - [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
@@ -497,6 +498,8 @@
 
 ## Python 
 
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease.
+- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [salesforce/PyRCA](https://github.com/salesforce/PyRCA) - PyRCA: A Python library for Root Cause Analysis
 - [baichuan-inc/baichuan-7B](https://github.com/baichuan-inc/baichuan-7B) - A large-scale 7B pretraining language model developed by BaiChuan-Inc.
 - [amoffat/sh](https://github.com/amoffat/sh) - Python process launching
