@@ -27,6 +27,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Less](#less)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nix](#nix)
@@ -298,7 +299,6 @@
 - [boniolp/MSAD](https://github.com/boniolp/MSAD) - Model Selection for Anomaly Detection in Time Series
 - [mononitogoswami/tsad-model-selection](https://github.com/mononitogoswami/tsad-model-selection) - Code for "Unsupervised Model Selection for Time-series Anomaly Detection", ICLR 2023.
 - [patrickloeber/python-fun](https://github.com/patrickloeber/python-fun) - Some fun and useful projects with Python
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [timeseriesAI/tsai](https://github.com/timeseriesAI/tsai) - Time series Timeseries Deep Learning Machine Learning Pytorch  fastai | State-of-the-art Deep Learning library  for Time Series and Sequences in Pytorch / fastai
 - [dcai-course/dcai-lab](https://github.com/dcai-course/dcai-lab) - Lab assignments for Introduction to Data-Centric AI, MIT IAP 2023 👩🏽‍💻
@@ -389,6 +389,10 @@
 ## Lua 
 
 - [ssnhd/rime](https://github.com/ssnhd/rime) - Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼）
+
+## MDX 
+
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 
 ## Makefile 
 
@@ -499,6 +503,8 @@
 
 ## Python 
 
+- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
+- [fairlearn/fairlearn](https://github.com/fairlearn/fairlearn) - A Python package to assess and improve fairness of machine learning models.
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease.
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [salesforce/PyRCA](https://github.com/salesforce/PyRCA) - PyRCA: A Python Machine Learning Library for Root Cause Analysis
@@ -881,7 +887,7 @@
 
 ## Rust 
 
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - 🚀SQL stream processing with Postgres-like experience. 🪄More than a modern alternative to Apache Flink.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - 🚀 SQL stream processing with Postgres-like experience. 🪄 10X faster and more cost-efficient than Apache Flink.
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 interactive call graph generator that supports various programming languages
 - [rust-lang/docs.rs](https://github.com/rust-lang/docs.rs) - crates.io documentation generator
 - [statrs-dev/statrs](https://github.com/statrs-dev/statrs) - Statistical computation library for Rust
