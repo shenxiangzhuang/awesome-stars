@@ -506,7 +506,7 @@
 - [randy3k/radian](https://github.com/randy3k/radian) - A 21 century R console
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
 - [fairlearn/fairlearn](https://github.com/fairlearn/fairlearn) - A Python package to assess and improve fairness of machine learning models.
-- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease.
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [salesforce/PyRCA](https://github.com/salesforce/PyRCA) - PyRCA: A Python Machine Learning Library for Root Cause Analysis
 - [baichuan-inc/baichuan-7B](https://github.com/baichuan-inc/baichuan-7B) - A large-scale 7B pretraining language model developed by BaiChuan-Inc.
@@ -547,7 +547,7 @@
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
 - [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Model for All.
-- [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为ChatGPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容复旦MOSS, llama, rwkv, 盘古, newbing, claude等
+- [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为ChatGPT/GLM提供图形交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容复旦MOSS, llama, rwkv, 盘古, newbing, claude等
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
