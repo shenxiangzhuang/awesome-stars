@@ -33,6 +33,7 @@
 - [Nix](#nix)
 - [Others](#others)
 - [PHP](#php)
+- [PostScript](#postscript)
 - [Python](#python)
 - [R](#r)
 - [RMarkdown](#rmarkdown)
@@ -501,6 +502,10 @@
 
 - [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
 
+## PostScript 
+
+- [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
+
 ## Python 
 
 - [randy3k/radian](https://github.com/randy3k/radian) - A 21 century R console
@@ -888,6 +893,7 @@
 
 ## Rust 
 
+- [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The distributed streaming database: SQL stream processing with Postgres-like experience 🪄. 10X faster and more cost-efficient than Apache Flink 🚀.
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 interactive call graph generator that supports various programming languages
 - [rust-lang/docs.rs](https://github.com/rust-lang/docs.rs) - crates.io documentation generator
@@ -990,6 +996,8 @@
 
 ## TypeScript 
 
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
+- [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) - Open Source Education Platform
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
 - [malloydata/malloy](https://github.com/malloydata/malloy) - Malloy is an experimental language for describing data relationships and transformations.
