@@ -229,6 +229,7 @@
 
 ## Java 
 
+- [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 - [bethrobson/Head-First-Design-Patterns](https://github.com/bethrobson/Head-First-Design-Patterns) - Code for Head First Design Patterns book (2020)
 - [HPI-Information-Systems/DADS](https://github.com/HPI-Information-Systems/DADS) - Distributed detection of sequential anomalies in univariate time series
@@ -256,6 +257,7 @@
 
 ## JavaScript 
 
+- [MarkerHub/eblog](https://github.com/MarkerHub/eblog) - eblog是一个基于Springboot2.1.2开发的博客学习项目，为了让项目融合更多的知识点，达到学习目的，编写了详细的从0到1开发文档。主要学习包括：自定义Freemarker标签，redis的zset结构完成本周热议排行榜，t-io+websocket完成即时消息通知和群聊，rabbitmq+elasticsearch完成博客内容搜索引擎等。值得学习的地方很多！
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [huhu/k8s-search-extension](https://github.com/huhu/k8s-search-extension) - The ultimate search extension for Kubernetes
 - [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
@@ -298,6 +300,7 @@
 
 ## Jupyter Notebook 
 
+- [ritchie46/vanilla-machine-learning](https://github.com/ritchie46/vanilla-machine-learning) - vanilla machine learning
 - [boniolp/MSAD](https://github.com/boniolp/MSAD) - Model Selection for Anomaly Detection in Time Series
 - [mononitogoswami/tsad-model-selection](https://github.com/mononitogoswami/tsad-model-selection) - Code for "Unsupervised Model Selection for Time-series Anomaly Detection", ICLR 2023.
 - [patrickloeber/python-fun](https://github.com/patrickloeber/python-fun) - Some fun and useful projects with Python
@@ -508,6 +511,7 @@
 
 ## Python 
 
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
 - [randy3k/radian](https://github.com/randy3k/radian) - A 21 century R console
 - [fairlearn/fairlearn](https://github.com/fairlearn/fairlearn) - A Python package to assess and improve fairness of machine learning models.
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
@@ -554,7 +558,7 @@
 - [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为ChatGPT/GLM提供图形交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容复旦MOSS, llama, rwkv, 盘古, newbing, claude等
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
-- [pynecone-io/reflex](https://github.com/pynecone-io/reflex) - 🕸 Web apps in pure Python 🐍
+- [pynecone-io/reflex](https://github.com/pynecone-io/reflex) - (Previously Pynecone) 🕸 Web apps in pure Python 🐍
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复
 - [stanford-crfm/helm](https://github.com/stanford-crfm/helm) - Holistic Evaluation of Language Models (HELM), a framework to increase the transparency of language models (https://arxiv.org/abs/2211.09110).
 - [skrub-data/skrub](https://github.com/skrub-data/skrub) - Prepping tables for machine learning
@@ -996,6 +1000,7 @@
 
 ## TypeScript 
 
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
 - [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) - Open Source Education Platform
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
