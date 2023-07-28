@@ -514,6 +514,9 @@
 
 ## Python 
 
+- [iancovert/sage](https://github.com/iancovert/sage) - For calculating global feature importance using Shapley values.
+- [doableware/djongo](https://github.com/doableware/djongo) - Django and MongoDB database connector
+- [Fengrui-Liu/StreamAD](https://github.com/Fengrui-Liu/StreamAD) - Online anomaly detection for data streams/ Real-time anomaly detection for time series data.
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [Toloka/crowd-kit](https://github.com/Toloka/crowd-kit) - Control the quality of your labeled data with the Python tools you already know.
