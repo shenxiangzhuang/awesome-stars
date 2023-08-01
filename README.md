@@ -989,6 +989,7 @@
 
 ## TeX 
 
+- [royal-statistical-society/datavisguide](https://github.com/royal-statistical-society/datavisguide) - Introductory guide to the art and science of data visualisation. Insights, advice, and examples (with code) to make data outputs more readable, accessible, and impactful.
 - [mintyfrankie/awesomeCV-Typst](https://github.com/mintyfrankie/awesomeCV-Typst) - 💼 another awesome-CV template for your job application, yet powered by Typst
 - [alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
 - [OsbertWang/install-latex-guide-zh-cn](https://github.com/OsbertWang/install-latex-guide-zh-cn) - 一份简短的关于 LaTeX 安装的介绍
