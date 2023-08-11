@@ -519,6 +519,7 @@
 
 ## Python 
 
+- [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [agronholm/sqlacodegen](https://github.com/agronholm/sqlacodegen) - Automatic model code generator for SQLAlchemy
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain
@@ -532,7 +533,7 @@
 - [MichaelisTrofficus/gpt4docstrings](https://github.com/MichaelisTrofficus/gpt4docstrings) - Generating Python docstrings with OpenAI ChatGPT!!
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
 - [randy3k/radian](https://github.com/randy3k/radian) - A 21 century R console
-- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
+- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
 - [fairlearn/fairlearn](https://github.com/fairlearn/fairlearn) - A Python package to assess and improve fairness of machine learning models.
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
@@ -839,7 +840,7 @@
 - [dkaslovsky/Coupled-Biased-Random-Walks](https://github.com/dkaslovsky/Coupled-Biased-Random-Walks) - Outlier detection for categorical data
 - [zero323/pyspark-stubs](https://github.com/zero323/pyspark-stubs) - Apache (Py)Spark type annotations  (stub files).
 - [tommyod/Efficient-Apriori](https://github.com/tommyod/Efficient-Apriori) - An efficient Python implementation of the Apriori algorithm.
-- [MolSSI-Education/python-package-best-practices](https://github.com/MolSSI-Education/python-package-best-practices) - http://education.molssi.org/python-package-best-practices/
+- [MolSSI-Education/python-package-best-practices](https://github.com/MolSSI-Education/python-package-best-practices) - Hands-on workshop showing good software development practices to create a Python package.
 - [bfortuner/ml-glossary](https://github.com/bfortuner/ml-glossary) - Machine learning glossary
 - [georgekatona/Clique](https://github.com/georgekatona/Clique) - Python implementation of the CLIQUE subspace clustering algorithm.
 - [databricks/koalas](https://github.com/databricks/koalas) - Koalas: pandas API on Apache Spark
@@ -999,7 +1000,7 @@
 
 - [royal-statistical-society/datavisguide](https://github.com/royal-statistical-society/datavisguide) - Introductory guide to the art and science of data visualisation. Insights, advice, and examples (with code) to make data outputs more readable, accessible, and impactful.
 - [mintyfrankie/awesomeCV-Typst](https://github.com/mintyfrankie/awesomeCV-Typst) - 💼 another awesome-CV template for your job application, yet powered by Typst
-- [alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
+- [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
 - [OsbertWang/install-latex-guide-zh-cn](https://github.com/OsbertWang/install-latex-guide-zh-cn) - 一份简短的关于 LaTeX 安装的介绍
 - [CTeX-org/ctex-kit](https://github.com/CTeX-org/ctex-kit) - Macro Packages and Scripts for Chinese TeX users
 - [matze/mtheme](https://github.com/matze/mtheme) - A modern LaTeX Beamer theme
