@@ -845,7 +845,7 @@
 - [bfortuner/ml-glossary](https://github.com/bfortuner/ml-glossary) - Machine learning glossary
 - [georgekatona/Clique](https://github.com/georgekatona/Clique) - Python implementation of the CLIQUE subspace clustering algorithm.
 - [databricks/koalas](https://github.com/databricks/koalas) - Koalas: pandas API on Apache Spark
-- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [w-hat/ctci-solutions](https://github.com/w-hat/ctci-solutions) - Python solutions to Cracking the Coding Interview (6th edition)
 - [DataBrewery/cubes](https://github.com/DataBrewery/cubes) - [NOT MAINTAINED] Light-weight Python OLAP framework for multi-dimensional data analysis
 - [spry-group/python-vultr](https://github.com/spry-group/python-vultr) - Vultr Python Client library
