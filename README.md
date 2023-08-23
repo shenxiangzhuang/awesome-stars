@@ -520,11 +520,12 @@
 
 ## Python 
 
+- [asiffer/mkdocs-onecompiler-plugin](https://github.com/asiffer/mkdocs-onecompiler-plugin) - Include OneCompiler online compiler to your mkdocs website
+- [pykt-team/pykt-toolkit](https://github.com/pykt-team/pykt-toolkit) - pyKT: A Python Library to Benchmark Deep Learning based Knowledge Tracing Models
 - [jaymody/simpleGPT](https://github.com/jaymody/simpleGPT) - Simple implementation of a GPT (training and inference) in PyTorch.
 - [sybrenjansen/mpire](https://github.com/sybrenjansen/mpire) - A Python package for easy multiprocessing, but faster than multiprocessing
 - [morph-labs/rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
 - [plbrault/youre-the-os](https://github.com/plbrault/youre-the-os) - A game where you are a computer's OS and you have to manage processes, memory and I/O events.
-- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Python LLM apps in minutes ⚡️
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes.
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
@@ -1036,6 +1037,7 @@
 ## TypeScript 
 
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
+- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Python LLM apps in minutes ⚡️
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
