@@ -522,6 +522,9 @@
 
 ## Python 
 
+- [blackary/st_pages](https://github.com/blackary/st_pages) - An experimental version of Streamlit Multi-Page Apps
+- [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use
+- [Docta-ai/docta](https://github.com/Docta-ai/docta) - A Doctor for your data
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [asiffer/mkdocs-onecompiler-plugin](https://github.com/asiffer/mkdocs-onecompiler-plugin) - Include OneCompiler online compiler to your mkdocs website
@@ -534,7 +537,7 @@
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [agronholm/sqlacodegen](https://github.com/agronholm/sqlacodegen) - Automatic model code generator for SQLAlchemy
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain. Khoj provides you with an easy way to setup the infrastructure to search and chat with your personal knowledge base, be it markdown, org, image, or PDF
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline
 - [iancovert/sage](https://github.com/iancovert/sage) - For calculating global feature importance using Shapley values.
 - [doableware/djongo](https://github.com/doableware/djongo) - Django and MongoDB database connector
 - [Fengrui-Liu/StreamAD](https://github.com/Fengrui-Liu/StreamAD) - Online anomaly detection for data streams/ Real-time anomaly detection for time series data.
@@ -686,7 +689,7 @@
 - [pytorch/captum](https://github.com/pytorch/captum) - Model interpretability and understanding for PyTorch
 - [zedr/clean-code-python](https://github.com/zedr/clean-code-python) - :bathtub: Clean Code concepts adapted for Python
 - [dpressel/mint](https://github.com/dpressel/mint) - MinT: Minimal Transformer Library and Tutorials
-- [iterative/mlem](https://github.com/iterative/mlem) - 🐶 A tool to package, serve, and deploy any ML model on any platform.
+- [iterative/mlem](https://github.com/iterative/mlem) - 🐶 A tool to package, serve, and deploy any ML model on any platform. Archived to be resurrected one day🤞
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, a
 - [IBM/import-tracker](https://github.com/IBM/import-tracker) - Python utility for tracking third party dependencies within a library
 - [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
