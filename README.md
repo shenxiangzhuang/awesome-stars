@@ -306,6 +306,7 @@
 
 ## Jupyter Notebook 
 
+- [veekaybee/what_are_embeddings](https://github.com/veekaybee/what_are_embeddings) - A deep dive into embeddings starting from fundamentals
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - 
 - [ritchie46/vanilla-machine-learning](https://github.com/ritchie46/vanilla-machine-learning) - vanilla machine learning
 - [boniolp/MSAD](https://github.com/boniolp/MSAD) - Model Selection for Anomaly Detection in Time Series
@@ -624,7 +625,6 @@
 - [fastplotlib/fastplotlib](https://github.com/fastplotlib/fastplotlib) - A fast plotting library
 - [jacopotagliabue/post-modern-stack](https://github.com/jacopotagliabue/post-modern-stack) - Joining the modern data stack with the modern ML stack
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
-- [pantsbuild/example-python](https://github.com/pantsbuild/example-python) - An example repo to demonstrate Python support in Pants
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [salesforce/CoST](https://github.com/salesforce/CoST) - PyTorch code for CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting (ICLR 2022)
 - [brainix/pottery](https://github.com/brainix/pottery) - Redis for humans. 🌎🌍🌏
@@ -999,6 +999,7 @@
 - [thuml/Time-Series-Library](https://github.com/thuml/Time-Series-Library) - A Library for Advanced Deep Time Series Models.
 - [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 一键更换系统软件源脚本
 - [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
+- [pantsbuild/example-python](https://github.com/pantsbuild/example-python) - An example repo to demonstrate Python support in Pants
 - [mhausenblas/mkdocs-deploy-gh-pages](https://github.com/mhausenblas/mkdocs-deploy-gh-pages) - GitHub Action to deploy an MkDocs site to GitHub Pages
 - [xu-cheng/latex-action](https://github.com/xu-cheng/latex-action) - :octocat: GitHub Action to compile LaTeX documents
 - [billw2/rpi-clone](https://github.com/billw2/rpi-clone) - A shell script to clone a booted disk.
