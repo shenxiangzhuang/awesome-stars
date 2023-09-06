@@ -185,7 +185,7 @@
 - [open-falcon/falcon-plus](https://github.com/open-falcon/falcon-plus) - An open-source and enterprise-level monitoring system.
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [sturdy-dev/sturdy](https://github.com/sturdy-dev/sturdy) - 🐥 Sturdy is an open-source, real-time, version control platform for startups (https://getsturdy.com)
-- [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale is an All-in-One observability solution which try to combine the advantages of both Prometheus and Grafana. It manage alert rules and visualize metrics, logs, traces in a beautiful web UI.
+- [ccfos/nightingale](https://github.com/ccfos/nightingale) - An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.
 - [ariga/atlas](https://github.com/ariga/atlas) - A modern tool for managing database schemas
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 - [bilibili/gengine](https://github.com/bilibili/gengine) - 
@@ -710,7 +710,7 @@
 - [sourceperl/pyModbusTCP](https://github.com/sourceperl/pyModbusTCP) - A simple Modbus/TCP library for Python
 - [jingxil/Neural-Decision-Forests](https://github.com/jingxil/Neural-Decision-Forests) - An implementation of the Deep Neural Decision Forests in PyTorch
 - [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)
-- [AlexImmer/Laplace](https://github.com/AlexImmer/Laplace) - Laplace approximations for Deep Learning.
+- [aleximmer/Laplace](https://github.com/aleximmer/Laplace) - Laplace approximations for Deep Learning.
 - [laike9m/Cyberbrain](https://github.com/laike9m/Cyberbrain) - Python debugging, redefined.
 - [hill-a/stable-baselines](https://github.com/hill-a/stable-baselines) - A fork of OpenAI Baselines, implementations of reinforcement learning algorithms
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
