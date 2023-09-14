@@ -16,6 +16,7 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [EJS](#ejs)
+- [Elixir](#elixir)
 - [Erlang](#erlang)
 - [Go](#go)
 - [HCL](#hcl)
@@ -48,6 +49,7 @@
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [Typst](#typst)
 - [Vim Script](#vim-script)
 
 ## Batchfile 
@@ -85,7 +87,7 @@
 
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
 - [microsoft/LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
 - [NREL/EnergyPlus](https://github.com/NREL/EnergyPlus) - EnergyPlus™ is a whole building energy simulation program that engineers, architects, and researchers use to model both energy consumption and water use in buildings.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
@@ -152,6 +154,10 @@
 ## EJS 
 
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
+
+## Elixir 
+
+- [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
 
 ## Erlang 
 
@@ -1031,7 +1037,6 @@
 ## TeX 
 
 - [royal-statistical-society/datavisguide](https://github.com/royal-statistical-society/datavisguide) - Introductory guide to the art and science of data visualisation. Insights, advice, and examples (with code) to make data outputs more readable, accessible, and impactful.
-- [mintyfrankie/brilliant-CV](https://github.com/mintyfrankie/brilliant-CV) - 💼 another CV template for your job application, yet powered by Typst and more
 - [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
 - [OsbertWang/install-latex-guide-zh-cn](https://github.com/OsbertWang/install-latex-guide-zh-cn) - 一份简短的关于 LaTeX 安装的介绍
 - [CTeX-org/ctex-kit](https://github.com/CTeX-org/ctex-kit) - Macro Packages and Scripts for Chinese TeX users
@@ -1096,6 +1101,10 @@
 - [any86/any-rule](https://github.com/any86/any-rule) - 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
+
+## Typst 
+
+- [mintyfrankie/brilliant-CV](https://github.com/mintyfrankie/brilliant-CV) - 💼 another CV template for your job application, yet powered by Typst and more
 
 ## Vim Script 
 
