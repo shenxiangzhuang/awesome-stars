@@ -359,7 +359,7 @@
 - [deep-learning-with-pytorch/dlwpt-code](https://github.com/deep-learning-with-pytorch/dlwpt-code) - Code for the book Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann.
 - [dsgiitr/d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch) - This project reproduces the book Dive Into Deep Learning (https://d2l.ai/), adapting the code from MXNet into PyTorch.
 - [joerg84/Graph_Powered_ML_Workshop](https://github.com/joerg84/Graph_Powered_ML_Workshop) - Material and Notebooks for the Graph Powered ML Workshop.
-- [logpai/loglizer](https://github.com/logpai/loglizer) - A machine learning toolkit for log-based anomaly detection
+- [logpai/loglizer](https://github.com/logpai/loglizer) - A machine learning toolkit for log-based anomaly detection [ISSRE'16]
 - [leehanchung/cs182](https://github.com/leehanchung/cs182) - Berkeley CS182/282A Designing, Visualizing and Understanding Deep Neural Networks
 - [FighterLYL/GraphNeuralNetwork](https://github.com/FighterLYL/GraphNeuralNetwork) - 《深入浅出图神经网络：GNN原理解析》配套代码
 - [SethHWeidman/DLFS_code](https://github.com/SethHWeidman/DLFS_code) - Code for the book Deep Learning From Scratch, from O'Reilly September 2019
