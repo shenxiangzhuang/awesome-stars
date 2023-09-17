@@ -59,7 +59,7 @@
 ## C 
 
 - [MagicStack/immutables](https://github.com/MagicStack/immutables) - A high-performance immutable mapping type for Python.
-- [yhzhang0128/egos-2000](https://github.com/yhzhang0128/egos-2000) - A minimal operating system (2K LOC) on QEMU and a RISC-V board
+- [yhzhang0128/egos-2000](https://github.com/yhzhang0128/egos-2000) - A teaching operating system (2K LOC) on QEMU and RISC-V boards
 - [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
