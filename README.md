@@ -536,7 +536,7 @@
 
 - [fkodom/transformer-from-scratch](https://github.com/fkodom/transformer-from-scratch) - Code implementation from my blog post: https://fkodom.substack.com/p/transformers-from-scratch-in-pytorch
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal. Powered by OpenAI's GPT LLMs 💫
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README files from the terminal. Powered by OpenAI's GPT LLMs 💫
 - [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Bayesian Modeling in Python
 - [shenxiangzhuang/python-package-template](https://github.com/shenxiangzhuang/python-package-template) - Python package template
 - [sparckles/robyn](https://github.com/sparckles/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
