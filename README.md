@@ -439,6 +439,7 @@
 
 ## Others 
 
+- [wangyongjie-ntu/Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) - A  collection of research materials on explainable AI/ML
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [srush/minitorch-rust](https://github.com/srush/minitorch-rust) - 
 - [martinbjeldbak/ultimate-beamer-theme-list](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) - A collection of Beamer themes from the community
@@ -537,6 +538,7 @@
 
 ## Python 
 
+- [laixintao/flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer.
 - [roman-right/beanie](https://github.com/roman-right/beanie) - Asynchronous Python ODM for MongoDB
 - [airtai/faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services that interact with event streams such as Apache Kafka and RabbitMQ.
 - [mkdocstrings/griffe](https://github.com/mkdocstrings/griffe) - Signatures for entire Python programs. Extract the structure, the frame, the skeleton of your project, to generate API documentation or find breaking changes in your API.
@@ -1070,6 +1072,7 @@
 
 ## TypeScript 
 
+- [samuelcolvin/mkdocs-run-code](https://github.com/samuelcolvin/mkdocs-run-code) - 
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [elilambnz/react-py](https://github.com/elilambnz/react-py) - Effortlessly run Python code in your React apps.
