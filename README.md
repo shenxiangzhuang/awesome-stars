@@ -51,6 +51,7 @@
 - [TypeScript](#typescript)
 - [Typst](#typst)
 - [Vim Script](#vim-script)
+- [Vue](#vue)
 
 ## Batchfile 
 
@@ -538,6 +539,9 @@
 
 ## Python 
 
+- [mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - :blue_book: Automatic documentation from sources, for MkDocs.
+- [DMOJ/online-judge](https://github.com/DMOJ/online-judge) - A modern open-source online judge and contest platform system.
+- [QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge) - open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com
 - [laixintao/flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer.
 - [roman-right/beanie](https://github.com/roman-right/beanie) - Asynchronous Python ODM for MongoDB
 - [airtai/faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services that interact with event streams such as Apache Kafka and RabbitMQ.
@@ -1072,6 +1076,8 @@
 
 ## TypeScript 
 
+- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 - [samuelcolvin/mkdocs-run-code](https://github.com/samuelcolvin/mkdocs-run-code) - 
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
@@ -1122,6 +1128,10 @@
 
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [wklken/k-vim](https://github.com/wklken/k-vim) - vim配置
+
+## Vue 
+
+- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis Desktop Manager
 
 
 ## License
