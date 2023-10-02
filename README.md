@@ -332,7 +332,6 @@
 - [dcai-course/dcai-lab](https://github.com/dcai-course/dcai-lab) - Lab assignments for Introduction to Data-Centric AI, MIT IAP 2023 👩🏽‍💻
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 - [erdogant/distfit](https://github.com/erdogant/distfit) - distfit is a python library for probability density fitting.
-- [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
 - [jinit24/ARIMA-Model](https://github.com/jinit24/ARIMA-Model) - ARIMA model from scratch using numpy and pandas.
 - [jakobrunge/tigramite](https://github.com/jakobrunge/tigramite) - Tigramite is a python package for causal inference with a focus on time series data. The Tigramite documentation is at
 - [LeeDoYup/RobustSTL](https://github.com/LeeDoYup/RobustSTL) - Unofficial Implementation of RobustSTL: A Robust Seasonal-Trend Decomposition Algorithm for Long Time Series (AAAI 2019)
@@ -459,6 +458,7 @@
 - [apifox/apifox](https://github.com/apifox/apifox) - Apifox = Postman + Swagger + Mock + JMeter。Apifox 官网：https://www.apifox.cn/
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [DaoSword/Time-Series-Forecasting-and-Deep-Learning](https://github.com/DaoSword/Time-Series-Forecasting-and-Deep-Learning) - Resources about time series forecasting and deep learning.
+- [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
 - [cuge1995/awesome-time-series](https://github.com/cuge1995/awesome-time-series) - list of papers, code, and other resources
 - [kathoffman/causal-inference-visual-guides](https://github.com/kathoffman/causal-inference-visual-guides) - A collection of visual guides to help applied scientists learn causal inference.
