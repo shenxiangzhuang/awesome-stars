@@ -602,13 +602,13 @@
 - [SkalskiP/courses](https://github.com/SkalskiP/courses) - This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)
 - [wntrblm/nox](https://github.com/wntrblm/nox) - Flexible test automation for Python
 - [sktime/sktime](https://github.com/sktime/sktime) - A unified framework for machine learning with time series
-- [aeon-toolkit/aeon](https://github.com/aeon-toolkit/aeon) - A unified framework for machine learning with time series
+- [aeon-toolkit/aeon](https://github.com/aeon-toolkit/aeon) - A cohesive library for conducting machine learning tasks with time series data
 - [boniolp/Theseus](https://github.com/boniolp/Theseus) - Navigating the Labyrinth of Time Series Anomaly Detection
 - [bbangert/beaker](https://github.com/bbangert/beaker) - WSGI middleware for sessions and caching
 - [THUDM/GLM-130B](https://github.com/THUDM/GLM-130B) - GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023)
 - [miguelgrinberg/Flask-SocketIO](https://github.com/miguelgrinberg/Flask-SocketIO) - Socket.IO integration for Flask applications.
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
-- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications
 - [google/generative-ai-python](https://github.com/google/generative-ai-python) - Python client library for Google's large language model PaLM API
 - [tslearn-team/tslearn](https://github.com/tslearn-team/tslearn) - A machine learning toolkit dedicated to time-series data
 - [fedejaure/cookiecutter-modern-pypackage](https://github.com/fedejaure/cookiecutter-modern-pypackage) - Cookiecutter template for a modern Python package.
