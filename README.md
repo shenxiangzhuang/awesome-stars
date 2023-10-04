@@ -554,7 +554,7 @@
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal. Powered by OpenAI's GPT LLMs 💫
 - [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Bayesian Modeling in Python
 - [shenxiangzhuang/python-package-template](https://github.com/shenxiangzhuang/python-package-template) - Python package template
-- [sparckles/robyn](https://github.com/sparckles/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
+- [sparckles/Robyn](https://github.com/sparckles/Robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [blackary/st_pages](https://github.com/blackary/st_pages) - An experimental version of Streamlit Multi-Page Apps
 - [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use
 - [Docta-ai/docta](https://github.com/Docta-ai/docta) - A Doctor for your data
@@ -602,7 +602,7 @@
 - [SkalskiP/courses](https://github.com/SkalskiP/courses) - This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)
 - [wntrblm/nox](https://github.com/wntrblm/nox) - Flexible test automation for Python
 - [sktime/sktime](https://github.com/sktime/sktime) - A unified framework for machine learning with time series
-- [aeon-toolkit/aeon](https://github.com/aeon-toolkit/aeon) - A cohesive library for conducting machine learning tasks with time series data
+- [aeon-toolkit/aeon](https://github.com/aeon-toolkit/aeon) - A toolkit for conducting machine learning tasks with time series data
 - [boniolp/Theseus](https://github.com/boniolp/Theseus) - Navigating the Labyrinth of Time Series Anomaly Detection
 - [bbangert/beaker](https://github.com/bbangert/beaker) - WSGI middleware for sessions and caching
 - [THUDM/GLM-130B](https://github.com/THUDM/GLM-130B) - GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023)
@@ -670,7 +670,7 @@
 - [uber/causalml](https://github.com/uber/causalml) - Uplift modeling and causal inference with machine learning algorithms
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
 - [georgebv/pyextremes](https://github.com/georgebv/pyextremes) - Extreme Value Analysis (EVA) in Python
-- [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
+- [bloomberg/memray](https://github.com/bloomberg/memray) - The endgame Python memory profiler
 - [Azure/mlops-templates](https://github.com/Azure/mlops-templates) - Azure MLOps (v2) solution accelerators. Enterprise ready templates to deploy your machine learning models on the Azure Platform.
 - [google/latexify_py](https://github.com/google/latexify_py) - A library to generate LaTeX expression from Python code.
 - [seatgeek/thefuzz](https://github.com/seatgeek/thefuzz) - Fuzzy String Matching in Python
@@ -711,7 +711,7 @@
 - [briggySmalls/cookiecutter-pypackage](https://github.com/briggySmalls/cookiecutter-pypackage) - Cookiecutter template for a poetry-managed Python package.
 - [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage) - Cookiecutter template for a Python package.
 - [hirschmann/pid-autotune](https://github.com/hirschmann/pid-autotune) - PID-controller/brewing kettle simulation
-- [aisk/memcache](https://github.com/aisk/memcache) - Experimental memcached client library for python.
+- [aisk/python-memcache](https://github.com/aisk/python-memcache) - Experimental memcached client library for python.
 - [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
 - [intel/scikit-learn-intelex](https://github.com/intel/scikit-learn-intelex) - Intel(R) Extension for Scikit-learn is a seamless way to speed up your Scikit-learn application
 - [automl/DeepCAVE](https://github.com/automl/DeepCAVE) - An interactive framework to visualize and analyze your AutoML process in real-time.
