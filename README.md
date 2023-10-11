@@ -167,6 +167,7 @@
 
 ## Go 
 
+- [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
@@ -540,6 +541,7 @@
 
 ## Python 
 
+- [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.
 - [pep8speaks-org/pep8speaks](https://github.com/pep8speaks-org/pep8speaks) - A GitHub :octocat: app to automatically review Python code style over Pull Requests
 - [feast-dev/feast](https://github.com/feast-dev/feast) - Feature Store for Machine Learning
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
@@ -1079,6 +1081,7 @@
 
 ## TypeScript 
 
+- [kitloong/nextjs-dashboard](https://github.com/kitloong/nextjs-dashboard) - A Next.JS boilerplate with the famous Open Source Boostrap Admin Template, CoreUI.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 - [samuelcolvin/mkdocs-run-code](https://github.com/samuelcolvin/mkdocs-run-code) - 
