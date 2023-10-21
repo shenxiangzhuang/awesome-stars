@@ -439,6 +439,7 @@
 
 ## Others 
 
+- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [neohaskell/NeoHaskell](https://github.com/neohaskell/NeoHaskell) - ⏩ NeoHaskell is a dialect of Haskell that is focused on newcomer-friendliness and productivity.
 - [wangyongjie-ntu/Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) - A  collection of research materials on explainable AI/ML
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
@@ -541,6 +542,7 @@
 
 ## Python 
 
+- [Neoteroi/mkdocs-plugins](https://github.com/Neoteroi/mkdocs-plugins) - Plugins for MkDocs.
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.
 - [pep8speaks-org/pep8speaks](https://github.com/pep8speaks-org/pep8speaks) - A GitHub :octocat: app to automatically review Python code style over Pull Requests
 - [feast-dev/feast](https://github.com/feast-dev/feast) - Feature Store for Machine Learning
@@ -554,7 +556,7 @@
 - [mkdocstrings/griffe](https://github.com/mkdocstrings/griffe) - Signatures for entire Python programs. Extract the structure, the frame, the skeleton of your project, to generate API documentation or find breaking changes in your API.
 - [fkodom/transformer-from-scratch](https://github.com/fkodom/transformer-from-scratch) - Code implementation from my blog post: https://fkodom.substack.com/p/transformers-from-scratch-in-pytorch
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README files from the terminal. Powered by OpenAI's GPT language model APIs 💫
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🧚‍♀️ Automated README file generator
 - [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Bayesian Modeling in Python
 - [shenxiangzhuang/python-package-template](https://github.com/shenxiangzhuang/python-package-template) - Python package template
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
@@ -967,6 +969,7 @@
 
 ## Rust 
 
+- [willcrichton/flowistry](https://github.com/willcrichton/flowistry) - Flowistry is an IDE plugin for Rust that helps you focus on relevant code.
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
