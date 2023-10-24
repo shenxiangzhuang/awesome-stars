@@ -778,7 +778,7 @@
 - [locuslab/TCN](https://github.com/locuslab/TCN) - Sequence modeling benchmarks and temporal convolutional networks
 - [tartley/colorama](https://github.com/tartley/colorama) - Simple cross-platform colored terminal text in Python
 - [SheffieldML/GPy](https://github.com/SheffieldML/GPy) - Gaussian processes framework in python
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to datasources.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to real time data
 - [openstack/debtcollector](https://github.com/openstack/debtcollector) - A collection of python patterns that help you collect your technical debt in a non-destructive manner. Mirror of code maintained at opendev.org.
 - [gnocchixyz/gnocchi](https://github.com/gnocchixyz/gnocchi) - Timeseries database
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
@@ -1085,6 +1085,7 @@
 
 ## TypeScript 
 
+- [epicweb-dev/full-stack-foundations](https://github.com/epicweb-dev/full-stack-foundations) - Learn the foundational skills of building full stack web applications.
 - [kitloong/nextjs-dashboard](https://github.com/kitloong/nextjs-dashboard) - A Next.JS boilerplate with the famous Open Source Boostrap Admin Template, CoreUI.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
