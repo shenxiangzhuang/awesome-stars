@@ -272,6 +272,7 @@
 
 ## JavaScript 
 
+- [luin/medis](https://github.com/luin/medis) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [DOClever/DOClever](https://github.com/DOClever/DOClever) - 做最好的接口管理平台
@@ -548,6 +549,8 @@
 
 ## Python 
 
+- [shenxiangzhuang/toydl](https://github.com/shenxiangzhuang/toydl) - toydl: toy deep learning algorithms implementation, backend with self implement toy torch
+- [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [laike9m/Python-Type-Challenges](https://github.com/laike9m/Python-Type-Challenges) - Learn Python typing (type hints) by completing online challenges!
 - [hynek/stamina](https://github.com/hynek/stamina) - Production-grade retries for Python
 - [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium) - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)
