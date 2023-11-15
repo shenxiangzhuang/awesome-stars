@@ -551,6 +551,8 @@
 
 ## Python 
 
+- [Teemu/pytest-sugar](https://github.com/Teemu/pytest-sugar) - a plugin for py.test that changes the default look and feel of py.test (e.g. progressbar, show tests that fail instantly)
+- [dropbox/sqlalchemy-stubs](https://github.com/dropbox/sqlalchemy-stubs) - Mypy plugin and stubs for SQLAlchemy
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [redis/redis-om-python](https://github.com/redis/redis-om-python) - Object mapping, and more, for Redis and Python
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) - A database migrations tool for SQLAlchemy.
@@ -966,6 +968,7 @@
 - [google/CausalImpact](https://github.com/google/CausalImpact) - An R package for causal inference in time series
 - [SteffenMoritz/imputeTS](https://github.com/SteffenMoritz/imputeTS) - CRAN R Package: Time Series Missing Value Imputation
 - [twitter/AnomalyDetection](https://github.com/twitter/AnomalyDetection) - Anomaly Detection with R
+- [cran/arules](https://github.com/cran/arules) - :exclamation: This is a read-only mirror of the CRAN R package repository.  arules — Mining Association Rules and Frequent Itemsets. Homepage: https://github.com/mhahsler/arules  Report bugs for this 
 - [meghanathmacha/xPACS](https://github.com/meghanathmacha/xPACS) - This repository has the code for the xPacks work that is under submission for academic conference. The code is protected under the below license
 - [robjhyndman/ctv-TimeSeries](https://github.com/robjhyndman/ctv-TimeSeries) - git mirror of CRAN Task View Time Series files
 - [kassambara/survminer](https://github.com/kassambara/survminer) - Survival Analysis and Visualization
@@ -974,6 +977,7 @@
 - [swirldev/swirl](https://github.com/swirldev/swirl) - :cyclone: Learn R, in R.
 - [yihui/animation](https://github.com/yihui/animation) - A gallery of animations in statistics and utilities to create animations
 - [ajtulloch/Elements-of-Statistical-Learning](https://github.com/ajtulloch/Elements-of-Statistical-Learning) - Contains LaTeX, SciPy and R code providing solutions to exercises in Elements of Statistical Learning (Hastie, Tibshirani & Friedman)
+- [cran/ElemStatLearn](https://github.com/cran/ElemStatLearn) - :exclamation: This is a read-only mirror of the CRAN R package repository.  ElemStatLearn — Data Sets, Functions and Examples from the Book: "The Elements of Statistical Learning, Data Mining, Inferen
 - [terrytangyuan/lfda](https://github.com/terrytangyuan/lfda) - Local Fisher Discriminant Analysis in R
 
 ## RMarkdown 
@@ -1124,7 +1128,7 @@
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share with u
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your dumped files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Open Source Education Platform
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [malloydata/malloy](https://github.com/malloydata/malloy) - Malloy is an experimental language for describing data relationships and transformations.
