@@ -551,6 +551,7 @@
 
 ## Python 
 
+- [sukrutrao/Fast-Dawid-Skene](https://github.com/sukrutrao/Fast-Dawid-Skene) - Code for the algorithms in the paper: Vaibhav B Sinha, Sukrut Rao, Vineeth N Balasubramanian. Fast Dawid-Skene: A Fast Vote Aggregation Scheme for Sentiment Classification. KDD WISDOM 2018
 - [Teemu/pytest-sugar](https://github.com/Teemu/pytest-sugar) - a plugin for py.test that changes the default look and feel of py.test (e.g. progressbar, show tests that fail instantly)
 - [dropbox/sqlalchemy-stubs](https://github.com/dropbox/sqlalchemy-stubs) - Mypy plugin and stubs for SQLAlchemy
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
