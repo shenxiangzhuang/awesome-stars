@@ -272,6 +272,7 @@
 
 ## JavaScript 
 
+- [lelouchB/next-image-gallery](https://github.com/lelouchB/next-image-gallery) - Image Gallery built with Next.js, Pexels API and Chakra UI.
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.
 - [luin/medis](https://github.com/luin/medis) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
@@ -551,6 +552,7 @@
 
 ## Python 
 
+- [mkdocs/mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) - Open source plugin for Mkdocs page redirects
 - [sukrutrao/Fast-Dawid-Skene](https://github.com/sukrutrao/Fast-Dawid-Skene) - Code for the algorithms in the paper: Vaibhav B Sinha, Sukrut Rao, Vineeth N Balasubramanian. Fast Dawid-Skene: A Fast Vote Aggregation Scheme for Sentiment Classification. KDD WISDOM 2018
 - [Teemu/pytest-sugar](https://github.com/Teemu/pytest-sugar) - a plugin for py.test that changes the default look and feel of py.test (e.g. progressbar, show tests that fail instantly)
 - [dropbox/sqlalchemy-stubs](https://github.com/dropbox/sqlalchemy-stubs) - Mypy plugin and stubs for SQLAlchemy
@@ -717,7 +719,7 @@
 - [wilsonrljr/sysidentpy](https://github.com/wilsonrljr/sysidentpy) - A Python Package For System Identification Using NARMAX Models
 - [Shunichi09/PythonLinearNonlinearControl](https://github.com/Shunichi09/PythonLinearNonlinearControl) - PythonLinearNonLinearControl is a library implementing the linear and nonlinear control theories in python.
 - [AtsushiSakai/PyAdvancedControl](https://github.com/AtsushiSakai/PyAdvancedControl) - Python codes for advanced control
-- [HPI-Information-Systems/TimeEval-GUI](https://github.com/HPI-Information-Systems/TimeEval-GUI) - [Read-Only Mirror]  Benchmarking Toolkit for Time Series Anomaly Detection Algorithms using TimeEval and GutenTAG
+- [TimeEval/TimeEval-GUI](https://github.com/TimeEval/TimeEval-GUI) - [Read-Only Mirror]  Benchmarking Toolkit for Time Series Anomaly Detection Algorithms using TimeEval and GutenTAG
 - [microsoft/Semi-supervised-learning](https://github.com/microsoft/Semi-supervised-learning) - A Unified Semi-Supervised Learning Codebase (NeurIPS'22)
 - [PyCQA/flake8-bugbear](https://github.com/PyCQA/flake8-bugbear) - A plugin for Flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.
 - [pvlib/pvanalytics](https://github.com/pvlib/pvanalytics) - Quality control, filtering, feature labeling, and other tools for working with data from photovoltaic energy systems.
@@ -1023,7 +1025,7 @@
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
-- [CeresDB/ceresdb](https://github.com/CeresDB/ceresdb) - CeresDB is a high-performance, distributed, cloud native time-series database.
+- [CeresDB/horaedb](https://github.com/CeresDB/horaedb) - HoraeDB is a high-performance, distributed, cloud native time-series database.
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
@@ -1109,6 +1111,7 @@
 
 ## TypeScript 
 
+- [measuredco/puck](https://github.com/measuredco/puck) - The self-hosted drag and drop editor for React.
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [eylonmiz/react-agent](https://github.com/eylonmiz/react-agent) - The open-source React.js Autonomous LLM Agent
 - [cruip/tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template) - Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React / Next.js. Made by
