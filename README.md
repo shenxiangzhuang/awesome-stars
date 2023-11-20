@@ -564,7 +564,7 @@
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 - [shenxiangzhuang/toydl](https://github.com/shenxiangzhuang/toydl) - toydl: toy deep learning algorithms implementation, backend with self implement toy torch
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
-- [laike9m/Python-Type-Challenges](https://github.com/laike9m/Python-Type-Challenges) - Learn Python typing (type hints) by completing online challenges!
+- [laike9m/Python-Type-Challenges](https://github.com/laike9m/Python-Type-Challenges) - Master Python typing (type hints) with interactive online exercises!
 - [hynek/stamina](https://github.com/hynek/stamina) - Production-grade retries for Python
 - [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium) - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)
 - [Lightning-AI/torchmetrics](https://github.com/Lightning-AI/torchmetrics) - Torchmetrics - Machine learning metrics for distributed, scalable PyTorch applications.
