@@ -648,7 +648,7 @@
 - [randy3k/radian](https://github.com/randy3k/radian) - A 21 century R console
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
 - [fairlearn/fairlearn](https://github.com/fairlearn/fairlearn) - A Python package to assess and improve fairness of machine learning models.
-- [3w36zj6/rye-python-template](https://github.com/3w36zj6/rye-python-template) - Template repository for Python project using Rye
+- [3w36zj6/rye-python-template](https://github.com/3w36zj6/rye-python-template) - 🐍 Template repository for Python project using Rye
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [salesforce/PyRCA](https://github.com/salesforce/PyRCA) - PyRCA: A Python Machine Learning Library for Root Cause Analysis
