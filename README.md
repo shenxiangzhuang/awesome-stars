@@ -1035,6 +1035,8 @@
 
 ## Rust 
 
+- [krABMaga/krABMaga](https://github.com/krABMaga/krABMaga) - krABMaga: A modern developing art for reliable and efficient Agent-based Model (ABM) simulation with the Rust language
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust.
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [cnpryer/huak](https://github.com/cnpryer/huak) - [wip] A Python package manager written in Rust and inspired by Cargo.
