@@ -787,7 +787,7 @@
 - [squareRoot3/Rethinking-Anomaly-Detection](https://github.com/squareRoot3/Rethinking-Anomaly-Detection) - "Rethinking Graph Neural Networks for Anomaly Detection" in ICML 2022
 - [SimmerChan/KG-demo-for-movie](https://github.com/SimmerChan/KG-demo-for-movie) - 从无到有构建一个电影知识图谱，并基于该KG，开发一个简易的KBQA程序。
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [google/sympy2jax](https://github.com/google/sympy2jax) - Turn SymPy expressions into trainable JAX expressions.
+- [patrick-kidger/sympy2jax](https://github.com/patrick-kidger/sympy2jax) - Turn SymPy expressions into trainable JAX expressions.
 - [microsoft/graphing](https://github.com/microsoft/graphing) - All kinds of graph algorithms. From path cover for special graphs to traversal, etc.
 - [python-attrs/attrs](https://github.com/python-attrs/attrs) - Python Classes Without Boilerplate
 - [online-ml/deep-river](https://github.com/online-ml/deep-river) - 
@@ -1046,6 +1046,7 @@
 
 ## Rust 
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An educational OLAP database system.
