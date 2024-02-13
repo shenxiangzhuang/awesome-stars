@@ -475,6 +475,7 @@
 
 ## Others 
 
+- [fuxiAIlab/NetEaseCrowd-Dataset](https://github.com/fuxiAIlab/NetEaseCrowd-Dataset) - NetEaseCrowd dataset, a collection of data obtained from You Ling crowdsourcing platform, Fuxi AI Lab, NetEase.
 - [abatilo/actions-poetry](https://github.com/abatilo/actions-poetry) - GitHub Actions for Python projects using poetry
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
