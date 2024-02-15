@@ -898,7 +898,7 @@
 - [NetManAIOps/donut](https://github.com/NetManAIOps/donut) - WWW 2018: Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications
 - [jmcarpenter2/swifter](https://github.com/jmcarpenter2/swifter) - A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner
 - [akhtarshahnawaz/multiprocesspandas](https://github.com/akhtarshahnawaz/multiprocesspandas) - Adds multiprocessing capabilities to Pandas to parallelize apply operations on DataFrames, Series and DataFrameGroupBy
-- [huawei-noah/trustworthyAI](https://github.com/huawei-noah/trustworthyAI) - trustworthy AI related projects
+- [huawei-noah/trustworthyAI](https://github.com/huawei-noah/trustworthyAI) - Trustworthy AI related projects
 - [uqfoundation/dill](https://github.com/uqfoundation/dill) - serialize all of Python
 - [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)
 - [SeldonIO/alibi-detect](https://github.com/SeldonIO/alibi-detect) - Algorithms for outlier, adversarial and drift detection
