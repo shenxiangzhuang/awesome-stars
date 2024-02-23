@@ -87,6 +87,7 @@
 
 ## C++ 
 
+- [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
@@ -301,7 +302,6 @@
 - [huhu/k8s-search-extension](https://github.com/huhu/k8s-search-extension) - The ultimate search extension for Kubernetes
 - [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
 - [paperswithcode/ai-deadlines](https://github.com/paperswithcode/ai-deadlines) - :alarm_clock: AI conference deadline countdowns
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
@@ -581,6 +581,8 @@
 
 ## Python 
 
+- [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
+- [google/gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google's Gemma models
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [NetEase-FuXi/EET](https://github.com/NetEase-FuXi/EET) - Easy and Efficient Transformer : Scalable Inference Solution For Large NLP model
 - [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow) - Pretty good call graphs for dynamic languages
@@ -651,7 +653,7 @@
 - [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use
 - [Docta-ai/docta](https://github.com/Docta-ai/docta) - A Doctor for your data
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [asiffer/mkdocs-onecompiler-plugin](https://github.com/asiffer/mkdocs-onecompiler-plugin) - Include OneCompiler online compiler to your mkdocs website
 - [pykt-team/pykt-toolkit](https://github.com/pykt-team/pykt-toolkit) - pyKT: A Python Library to Benchmark Deep Learning based Knowledge Tracing Models
 - [jaymody/simpleGPT](https://github.com/jaymody/simpleGPT) - Simple implementation of a GPT (training and inference) in PyTorch.
@@ -747,6 +749,7 @@
 - [tamentis/rpdb](https://github.com/tamentis/rpdb) - Wrapper around pdb allowing remote debugging via netcat or telnet. This is especially useful in a Tomcat/Jython environment where little debugging tools are available.
 - [SidiLu001/disk_failure_prediction](https://github.com/SidiLu001/disk_failure_prediction) - 
 - [fastplotlib/fastplotlib](https://github.com/fastplotlib/fastplotlib) - Next-gen fast plotting library running on WGPU using the pygfx rendering engine
+- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [jacopotagliabue/post-modern-stack](https://github.com/jacopotagliabue/post-modern-stack) - Joining the modern data stack with the modern ML stack
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
