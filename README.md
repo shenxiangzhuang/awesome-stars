@@ -87,6 +87,7 @@
 
 ## C++ 
 
+- [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
@@ -239,7 +240,7 @@
 
 ## Haskell 
 
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [facebook/duckling](https://github.com/facebook/duckling) - Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
 - [haskell/parsec](https://github.com/haskell/parsec) - A monadic parser combinator library
 - [haskell/stylish-haskell](https://github.com/haskell/stylish-haskell) - Haskell code prettifier
