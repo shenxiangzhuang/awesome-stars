@@ -646,7 +646,7 @@
 - [mkdocstrings/griffe](https://github.com/mkdocstrings/griffe) - Signatures for entire Python programs. Extract the structure, the frame, the skeleton of your project, to generate API documentation or find breaking changes in your API.
 - [fkodom/transformer-from-scratch](https://github.com/fkodom/transformer-from-scratch) - Code implementation from my blog post: https://fkodom.substack.com/p/transformers-from-scratch-in-pytorch
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator, powered by large language model APIs.
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator, powered by LLM APIs.
 - [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Bayesian Modeling and Probabilistic Programming in Python
 - [shenxiangzhuang/mppt](https://github.com/shenxiangzhuang/mppt) - A Modern Python Package Template
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
@@ -703,7 +703,7 @@
 - [THUDM/GLM-130B](https://github.com/THUDM/GLM-130B) - GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023)
 - [miguelgrinberg/Flask-SocketIO](https://github.com/miguelgrinberg/Flask-SocketIO) - Socket.IO integration for Flask applications.
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
 - [google/generative-ai-python](https://github.com/google/generative-ai-python) - The Google AI Python SDK enables developers to use Google's state-of-the-art generative AI models (like Gemini and PaLM) to build AI-powered features and applications.
 - [tslearn-team/tslearn](https://github.com/tslearn-team/tslearn) - The machine learning toolkit for time series analysis in Python
 - [fedejaure/cookiecutter-modern-pypackage](https://github.com/fedejaure/cookiecutter-modern-pypackage) - Cookiecutter 🍪 template for a modern Python package 🐍📦.
@@ -1189,6 +1189,7 @@
 
 ## TypeScript 
 
+- [LuciNyan/pixel-profile](https://github.com/LuciNyan/pixel-profile) - Generate a pixel art style profile card from your GitHub data! ✨
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [tabixio/tabix](https://github.com/tabixio/tabix) - Tabix.io UI
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
