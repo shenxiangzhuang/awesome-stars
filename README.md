@@ -583,6 +583,7 @@
 
 ## Python 
 
+- [boniolp/kGraph](https://github.com/boniolp/kGraph) - Interpretable Graph-based time series clustering.
 - [OlgaChernytska/word2vec-pytorch](https://github.com/OlgaChernytska/word2vec-pytorch) - Implementation of the first paper on word2vec
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 - [google/gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google's Gemma models
@@ -648,7 +649,7 @@
 - [mkdocstrings/griffe](https://github.com/mkdocstrings/griffe) - Signatures for entire Python programs. Extract the structure, the frame, the skeleton of your project, to generate API documentation or find breaking changes in your API.
 - [fkodom/transformer-from-scratch](https://github.com/fkodom/transformer-from-scratch) - Code implementation from my blog post: https://fkodom.substack.com/p/transformers-from-scratch-in-pytorch
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator, powered by LLM APIs.
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator, powered by large language model APIs.
 - [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Bayesian Modeling and Probabilistic Programming in Python
 - [shenxiangzhuang/mppt](https://github.com/shenxiangzhuang/mppt) - A Modern Python Package Template
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
@@ -1060,6 +1061,7 @@
 
 ## Rust 
 
+- [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
