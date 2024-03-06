@@ -17,6 +17,7 @@
 - [EJS](#ejs)
 - [Elixir](#elixir)
 - [Erlang](#erlang)
+- [Gleam](#gleam)
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -174,6 +175,10 @@
 
 - [joergen7/cuneiform](https://github.com/joergen7/cuneiform) - Cuneiform distributed programming language
 
+## Gleam 
+
+- [gleam-lang/awesome-gleam](https://github.com/gleam-lang/awesome-gleam) - 💯 A collection of Gleam libraries, projects, and resources
+
 ## Go 
 
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -286,6 +291,7 @@
 
 ## JavaScript 
 
+- [SudoACoder/CodeXpert](https://github.com/SudoACoder/CodeXpert) - Code Xpert: A completely free and open-source GitHub Copilot-like Project With VS Code extension.
 - [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
 - [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 - [lelouchB/next-image-gallery](https://github.com/lelouchB/next-image-gallery) - Image Gallery built with Next.js, Pexels API and Chakra UI.
@@ -583,7 +589,7 @@
 
 ## Python 
 
-- [boniolp/kGraph](https://github.com/boniolp/kGraph) - Interpretable Graph-based time series clustering.
+- [boniolp/kGraph](https://github.com/boniolp/kGraph) - Graph Embedding for Interpretable Time Series Clustering
 - [OlgaChernytska/word2vec-pytorch](https://github.com/OlgaChernytska/word2vec-pytorch) - Implementation of the first paper on word2vec
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 - [google/gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google's Gemma models
