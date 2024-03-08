@@ -351,6 +351,7 @@
 
 ## Jupyter Notebook 
 
+- [NoviScl/Design2Code](https://github.com/NoviScl/Design2Code) - 
 - [mistralai/mistral-src](https://github.com/mistralai/mistral-src) - Reference implementation of Mistral AI 7B v0.1 model.
 - [dmarx/anthology-of-modern-ml](https://github.com/dmarx/anthology-of-modern-ml) - Collection of important articles to be treated as a textbook
 - [facebookresearch/Pearl](https://github.com/facebookresearch/Pearl) - A Production-ready Reinforcement Learning AI Agent Library brought by the Applied Reinforcement Learning team at Meta.
@@ -589,6 +590,8 @@
 
 ## Python 
 
+- [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
+- [huggingface/text-clustering](https://github.com/huggingface/text-clustering) - Easily embed, cluster and semantically label text datasets
 - [boniolp/kGraph](https://github.com/boniolp/kGraph) - Graph Embedding for Interpretable Time Series Clustering
 - [OlgaChernytska/word2vec-pytorch](https://github.com/OlgaChernytska/word2vec-pytorch) - Implementation of the first paper on word2vec
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
@@ -622,6 +625,7 @@
 - [MongoEngine/mongoengine](https://github.com/MongoEngine/mongoengine) - A Python Object-Document-Mapper for working with MongoDB
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [awtkns/fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter) - A dynamic FastAPI router that automatically creates CRUD routes for your models
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [spro/pytorch-seq2seq-intent-parsing](https://github.com/spro/pytorch-seq2seq-intent-parsing) - Intent parsing and slot filling in PyTorch with seq2seq + attention
 - [simplistix/sybil](https://github.com/simplistix/sybil) - Automated testing for the examples in your documentation.
 - [mkdocs/mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) - Open source plugin for Mkdocs page redirects
@@ -879,7 +883,7 @@
 - [locuslab/TCN](https://github.com/locuslab/TCN) - Sequence modeling benchmarks and temporal convolutional networks
 - [tartley/colorama](https://github.com/tartley/colorama) - Simple cross-platform colored terminal text in Python
 - [SheffieldML/GPy](https://github.com/SheffieldML/GPy) - Gaussian processes framework in python
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building custom AI, enabling smarter organizations.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
 - [openstack/debtcollector](https://github.com/openstack/debtcollector) - A collection of python patterns that help you collect your technical debt in a non-destructive manner. Mirror of code maintained at opendev.org.
 - [gnocchixyz/gnocchi](https://github.com/gnocchixyz/gnocchi) - Timeseries database
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
@@ -1211,7 +1215,6 @@
 - [ObservedObserver/streamlit-shadcn-ui](https://github.com/ObservedObserver/streamlit-shadcn-ui) - Using shadcn-ui components in streamlit
 - [mattzcarey/code-review-gpt](https://github.com/mattzcarey/code-review-gpt) - Your personal code reviewer powered by LLMs (OpenAI GPT-3.5/4, Llama2, Azure AI) & Embeddings ⚡️ Improve code quality and catch bugs before you break production 🚀
 - [bbycroft/llm-viz](https://github.com/bbycroft/llm-viz) - 3D Visualization of an GPT-style LLM
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
