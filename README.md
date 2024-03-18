@@ -598,6 +598,8 @@
 
 ## Python 
 
+- [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
+- [patrick-kidger/jaxtyping](https://github.com/patrick-kidger/jaxtyping) - Type annotations and runtime checking for shape and dtype of JAX/NumPy/PyTorch/etc. arrays. https://docs.kidger.site/jaxtyping/
 - [allenai/OLMo](https://github.com/allenai/OLMo) - Modeling, training, eval, and inference code for OLMo
 - [01-ai/Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by developers @01-ai
 - [openai/transformer-debugger](https://github.com/openai/transformer-debugger) - 
