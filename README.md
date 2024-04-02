@@ -299,6 +299,7 @@
 
 ## JavaScript 
 
+- [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application with a built-in LLM!
 - [SudoACoder/CodeXpert](https://github.com/SudoACoder/CodeXpert) - Code Xpert: A completely free and open-source GitHub Copilot-like Project With VS Code extension.
 - [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
@@ -363,7 +364,7 @@
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
 - [OpenGenerativeAI/llm-colosseum](https://github.com/OpenGenerativeAI/llm-colosseum) - Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM
 - [googlesamples/mediapipe](https://github.com/googlesamples/mediapipe) - 
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Join our Discord: https://aka.ms/autogen-dc
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap
 - [NoviScl/Design2Code](https://github.com/NoviScl/Design2Code) - 
 - [mistralai/mistral-src](https://github.com/mistralai/mistral-src) - Reference implementation of Mistral AI 7B v0.1 model.
 - [dmarx/anthology-of-modern-ml](https://github.com/dmarx/anthology-of-modern-ml) - Collection of important articles to be treated as a textbook
@@ -1123,6 +1124,7 @@
 
 ## Rust 
 
+- [thebracket/HandsOnRust](https://github.com/thebracket/HandsOnRust) - The source code that accompanies Hands-on Rust: Effective Learning through 2D Game Development and Play by Herbert Wolverson
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui.
 - [fermyon/spin](https://github.com/fermyon/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
