@@ -994,7 +994,7 @@
 - [slaypni/fastdtw](https://github.com/slaypni/fastdtw) - A Python implementation of FastDTW
 - [gabfl/redis-priority-queue](https://github.com/gabfl/redis-priority-queue) - Simple Redis work queue with added features (priorities, pop multiple items at once)
 - [facebookresearch/Kats](https://github.com/facebookresearch/Kats) - Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics,
-- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The most flexible way to serve AI/ML models in production
+- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The most flexible way to serve AI/ML models in production - Build Model Inference Service, LLM APIs, Inference Graph/Pipelines, Compound AI systems, Multi-Modal, RAG as a Service, and more!
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python client
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [mmhs013/pyMannKendall](https://github.com/mmhs013/pyMannKendall) - A python package for non parametric Mann Kendall family of trend tests.
@@ -1133,6 +1133,7 @@
 
 ## Rust 
 
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code for "Zero To Production In Rust", a book on API development using Rust.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [thebracket/HandsOnRust](https://github.com/thebracket/HandsOnRust) - The source code that accompanies Hands-on Rust: Effective Learning through 2D Game Development and Play by Herbert Wolverson
