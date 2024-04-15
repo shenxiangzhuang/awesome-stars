@@ -666,7 +666,7 @@
 - [huggingface/amused](https://github.com/huggingface/amused) - 
 - [tomwojcik/starlette-context](https://github.com/tomwojcik/starlette-context) - Middleware for Starlette that allows you to store and access the context data of a request. Can be used with logging so logs automatically use request headers such as x-request-id or x-correlation-id.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
-- [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A 6 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.
+- [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A 7 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalabl
 - [bswck/autorefine](https://github.com/bswck/autorefine) - Refactoring at scale.
@@ -1277,6 +1277,7 @@
 
 ## TypeScript 
 
+- [stackframe-projects/stack](https://github.com/stackframe-projects/stack) - Opensource user authentication for Next.js
 - [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 - [terrastruct/text-to-diagram-site](https://github.com/terrastruct/text-to-diagram-site) - Compare syntax, layouts, outputs between languages for generating diagrams with text.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
