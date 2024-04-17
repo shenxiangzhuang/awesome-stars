@@ -917,7 +917,7 @@
 - [selimfirat/pysad](https://github.com/selimfirat/pysad) - Streaming Anomaly Detection Framework in Python (Outlier Detection for Streaming Data)
 - [Stream-AD/MemStream](https://github.com/Stream-AD/MemStream) - MemStream: Memory-Based Streaming Anomaly Detection
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
-- [py-why/causal-learn](https://github.com/py-why/causal-learn) - Causal Discovery in Python. Translation and extension of the Tetrad Java code.
+- [py-why/causal-learn](https://github.com/py-why/causal-learn) - Causal Discovery in Python. It also includes (conditional) independence tests and score functions.
 - [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) - OpenTelemetry Python API and SDK
 - [keiichishima/pcalg](https://github.com/keiichishima/pcalg) - CPDAG Estimation using PC-Algorithm
 - [FenTechSolutions/CausalDiscoveryToolbox](https://github.com/FenTechSolutions/CausalDiscoveryToolbox) - Package for causal inference in graphs and in the pairwise settings. Tools for graph structure recovery and dependencies are included.
@@ -1136,6 +1136,7 @@
 
 ## Rust 
 
+- [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 - [crabml/crabml](https://github.com/crabml/crabml) - a fast cross platform AI inference engine 🤖 using Rust 🦀 and WebGPU 🎮
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code for "Zero To Production In Rust", a book on API development using Rust.
