@@ -620,6 +620,9 @@
 
 ## Python 
 
+- [pydantic/logfire](https://github.com/pydantic/logfire) - The best observability tool for Python! 🪵🔥
+- [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
+- [huggingface/evaluate](https://github.com/huggingface/evaluate) - 🤗 Evaluate: A library for easily evaluating machine learning models and datasets.
 - [georgian-io/pyoats](https://github.com/georgian-io/pyoats) - Quick and Easy Time Series Outlier Detection
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [Maluuba/nlg-eval](https://github.com/Maluuba/nlg-eval) - Evaluation code for various unsupervised automated metrics for Natural Language Generation.
