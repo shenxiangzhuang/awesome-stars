@@ -620,7 +620,7 @@
 
 ## Python 
 
-- [pydantic/logfire](https://github.com/pydantic/logfire) - The best observability tool for Python! 🪵🔥
+- [pydantic/logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥
 - [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [huggingface/evaluate](https://github.com/huggingface/evaluate) - 🤗 Evaluate: A library for easily evaluating machine learning models and datasets.
 - [georgian-io/pyoats](https://github.com/georgian-io/pyoats) - Quick and Easy Time Series Outlier Detection
@@ -727,7 +727,7 @@
 - [DMOJ/online-judge](https://github.com/DMOJ/online-judge) - A modern open-source online judge and contest platform system.
 - [QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge) - Open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com
 - [laixintao/flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer.
-- [roman-right/beanie](https://github.com/roman-right/beanie) - Asynchronous Python ODM for MongoDB
+- [BeanieODM/beanie](https://github.com/BeanieODM/beanie) - Asynchronous Python ODM for MongoDB
 - [airtai/faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
 - [mkdocstrings/griffe](https://github.com/mkdocstrings/griffe) - Signatures for entire Python programs. Extract the structure, the frame, the skeleton of your project, to generate API documentation or find breaking changes in your API.
 - [fkodom/transformer-from-scratch](https://github.com/fkodom/transformer-from-scratch) - Code implementation from my blog post: https://fkodom.substack.com/p/transformers-from-scratch-in-pytorch
