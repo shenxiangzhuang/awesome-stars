@@ -783,7 +783,7 @@
 - [SkalskiP/courses](https://github.com/SkalskiP/courses) - This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)
 - [wntrblm/nox](https://github.com/wntrblm/nox) - Flexible test automation for Python
 - [sktime/sktime](https://github.com/sktime/sktime) - A unified framework for machine learning with time series
-- [aeon-toolkit/aeon](https://github.com/aeon-toolkit/aeon) - A toolkit for conducting machine learning tasks with time series data
+- [aeon-toolkit/aeon](https://github.com/aeon-toolkit/aeon) - A toolkit for machine learning from time series
 - [boniolp/Theseus](https://github.com/boniolp/Theseus) - [VLDB 2022] Dash application for "Navigating the Labyrinth of Time Series Anomaly Detection"
 - [bbangert/beaker](https://github.com/bbangert/beaker) - WSGI middleware for sessions and caching
 - [THUDM/GLM-130B](https://github.com/THUDM/GLM-130B) - GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023)
@@ -1179,7 +1179,7 @@
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust.
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental python package manager.
+- [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental Python package manager.
 - [willcrichton/flowistry](https://github.com/willcrichton/flowistry) - Flowistry is an IDE plugin for Rust that helps you focus on relevant code.
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator
