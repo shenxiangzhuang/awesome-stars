@@ -138,6 +138,7 @@
 
 ## CSS 
 
+- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [23784148/knowledge-garden](https://github.com/23784148/knowledge-garden) - 简悦 + Logseq + Github Page 无代码全自动化知识管理发布方案
 - [typlog/sphinx-typlog-theme](https://github.com/typlog/sphinx-typlog-theme) - Try https://shibuya.lepture.com/
@@ -621,6 +622,7 @@
 
 ## Python 
 
+- [pawamoy/markdown-exec](https://github.com/pawamoy/markdown-exec) - Utilities to execute code blocks in Markdown files.
 - [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for agent evals and observability
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
