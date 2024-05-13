@@ -143,6 +143,7 @@
 - [23784148/knowledge-garden](https://github.com/23784148/knowledge-garden) - 简悦 + Logseq + Github Page 无代码全自动化知识管理发布方案
 - [typlog/sphinx-typlog-theme](https://github.com/typlog/sphinx-typlog-theme) - Try https://shibuya.lepture.com/
 - [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 A special Hexo theme focusing on pictures and images. Images tell stories, and Nexmoe makes them more vivid.
+- [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 - [vatlab/sos-notebook](https://github.com/vatlab/sos-notebook) - Multi-language Jupyter Notebook
 
 ## Clojure 
@@ -1051,7 +1052,6 @@
 - [wanji/bitmap](https://github.com/wanji/bitmap) - BitMap class
 - [Tencent/Metis](https://github.com/Tencent/Metis) - Metis is a learnware platform in the field of AIOps.
 - [online-ml/river](https://github.com/online-ml/river) - 🌊 Online machine learning in Python
-- [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 - [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
 - [CamDavidsonPilon/tdigest](https://github.com/CamDavidsonPilon/tdigest) - t-Digest data structure in Python. Useful for percentiles and quantiles, including distributed enviroments like PySpark
 - [rougier/from-python-to-numpy](https://github.com/rougier/from-python-to-numpy) - An open-access book on numpy vectorization techniques, Nicolas P. Rougier, 2017
@@ -1312,7 +1312,7 @@
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [the-benchmarker/website](https://github.com/the-benchmarker/website) - Source Code for Web Frameworks Benchmark Website
 - [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) - An open-source visual programming environment for battle-testing prompts to LLMs.
-- [stackframe-projects/stack](https://github.com/stackframe-projects/stack) - Open-source user authentication & management
+- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source user authentication & management
 - [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 - [terrastruct/text-to-diagram-site](https://github.com/terrastruct/text-to-diagram-site) - Compare syntax, layouts, outputs between languages for generating diagrams with text.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
