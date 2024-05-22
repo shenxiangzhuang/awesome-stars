@@ -777,6 +777,7 @@
 - [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - 👾 Open source implementation of the ChatGPT Code Interpreter
 - [MichaelisTrofficus/gpt4docstrings](https://github.com/MichaelisTrofficus/gpt4docstrings) - Generating Python docstrings with OpenAI ChatGPT!!
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [randy3k/radian](https://github.com/randy3k/radian) - A 21 century R console
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
 - [fairlearn/fairlearn](https://github.com/fairlearn/fairlearn) - A Python package to assess and improve fairness of machine learning models.
@@ -1027,7 +1028,7 @@
 - [slaypni/fastdtw](https://github.com/slaypni/fastdtw) - A Python implementation of FastDTW
 - [gabfl/redis-priority-queue](https://github.com/gabfl/redis-priority-queue) - Simple Redis work queue with added features (priorities, pop multiple items at once)
 - [facebookresearch/Kats](https://github.com/facebookresearch/Kats) - Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics,
-- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The most flexible way to serve AI/ML models in production - Build Model Inference Service, LLM APIs, Inference Graph/Pipelines, Compound AI systems, Multi-Modal, RAG as a Service, and more!
+- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The easiest way to serve AI/ML models in production - Build Model Inference Service, LLM APIs, Multi-model Inference Graph/Pipelines, LLM/RAG apps, and more!
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python client
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [mmhs013/pyMannKendall](https://github.com/mmhs013/pyMannKendall) - A python package for non parametric Mann Kendall family of trend tests.
@@ -1165,6 +1166,7 @@
 
 ## Rust 
 
+- [messense/typst-py](https://github.com/messense/typst-py) - Python binding to typst
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [quarylabs/quary](https://github.com/quarylabs/quary) - Open-source BI for engineers
 - [HPI-Information-Systems/S2Gpp](https://github.com/HPI-Information-Systems/S2Gpp) - 
@@ -1358,7 +1360,6 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [malloydata/malloy](https://github.com/malloydata/malloy) - Malloy is an experimental language for describing data relationships and transformations.
