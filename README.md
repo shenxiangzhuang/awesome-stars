@@ -16,6 +16,7 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [EJS](#ejs)
+- [Earthly](#earthly)
 - [Elixir](#elixir)
 - [Erlang](#erlang)
 - [Gleam](#gleam)
@@ -172,6 +173,10 @@
 
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 
+## Earthly 
+
+- [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
+
 ## Elixir 
 
 - [mgallo/openai.ex](https://github.com/mgallo/openai.ex) - community-maintained OpenAI API Wrapper written in Elixir.
@@ -290,6 +295,7 @@
 - [OpenTSDB/opentsdb](https://github.com/OpenTSDB/opentsdb) - A scalable, distributed Time Series Database.
 - [s4kibs4mi/java-developer-roadmap](https://github.com/s4kibs4mi/java-developer-roadmap) - Roadmap to becoming a Java developer in 2024
 - [apache/flink-training](https://github.com/apache/flink-training) - Apache Flink Training Excercises
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management
 - [IanDarwin/javasrc](https://github.com/IanDarwin/javasrc) - Ian's Collected code examples from the O'Reilly Java Cookbook & elsewhere
 - [deepjavalibrary/djl](https://github.com/deepjavalibrary/djl) - An Engine-Agnostic Deep Learning Framework in Java
@@ -1170,6 +1176,7 @@
 
 ## Rust 
 
+- [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
 - [messense/typst-py](https://github.com/messense/typst-py) - Python binding to typst
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [quarylabs/quary](https://github.com/quarylabs/quary) - Open-source BI for engineers
@@ -1231,7 +1238,7 @@
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
-- [apache/incubator-horaedb](https://github.com/apache/incubator-horaedb) - Apache HoraeDB (incubating) is a high-performance, distributed, cloud native time-series database.
+- [apache/horaedb](https://github.com/apache/horaedb) - Apache HoraeDB (incubating) is a high-performance, distributed, cloud native time-series database.
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
@@ -1381,7 +1388,6 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [web-infra-dev/garfish](https://github.com/web-infra-dev/garfish) - A powerful micro front-end framework 🚚
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Builder.io for Figma: AI generation, export to code, import from web
 - [July541/haskell-search-extension](https://github.com/July541/haskell-search-extension) - A browser extension to search Haskell knowledge.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
@@ -1394,6 +1400,7 @@
 
 ## Typst 
 
+- [sysu/better-thesis](https://github.com/sysu/better-thesis) - A better thesis that is easily use from typst.app, mirror of https://gitlab.com/sysu-gitlab/thesis-template/better-thesis
 - [cetz-package/cetz](https://github.com/cetz-package/cetz) - CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.
 - [mintyfrankie/brilliant-CV](https://github.com/mintyfrankie/brilliant-CV) - 💼 another CV template for your job application, yet powered by Typst and more
 
