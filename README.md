@@ -791,7 +791,6 @@
 - [randy3k/radian](https://github.com/randy3k/radian) - A 21 century R console
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
 - [fairlearn/fairlearn](https://github.com/fairlearn/fairlearn) - A Python package to assess and improve fairness of machine learning models.
-- [3w36zj6/rye-python-template](https://github.com/3w36zj6/rye-python-template) - 🐍 Template repository for Python project using Rye
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 2, Mistral, as OpenAI compatible API endpoint in the cloud.
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [salesforce/PyRCA](https://github.com/salesforce/PyRCA) - PyRCA: A Python Machine Learning Library for Root Cause Analysis
@@ -1334,7 +1333,7 @@
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [the-benchmarker/website](https://github.com/the-benchmarker/website) - Source Code for Web Frameworks Benchmark Website
 - [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) - An open-source visual programming environment for battle-testing prompts to LLMs.
-- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source user authentication & management
+- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Clerk/Firebase-auth alternative. Developer friendly user auth & management
 - [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 - [terrastruct/text-to-diagram-site](https://github.com/terrastruct/text-to-diagram-site) - Compare syntax, layouts, outputs between languages for generating diagrams with text.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
