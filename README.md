@@ -635,6 +635,7 @@
 
 ## Python 
 
+- [ideos/gloe](https://github.com/ideos/gloe) - Gloe (pronounced /ɡloʊ/, like “glow”) is a general-purpose library made to help developers create, maintain, document, and test both operational and flow-oriented code.
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source experiment tracker.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
 - [likejazz/llama3.np](https://github.com/likejazz/llama3.np) - llama3.np is a pure NumPy implementation for Llama 3 model.
