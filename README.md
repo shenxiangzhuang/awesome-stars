@@ -317,6 +317,7 @@
 
 ## JavaScript 
 
+- [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Learn How Transformers work in Generative AI with Interactive Visualization
 - [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
@@ -1329,6 +1330,7 @@
 
 ## TypeScript 
 
+- [tszhong0411/honghong.me](https://github.com/tszhong0411/honghong.me) - ⚡ A monorepo of my personal website and blog built with TypeScript, Next.js, and Tailwind CSS
 - [ForumMagnum/ForumMagnum](https://github.com/ForumMagnum/ForumMagnum) - The development repository for LessWrong2 and the EA Forum, based on Vulcan JS
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [horizon-ui/horizon-ui-chakra-nextjs](https://github.com/horizon-ui/horizon-ui-chakra-nextjs) - Horizon UI NextJS | The trendiest & innovative Open Source Admin Template for Chakra UI & React!
