@@ -243,6 +243,7 @@
 
 ## HTML 
 
+- [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - A systematic approach to creating better documentation.
 - [tylerdotrar/mkdocs-coverpage](https://github.com/tylerdotrar/mkdocs-coverpage) - Customizable cover page for an MkDocs site.
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验。
@@ -383,6 +384,7 @@
 
 ## Jupyter Notebook 
 
+- [Resh-97/MixSeq-Connecting-Macroscopic-Time-Series-Forecasting-with-Microscopic-Time-Series-Data](https://github.com/Resh-97/MixSeq-Connecting-Macroscopic-Time-Series-Forecasting-with-Microscopic-Time-Series-Data) - Testing the Reproducibility of the paper: MixSeq. Under the assumption that macroscopic time series follow a mixture distribution, they hypothesise that lower variance of constituting latent mixture c
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 - [adam-maj/deep-learning](https://github.com/adam-maj/deep-learning) - A deep-dive on the entire history of deep-learning
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
@@ -639,6 +641,8 @@
 
 ## Python 
 
+- [microsoft/anomaly-detector](https://github.com/microsoft/anomaly-detector) - 
+- [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) - A library for mechanistic interpretability of GPT-style language models
 - [mkdocstrings/autorefs](https://github.com/mkdocstrings/autorefs) - Automatically link across pages in MkDocs.
 - [ideos/gloe](https://github.com/ideos/gloe) - A general-purpose library designed to guide developers in expressing their code as a flow.
