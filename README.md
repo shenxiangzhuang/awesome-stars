@@ -94,6 +94,7 @@
 
 ## C++ 
 
+- [mbucko/openleetcode](https://github.com/mbucko/openleetcode) - An open source version of LeetCode
 - [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
@@ -642,6 +643,7 @@
 
 ## Python 
 
+- [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python, written in Rust
 - [akofke/autoperiod](https://github.com/akofke/autoperiod) - 
 - [microsoft/anomaly-detector](https://github.com/microsoft/anomaly-detector) - 
 - [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
@@ -1189,6 +1191,7 @@
 
 ## Rust 
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [grafana/augurs](https://github.com/grafana/augurs) - A (WIP) time series framework for Rust, with bindings to Python and Javascript
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -1343,6 +1346,7 @@
 
 ## TypeScript 
 
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 200+ LLMs with 1 fast & friendly API.
 - [PhantomKnight287/frameground](https://github.com/PhantomKnight287/frameground) - Learn JavaScript frameworks with interactive challenges
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful framework for building documentation sites in Next.js.
 - [tszhong0411/honghong.me](https://github.com/tszhong0411/honghong.me) - ⚡ A monorepo of my personal website and blog built with TypeScript, Next.js, and Tailwind CSS
