@@ -644,6 +644,7 @@
 
 ## Python 
 
+- [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Create LLM agents with long-term memory and custom tools 📚🦙
 - [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python, written in Rust
 - [akofke/autoperiod](https://github.com/akofke/autoperiod) - 
 - [microsoft/anomaly-detector](https://github.com/microsoft/anomaly-detector) - 
