@@ -301,6 +301,7 @@
 
 ## JavaScript 
 
+- [huhu/query.rs](https://github.com/huhu/query.rs) - A search engine for Rust
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Learn How Transformers work in Generative AI with Interactive Visualization
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
@@ -603,6 +604,7 @@
 
 ## Python 
 
+- [masci/banks](https://github.com/masci/banks) - LLM prompt language based on Jinja
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow) - Pretty good call graphs for dynamic languages
 - [jbms/sphinx-immaterial](https://github.com/jbms/sphinx-immaterial) - Adaptation of the popular mkdocs-material material design theme to the sphinx documentation system
@@ -621,7 +623,7 @@
 - [amazon-science/chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) - Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting
 - [SaberaTalukder/TOTEM](https://github.com/SaberaTalukder/TOTEM) - The official code 👩‍💻 for - TOTEM: TOkenized Time Series EMbeddings for General Time Series Analysis
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.1, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
 - [google-research/timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
 - [pawamoy/markdown-exec](https://github.com/pawamoy/markdown-exec) - Utilities to execute code blocks in Markdown files.
 - [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
