@@ -915,7 +915,7 @@
 - [kubeflow-kale/kale](https://github.com/kubeflow-kale/kale) - Kubeflow’s superfood for Data Scientists
 - [RedisTimeSeries/redistimeseries-py](https://github.com/RedisTimeSeries/redistimeseries-py) - RedisTimeSeries python client
 - [RedisAI/redisai-py](https://github.com/RedisAI/redisai-py) - Python client for RedisAI
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [zhmiao/OpenLongTailRecognition-OLTR](https://github.com/zhmiao/OpenLongTailRecognition-OLTR) - Pytorch implementation for "Large-Scale Long-Tailed Recognition in an Open World" (CVPR 2019 ORAL)
 - [deepcharles/ruptures](https://github.com/deepcharles/ruptures) - ruptures: change point detection in Python
 - [yzhao062/pytod](https://github.com/yzhao062/pytod) - TOD: GPU-accelerated Outlier Detection via Tensor Operations
