@@ -307,7 +307,7 @@
 - [cmliu/CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) - 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
 - [huhu/query.rs](https://github.com/huhu/query.rs) - A search engine for Rust
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
-- [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained: Learn How Transformer Models Work with Interactive Visualization
+- [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained: Learn How LLM Transformer Models Work with Interactive Visualization
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
@@ -720,7 +720,7 @@
 - [jaymody/simpleGPT](https://github.com/jaymody/simpleGPT) - Simple implementation of a GPT (training and inference) in PyTorch.
 - [sybrenjansen/mpire](https://github.com/sybrenjansen/mpire) - A Python package for easy multiprocessing, but faster than multiprocessing
 - [plbrault/youre-the-os](https://github.com/plbrault/youre-the-os) - A game where you are a computer's OS and you have to manage processes, memory and I/O events.
-- [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
+- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
 - [iancovert/sage](https://github.com/iancovert/sage) - For calculating global feature importance using Shapley values.
 - [doableware/djongo](https://github.com/doableware/djongo) - Django and MongoDB database connector
