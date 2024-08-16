@@ -1223,6 +1223,7 @@
 
 ## TypeScript 
 
+- [pompurin404/mihomo-party](https://github.com/pompurin404/mihomo-party) - :electron: Another Mihomo GUI.
 - [ax-llm/ax](https://github.com/ax-llm/ax) - Build LLM powered Agents and "Agentic workflows" based on the Stanford DSP paper.
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
