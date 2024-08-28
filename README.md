@@ -92,6 +92,7 @@
 
 ## C++ 
 
+- [google/or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
 - [mbucko/openleetcode](https://github.com/mbucko/openleetcode) - An open source version of LeetCode
 - [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
@@ -366,6 +367,7 @@
 
 ## Jupyter Notebook 
 
+- [EnhancedJax/vscode-ayu-zed](https://github.com/EnhancedJax/vscode-ayu-zed) - Make VSCode look like Zed
 - [LeeDoYup/RobustSTL](https://github.com/LeeDoYup/RobustSTL) - Unofficial Implementation of RobustSTL: A Robust Seasonal-Trend Decomposition Algorithm for Long Time Series (AAAI 2019)
 - [Resh-97/MixSeq-Connecting-Macroscopic-Time-Series-Forecasting-with-Microscopic-Time-Series-Data](https://github.com/Resh-97/MixSeq-Connecting-Macroscopic-Time-Series-Forecasting-with-Microscopic-Time-Series-Data) - Testing the Reproducibility of the paper: MixSeq. Under the assumption that macroscopic time series follow a mixture distribution, they hypothesise that lower variance of constituting latent mixture c
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
