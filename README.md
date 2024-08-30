@@ -326,6 +326,7 @@
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [huhu/k8s-search-extension](https://github.com/huhu/k8s-search-extension) - The ultimate search extension for Kubernetes
 - [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
@@ -366,6 +367,7 @@
 
 ## Jupyter Notebook 
 
+- [szagoruyko/pytorchviz](https://github.com/szagoruyko/pytorchviz) - A small package to create visualizations of PyTorch execution graphs
 - [EnhancedJax/vscode-ayu-zed](https://github.com/EnhancedJax/vscode-ayu-zed) - Make VSCode look like Zed
 - [LeeDoYup/RobustSTL](https://github.com/LeeDoYup/RobustSTL) - Unofficial Implementation of RobustSTL: A Robust Seasonal-Trend Decomposition Algorithm for Long Time Series (AAAI 2019)
 - [Resh-97/MixSeq-Connecting-Macroscopic-Time-Series-Forecasting-with-Microscopic-Time-Series-Data](https://github.com/Resh-97/MixSeq-Connecting-Macroscopic-Time-Series-Forecasting-with-Microscopic-Time-Series-Data) - Testing the Reproducibility of the paper: MixSeq. Under the assumption that macroscopic time series follow a mixture distribution, they hypothesise that lower variance of constituting latent mixture c
@@ -610,6 +612,7 @@
 
 ## Python 
 
+- [ai-glimpse/toyml](https://github.com/ai-glimpse/toyml) - ToyML: Machine Learning from Scratch
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [pawamoy/mkdocs-coverage](https://github.com/pawamoy/mkdocs-coverage) - MkDocs plugin to integrate your coverage HTML report into your site.
@@ -1079,7 +1082,8 @@
 
 ## Rust 
 
-- [spring-rs/spring-rs](https://github.com/spring-rs/spring-rs) - 🍃spring-rs is a microservice framework written in rust inspired by java's spring-boot
+- [plotly/plotly.rs](https://github.com/plotly/plotly.rs) - Plotly for Rust
+- [spring-rs/spring-rs](https://github.com/spring-rs/spring-rs) - 🍃spring-rs is a application framework written in rust inspired by java's spring-boot
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
@@ -1273,7 +1277,6 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [clnnn/chat-summarizer](https://github.com/clnnn/chat-summarizer) - 💬 Real-time chat application prototype that can summarise the entire chat log
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
