@@ -492,6 +492,7 @@
 ## Markdown 
 
 - [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website) - Ethereum.org is a primary online resource for the Ethereum community.
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
@@ -539,7 +540,6 @@
 - [awesome-mlops/awesome-ml-monitoring](https://github.com/awesome-mlops/awesome-ml-monitoring) - A curated list of awesome open source tools and commercial products for monitoring data quality, monitoring model performance, and profiling data  🚀
 - [Sygil-Dev/stable-diffusion](https://github.com/Sygil-Dev/stable-diffusion) - 
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [hpreston/rpi-networklab](https://github.com/hpreston/rpi-networklab) - The Raspberry Pi is an inexpensive computer that makes a great addition to everyone's network lab.  In fact, you might want to pickup a few of them for your lab.    This repository includes some docum
 - [dair-ai/Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) - 🧮  A collection of resources to learn mathematics for machine learning
 - [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
@@ -612,6 +612,7 @@
 
 ## Python 
 
+- [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
 - [ai-glimpse/toyml](https://github.com/ai-glimpse/toyml) - ToyML: Machine Learning from Scratch
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
