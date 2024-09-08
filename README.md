@@ -606,7 +606,7 @@
 
 ## Python 
 
-- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the best funding & monetization platform for developers. From first donation to IPO.
+- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
 - [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
 - [ai-glimpse/toyml](https://github.com/ai-glimpse/toyml) - ToyML: Machine Learning from Scratch
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
