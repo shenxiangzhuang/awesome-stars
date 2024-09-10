@@ -608,7 +608,7 @@
 
 - [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
 - [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
-- [ai-glimpse/toyml](https://github.com/ai-glimpse/toyml) - ToyML: Machine Learning from Scratch
+- [ai-glimpse/toyml](https://github.com/ai-glimpse/toyml) - Readable single file implementation of Machine Learning algorithms
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [pawamoy/mkdocs-coverage](https://github.com/pawamoy/mkdocs-coverage) - MkDocs plugin to integrate your coverage HTML report into your site.
@@ -628,7 +628,7 @@
 - [mkdocstrings/autorefs](https://github.com/mkdocstrings/autorefs) - Automatically link across pages in MkDocs.
 - [ideos/gloe](https://github.com/ideos/gloe) - A general-purpose library designed to guide developers in expressing their code as a flow.
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source experiment tracker.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 - [likejazz/llama3.np](https://github.com/likejazz/llama3.np) - llama3.np is a pure NumPy implementation for Llama 3 model.
 - [amazon-science/chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) - Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting
 - [SaberaTalukder/TOTEM](https://github.com/SaberaTalukder/TOTEM) - The official code 👩‍💻 for - TOTEM: TOkenized Time Series EMbeddings for General Time Series Analysis
@@ -1227,7 +1227,7 @@
 
 - [zaki-yama/copy-title-and-url-as-markdown](https://github.com/zaki-yama/copy-title-and-url-as-markdown) - Chrome Extension: Quickly copy the title & url of current tab as Markdown style
 - [pompurin404/mihomo-party](https://github.com/pompurin404/mihomo-party) - :electron: Another Mihomo GUI.
-- [ax-llm/ax](https://github.com/ax-llm/ax) - Build LLM powered Agents and "Agentic workflows" based on the Stanford DSP paper.
+- [ax-llm/ax](https://github.com/ax-llm/ax) - The unofficial DSPy framework. Build LLM powered Agents and "Agentic workflows" based on the Stanford DSP paper.
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [lucafaggianelli/plombery](https://github.com/lucafaggianelli/plombery) - Python task scheduler with a user-friendly web UI
@@ -1242,7 +1242,7 @@
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [the-benchmarker/website](https://github.com/the-benchmarker/website) - Source Code for Web Frameworks Benchmark Website
 - [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) - An open-source visual programming environment for battle-testing prompts to LLMs.
-- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Clerk/Auth0 alternative
+- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Auth0/Clerk alternative
 - [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 - [terrastruct/text-to-diagram-site](https://github.com/terrastruct/text-to-diagram-site) - Compare syntax, layouts, outputs between languages for generating diagrams with text.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
