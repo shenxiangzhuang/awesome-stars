@@ -297,7 +297,6 @@
 - [tdunning/t-digest](https://github.com/tdunning/t-digest) - A new data structure for accurate on-line accumulation of rank-based statistics such as quantiles and trimmed means
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 - [Angel-ML/angel](https://github.com/Angel-ML/angel) - A Flexible and Powerful Parameter Server for large-scale machine learning
-- [rezacsedu/Mining-Maximal-Frequent-Pattern-Spark](https://github.com/rezacsedu/Mining-Maximal-Frequent-Pattern-Spark) - Implementation of Static mining part of "Mining maximal frequent patterns in transactional databases and dynamic data streams: A spark-based approach" Information Sciences, Volume 432, March 2018, Pag
 - [heibaiying/BigData-Notes](https://github.com/heibaiying/BigData-Notes) - 大数据入门指南  :star:
 - [felipekunzler/spark-twitter-analysis](https://github.com/felipekunzler/spark-twitter-analysis) - Analyse a twitter dataset with Spark and vizualize the results on a React dashboard.
 
@@ -1232,6 +1231,7 @@
 
 ## TypeScript 
 
+- [sujjeee/shadcn-image-cropper](https://github.com/sujjeee/shadcn-image-cropper) - Image cropper built with shadcn/ui and react-image-crop
 - [zaki-yama/copy-title-and-url-as-markdown](https://github.com/zaki-yama/copy-title-and-url-as-markdown) - Chrome Extension: Quickly copy the title & url of current tab as Markdown style
 - [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI.
 - [ax-llm/ax](https://github.com/ax-llm/ax) - The unofficial DSPy framework. Build LLM powered Agents and "Agentic workflows" based on the Stanford DSP paper.
