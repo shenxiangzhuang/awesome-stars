@@ -1192,7 +1192,7 @@
 ## Svelte 
 
 - [apple/tensor-visualizer](https://github.com/apple/tensor-visualizer) - A Jupyter widget to visualize tensor data in notebooks.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for AI (Formerly Ollama WebUI)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
 
 ## Swift 
