@@ -94,6 +94,7 @@
 
 - [google/or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
 - [mbucko/openleetcode](https://github.com/mbucko/openleetcode) - An open source version of LeetCode
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
@@ -188,7 +189,6 @@
 
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastr
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
@@ -606,7 +606,7 @@
 ## Python 
 
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
-- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 「大模型」3小时完全从0训练一个仅有26M的小参数GPT，个人显卡即可推理训练！
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 「大模型」3小时完全从0训练26M的小参数GPT，个人显卡即可推理训练！
 - [MadcowD/ell](https://github.com/MadcowD/ell) - A language model programming library.
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
 - [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
@@ -656,7 +656,7 @@
 - [ericmiguel/missil](https://github.com/ericmiguel/missil) - Simple FastAPI declarative endpoint-level access control.
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [Deep-Learning-Profiling-Tools/triton-viz](https://github.com/Deep-Learning-Profiling-Tools/triton-viz) - 
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Efficiently Fine-Tune 100+ LLMs in WebUI (ACL 2024)
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 - [diambra/arena](https://github.com/diambra/arena) - DIAMBRA Arena: a New Reinforcement Learning Platform for Research and Experimentation
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to build Awesome Scrapers.
@@ -1081,6 +1081,7 @@
 
 ## Rust 
 
+- [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
 - [Raibows/MLinRust](https://github.com/Raibows/MLinRust) - A machine learning library in Rust from scratch.
 - [plotly/plotly.rs](https://github.com/plotly/plotly.rs) - Plotly for Rust
 - [spring-rs/spring-rs](https://github.com/spring-rs/spring-rs) - 🍃spring-rs is a application framework written in rust inspired by java's spring-boot
