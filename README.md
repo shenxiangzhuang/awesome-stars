@@ -93,6 +93,7 @@
 
 ## C++ 
 
+- [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficientl
 - [google/or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
 - [mbucko/openleetcode](https://github.com/mbucko/openleetcode) - An open source version of LeetCode
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
