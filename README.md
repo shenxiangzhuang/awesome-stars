@@ -304,6 +304,7 @@
 
 ## JavaScript 
 
+- [poloclub/diffusion-explainer](https://github.com/poloclub/diffusion-explainer) - Diffusion Explainer: Visual Explanation for Text-to-image Stable Diffusion
 - [apple/ml-mycelium](https://github.com/apple/ml-mycelium) - About  Interactive web viewer for exploring large neural networks—powers the graph visualization of Talaria
 - [cmliu/CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) - 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
 - [huhu/query.rs](https://github.com/huhu/query.rs) - A search engine for Rust
@@ -503,6 +504,7 @@
 
 ## Others 
 
+- [inkscape/inkscape](https://github.com/inkscape/inkscape) - Project Website: https://inkscape.org - Code Repository: https://gitlab.com/inkscape/inkscape - Draw freely. 🖌
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
 - [LinuxSuRen/remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china) - 支持远程办公的中国公司
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
