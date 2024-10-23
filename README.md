@@ -108,7 +108,7 @@
 - [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.
 - [ZhangShurong/rebucket](https://github.com/ZhangShurong/rebucket) - ReBucket – A Method for Clustering Duplicate Crash Reports based on Call Stack Similarity
 - [mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
-- [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
+- [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
 - [baidu/AnyQ](https://github.com/baidu/AnyQ) - FAQ-based Question Answering System
 - [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
 - [nmslib/hnswlib](https://github.com/nmslib/hnswlib) - Header-only C++/python library for fast approximate nearest neighbors
@@ -609,6 +609,7 @@
 
 ## Python 
 
+- [marimo-team/mkdocs-marimo](https://github.com/marimo-team/mkdocs-marimo) - mkdocs plugin for reactive and interactive docs with marimo
 - [alexmolas/ml-blogs](https://github.com/alexmolas/ml-blogs) - A public repository of personal ML/DS blogs.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 「大模型」3小时完全从0训练26M的小参数GPT，个人显卡即可推理训练！
@@ -955,7 +956,7 @@
 - [slaypni/fastdtw](https://github.com/slaypni/fastdtw) - A Python implementation of FastDTW
 - [gabfl/redis-priority-queue](https://github.com/gabfl/redis-priority-queue) - Simple Redis work queue with added features (priorities, pop multiple items at once)
 - [facebookresearch/Kats](https://github.com/facebookresearch/Kats) - Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics,
-- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The easiest way to serve AI apps and models - Build reliable Inference APIs, LLM apps, Multi-model chains, RAG service, and much more!
+- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and much more!
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python client
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [mmhs013/pyMannKendall](https://github.com/mmhs013/pyMannKendall) - A python package for non parametric Mann Kendall family of trend tests.
