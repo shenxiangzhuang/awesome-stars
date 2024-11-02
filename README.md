@@ -380,7 +380,7 @@
 - [eureka-research/Eureka](https://github.com/eureka-research/Eureka) - Official Repository for "Eureka: Human-Level Reward Design via Coding Large Language Models" (ICLR 2024)
 - [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 - [veekaybee/what_are_embeddings](https://github.com/veekaybee/what_are_embeddings) - A deep dive into embeddings starting from fundamentals
-- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [ritchie46/vanilla-machine-learning](https://github.com/ritchie46/vanilla-machine-learning) - vanilla machine learning
 - [boniolp/MSAD](https://github.com/boniolp/MSAD) - [VLDB 2023] Model Selection for Anomaly Detection in Time Series
 - [mononitogoswami/tsad-model-selection](https://github.com/mononitogoswami/tsad-model-selection) - Code for "Unsupervised Model Selection for Time-series Anomaly Detection", ICLR 2023.
@@ -748,7 +748,7 @@
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts local and web research on any topic and generates a comprehensive report with citations.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [fairlearn/fairlearn](https://github.com/fairlearn/fairlearn) - A Python package to assess and improve fairness of machine learning models.
-- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 3.1, Gemma, as OpenAI compatible API endpoint in the cloud.
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama, Gemma, as OpenAI compatible API endpoint in the cloud.
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
 - [salesforce/PyRCA](https://github.com/salesforce/PyRCA) - PyRCA: A Python Machine Learning Library for Root Cause Analysis
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Unified embedding generation and search engine. Also available on cloud - cloud.marqo.ai
@@ -848,7 +848,7 @@
 - [intel/scikit-learn-intelex](https://github.com/intel/scikit-learn-intelex) - Intel(R) Extension for Scikit-learn is a seamless way to speed up your Scikit-learn application
 - [automl/DeepCAVE](https://github.com/automl/DeepCAVE) - An interactive framework to visualize and analyze your AutoML process in real-time.
 - [ari-dasci/S-TSFE-DL](https://github.com/ari-dasci/S-TSFE-DL) - Time Series Feature Extraction using Deep Learning
-- [sintel-dev/Orion](https://github.com/sintel-dev/Orion) - A machine learning library for detecting anomalies in signals.
+- [sintel-dev/Orion](https://github.com/sintel-dev/Orion) - Library for detecting anomalies in signals
 - [weifantt/DEPTS](https://github.com/weifantt/DEPTS) - 
 - [pytorch/captum](https://github.com/pytorch/captum) - Model interpretability and understanding for PyTorch
 - [zedr/clean-code-python](https://github.com/zedr/clean-code-python) - :bathtub: Clean Code concepts adapted for Python
