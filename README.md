@@ -611,6 +611,7 @@
 
 ## Python 
 
+- [dustalov/evalica](https://github.com/dustalov/evalica) - Evalica, your favourite evaluation toolkit
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [airtai/faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
 - [marimo-team/mkdocs-marimo](https://github.com/marimo-team/mkdocs-marimo) - mkdocs plugin for reactive and interactive docs with marimo
@@ -857,7 +858,7 @@
 - [zedr/clean-code-python](https://github.com/zedr/clean-code-python) - :bathtub: Clean Code concepts adapted for Python
 - [dpressel/mint](https://github.com/dpressel/mint) - MinT: Minimal Transformer Library and Tutorials
 - [iterative/mlem](https://github.com/iterative/mlem) - 🐶 A tool to package, serve, and deploy any ML model on any platform. Archived to be resurrected one day🤞
-- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.12. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [IBM/import-tracker](https://github.com/IBM/import-tracker) - Python utility for tracking third party dependencies within a library
 - [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
@@ -1244,6 +1245,7 @@
 
 ## TypeScript 
 
+- [fmaclen/hollama](https://github.com/fmaclen/hollama) - A minimal web-UI for talking to Ollama servers
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
 - [sujjeee/shadcn-image-cropper](https://github.com/sujjeee/shadcn-image-cropper) - Image cropper built with shadcn/ui and react-image-crop
 - [zaki-yama/copy-title-and-url-as-markdown](https://github.com/zaki-yama/copy-title-and-url-as-markdown) - Chrome Extension: Quickly copy the title & url of current tab as Markdown style
