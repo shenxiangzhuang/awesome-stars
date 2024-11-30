@@ -588,7 +588,6 @@
 - [Trinkle23897/oi_slides](https://github.com/Trinkle23897/oi_slides) - 我的 OI 课件
 - [WalterInSH/risk-management-note](https://github.com/WalterInSH/risk-management-note) - 🧯风险控制笔记，适用于互联网企业
 - [ramlaxman/Python-Interview-Curriculum](https://github.com/ramlaxman/Python-Interview-Curriculum) - Answers for timely preparation of Python Interviews.
-- [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [hzwer/shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享
 - [jackwener/CS-Awesome-Courses](https://github.com/jackwener/CS-Awesome-Courses) - 计算机的优秀课程
 - [ECNUdase/Seminar-PRML](https://github.com/ECNUdase/Seminar-PRML) - 《Pattern Recognition and Machine Learning》阅读讨论班
@@ -1010,6 +1009,7 @@
 - [hudson-and-thames/mlfinlab](https://github.com/hudson-and-thames/mlfinlab) - MlFinLab helps portfolio managers and traders who want to leverage the power of machine learning by providing reproducible, interpretable, and easy to use tools.
 - [tushushu/imylu](https://github.com/tushushu/imylu) - Pure Python implementation of machine learning algorithms
 - [hanmq/MachineLearning_Zhouzhihua_ProblemSets](https://github.com/hanmq/MachineLearning_Zhouzhihua_ProblemSets) - Exercises answers to the book "machine-learning" written by Zhou Zhihua。周志华《机器学习》课后习题，个人解答。各算法都拿numpy和pandas实现了一遍
+- [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [shenxiangzhuang/toydata](https://github.com/shenxiangzhuang/toydata) - Data Structures in Python
 - [Apress/pyspark-recipes](https://github.com/Apress/pyspark-recipes) - Source code for 'PySpark Recipes' by Raju Kumar Mishra
 - [shenweichen/GraphEmbedding](https://github.com/shenweichen/GraphEmbedding) - Implementation and experiments  of graph embedding algorithms.
@@ -1248,7 +1248,7 @@
 
 ## TypeScript 
 
-- [fmaclen/hollama](https://github.com/fmaclen/hollama) - A minimal web-UI for talking to Ollama servers
+- [fmaclen/hollama](https://github.com/fmaclen/hollama) - A minimal web-UI for talking to Ollama (and OpenAI) servers
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
 - [sujjeee/shadcn-image-cropper](https://github.com/sujjeee/shadcn-image-cropper) - Image cropper built with shadcn/ui and react-image-crop
 - [zaki-yama/copy-title-and-url-as-markdown](https://github.com/zaki-yama/copy-title-and-url-as-markdown) - Chrome Extension: Quickly copy the title & url of current tab as Markdown style
