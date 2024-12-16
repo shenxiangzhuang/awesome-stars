@@ -1339,7 +1339,7 @@
 
 ## Zig 
 
-- [zml/zml](https://github.com/zml/zml) - High performance AI inference stack. Built for production. @ziglang / @openxla / MLIR / @bazelbuild
+- [zml/zml](https://github.com/zml/zml) - Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild
 
 
 ## License
