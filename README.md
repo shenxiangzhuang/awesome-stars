@@ -13,6 +13,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [Cuda](#cuda)
+- [Cython](#cython)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
@@ -25,7 +26,6 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [JetBrains MPS](#jetbrains-mps)
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
@@ -152,6 +152,10 @@
 ## Cuda 
 
 - [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
+
+## Cython 
+
+- [scipopt/PySCIPOpt](https://github.com/scipopt/PySCIPOpt) - Python interface for the SCIP Optimization Suite
 
 ## Dart 
 
@@ -353,10 +357,6 @@
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.0
 
-## JetBrains MPS 
-
-- [scipopt/PySCIPOpt](https://github.com/scipopt/PySCIPOpt) - Python interface for the SCIP Optimization Suite
-
 ## Julia 
 
 - [vollmersj/SurvivalAnalysis.jl](https://github.com/vollmersj/SurvivalAnalysis.jl) - A survival analysis interface for Julia
@@ -375,6 +375,7 @@
 - [adam-maj/deep-learning](https://github.com/adam-maj/deep-learning) - A deep-dive on the entire history of deep-learning
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 (PyPi: autogen-agentchat)
 - [facebookresearch/Pearl](https://github.com/facebookresearch/Pearl) - A Production-ready Reinforcement Learning AI Agent Library brought by the Applied Reinforcement Learning team at Meta.
 - [pytorch/tutorials](https://github.com/pytorch/tutorials) - PyTorch tutorials.
 - [eureka-research/Eureka](https://github.com/eureka-research/Eureka) - Official Repository for "Eureka: Human-Level Reward Design via Coding Large Language Models" (ICLR 2024)
@@ -676,7 +677,6 @@
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 - [patrick-kidger/jaxtyping](https://github.com/patrick-kidger/jaxtyping) - Type annotations and runtime checking for shape and dtype of JAX/NumPy/PyTorch/etc. arrays. https://docs.kidger.site/jaxtyping/
 - [allenai/OLMo](https://github.com/allenai/OLMo) - Modeling, training, eval, and inference code for OLMo
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 (PyPi: autogen-agentchat)
 - [openai/transformer-debugger](https://github.com/openai/transformer-debugger) - 
 - [mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning"
 - [HuaizhengZhang/Active-Learning-as-a-Service](https://github.com/HuaizhengZhang/Active-Learning-as-a-Service) - A scalable & efficient active learning/data selection system for everyone.
@@ -692,7 +692,7 @@
 - [huggingface/amused](https://github.com/huggingface/amused) - 
 - [tomwojcik/starlette-context](https://github.com/tomwojcik/starlette-context) - Middleware for Starlette that allows you to store and access the context data of a request. Can be used with logging so logs automatically use request headers such as x-request-id or x-correlation-id.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
-- [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - An 8 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.
+- [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - An 9 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [bswck/autorefine](https://github.com/bswck/autorefine) - Refactoring at scale.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -1305,7 +1305,7 @@
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [clnnn/chat-summarizer](https://github.com/clnnn/chat-summarizer) - 💬 Real-time chat application prototype that can summarise the entire chat log
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
-- [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
+- [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI - Build system, optimized for monorepos, with plugins for popular frameworks and tools and advanced CI capabilities including caching and distribution.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [web-infra-dev/garfish](https://github.com/web-infra-dev/garfish) - A powerful micro front-end framework 🚚
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
