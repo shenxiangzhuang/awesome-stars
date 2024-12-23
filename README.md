@@ -612,7 +612,7 @@
 
 - [shenxiangzhuang/zhplot](https://github.com/shenxiangzhuang/zhplot) - Show Chinese in Figures with one line code.
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - Agent Framework / shim to use Pydantic with LLMs
-- [rustedpy/result](https://github.com/rustedpy/result) - A simple Rust like Result type for Python 3. Fully type annotated.
+- [rustedpy/result](https://github.com/rustedpy/result) - NOT MAINTAINED - A simple Rust like Result type for Python 3. Fully type annotated.
 - [dustalov/evalica](https://github.com/dustalov/evalica) - Evalica, your favourite evaluation toolkit
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [airtai/faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
@@ -1226,6 +1226,7 @@
 
 ## TeX 
 
+- [cmhughes/latexindent.pl](https://github.com/cmhughes/latexindent.pl) - Perl script to add indentation (leading horizontal space) to LaTeX files. It can modify line breaks before, during and after code blocks; it can perform text wrapping and paragraph line break removal.
 - [st--/annotate-equations](https://github.com/st--/annotate-equations) - LaTeX package and annotated examples for annotating equations using TikZ.
 - [royal-statistical-society/datavisguide](https://github.com/royal-statistical-society/datavisguide) - Introductory guide to the art and science of data visualisation. Insights, advice, and examples (with code) to make data outputs more readable, accessible, and impactful.
 - [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
